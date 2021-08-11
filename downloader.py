@@ -1,64 +1,61 @@
-# 1) A folder for each champion e.g. Aatrox, Ahri etc
-# 2) Within that, a folder for each skin
-# 3) Then within that, a folder for each action like Champion Select, Movement, First Encounter
-# 4) Then within that, Folder for each sub one e.g. Pick and Ban for CHampion Select, Movement has First move with enemy pantheon etc
-# 5) and then within each of those the respective audio :) the title of each audio is from website
-
 import requests
 from bs4 import BeautifulSoup
 import os
+import unicodedata
+import re
 
-class Sound:
-    def __init__(self, title, sound_url):
-        self.title = title
-        self.sound_url = sound_url
+def slugify(value, allow_unicode=False):
+    """
+    Taken from https://github.com/django/django/blob/master/django/utils/text.py
+    Convert to ASCII if 'allow_unicode' is False. Convert spaces or repeated
+    dashes to single dashes. Remove characters that aren't alphanumerics,
+    underscores, or hyphens. Convert to lowercase. Also strip leading and
+    trailing whitespace, dashes, and underscores.
+    """
+    value = str(value)
+    if allow_unicode:
+        value = unicodedata.normalize('NFKC', value)
+    else:
+        value = unicodedata.normalize('NFKD', value).encode('ascii', 'ignore').decode('ascii')
+    value = re.sub(r'[^\w\s-]', '', value.lower())
+    return re.sub(r'[-\s]+', '-', value).strip('-_')
 
-class Action:
-    def __init__(self, action_title, sounds_list):
-        self.action_title = action_title
-        self.sounds_list = sounds_list
 
-aatrox_url = "https://leagueoflegends.fandom.com/wiki/Aatrox/LoL/Audio"
+def get_champion_list():
+    champion_list = []
+    champion_list_url = "https://leagueoflegends.fandom.com/wiki/List_of_champions"
+    page = requests.get(champion_list_url)
+    soup = BeautifulSoup(page.content, "html.parser")
+    table_main = soup.find(class_="article-table sticky-header sortable").find_all("tr")
+    for elem in table_main:
+        try:
+            champion_url = elem.find_all("a")[1]['href']
+            champion_list.append(champion_url)
+        except:
+            print("No champion in this one")
+    print(champion_list[1:])
+    return champion_list[1:]
 
-page = requests.get(aatrox_url)
+def download_sound_for_champion(champion_name):
+    main_path = os.path.join(os.getcwd(), str(champion_name).split("/")[2])
+    os.mkdir(main_path)
+    champion_url = "https://leagueoflegends.fandom.com" + champion_name + "/Audio"
 
-soup = BeautifulSoup(page.content, "html.parser")
+    page = requests.get(champion_url)
 
-voice_div = soup.find(class_="mw-parser-output")
+    soup = BeautifulSoup(page.content, "html.parser")
 
-# main_headlines = voice_div.find_all("h2") # So that we only get the main headlines for 3)
+    all_audio_elements = soup.find_all("audio")
 
-# for headline in main_headlines:
-#     print(headline.text) # this has all the main headlines for 3) but also has the ones for 4) :( also doesn't have pick ban titles)
+    for audio_element in all_audio_elements:
+        try:
+            audio_url = audio_element.find("source")['src']
+            audio_name_list = str(audio_url).split("/")
+            print(audio_name_list[7])
+            audio_request = requests.get(audio_url)
+            open(os.path.join(main_path, slugify(str(audio_name_list[7]) + '.mp3')), 'wb').write(audio_request.content)
+        except Exception as e:
+            print("Bad", e)
 
-action_list = []
-sound_list = []
-current_path = os.getcwd()
-current_inner_path = os.getcwd()
-current_inner_inner_path = os.getcwd()
-
-for attribute in voice_div.find_all(recursive=False):
-    if (attribute.name == "h2"):
-        current_path = os.path.join(os.getcwd(), attribute.text)
-        current_inner_path = os.path.join(current_path)
-        # print("1Path is now:", current_path)
-        os.mkdir(current_path)
-    elif (attribute.name == "h3"):
-        current_inner_path = os.path.join(current_path, attribute.text)
-        current_inner_inner_path = os.path.join(current_inner_path)
-        # print("2Path is now:", current_inner_inner_path)
-        os.mkdir(current_inner_inner_path)
-    elif (attribute.name == "dl"):
-        current_inner_inner_path = os.path.join(current_inner_path, attribute.text)
-        # print("3Path is now:", current_inner_inner_path)
-        os.mkdir(current_inner_inner_path)
-    elif (attribute.name == "ul"):
-        i = 0
-        for voice_attribute in (attribute.find_all("li")):
-            sound_url = voice_attribute.find("audio").find("source")['src']
-            # print("Found voice:",voice_attribute.text, "with url", sound_url)
-            sound_request = requests.get(sound_url)
-            complete_save_path = os.path.join(current_inner_inner_path, str(voice_attribute.text) + '.mp3')
-            i += 1
-            open(complete_save_path, 'wb').write(sound_request.content)
-            # print("Path to save it is:",complete_save_path)
+for champion_url in get_champion_list():
+    download_sound_for_champion(champion_url)
