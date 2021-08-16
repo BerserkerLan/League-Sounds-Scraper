@@ -129,7 +129,7 @@ def get_champion_data_for_champion_url(champion_url):
     image_url = soup.find(class_="mw-parser-output").find("img")['src']
 
     print("Done Champion: {}".format(champion_url))
-    return Champion(champion_url, section_list, champion_url_for_image)
+    return Champion(champion_url, section_list, image_url)
 
     # all_audio_elements = soup.find_all("audio")
 
