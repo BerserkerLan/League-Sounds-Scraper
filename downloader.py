@@ -10,9 +10,10 @@ class ChampionRootList:
     def to_json(self):
         return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=5)
 class Champion:
-    def __init__(self, champion_name, section_list) -> None:
+    def __init__(self, champion_name, section_list, champion_image_url) -> None:
         self.champion_name = champion_name
         self.section_list = section_list
+        self.image_url = champion_image_url
     def __str__(self) -> str:
         return "Champion Name: {}, List Of Sections: {}".format(self.champion_name, self.section_list)
     def to_json(self):
@@ -121,8 +122,14 @@ def get_champion_data_for_champion_url(champion_url):
                     else:
                         section.subsection_list[-1].append_to_audio(Audio(audio_name, audio_url))
 
+    #Now to get the champion cover image URL
+    champion_url_for_image = "https://leagueoflegends.fandom.com/wiki/Category:{}".format(str(champion_url).split("/")[4])
+    page = requests.get(champion_url_for_image)
+    soup = BeautifulSoup(page.content, "html.parser")
+    image_url = soup.find(class_="mw-parser-output").find("img")['src']
+
     print("Done Champion: {}".format(champion_url))
-    return Champion(champion_url, section_list)
+    return Champion(champion_url, section_list, champion_url_for_image)
 
     # all_audio_elements = soup.find_all("audio")
 
