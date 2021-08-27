@@ -98,12 +98,14 @@ def get_champion_data_for_champion_url(champion_url):
 
     main_div = soup.find(class_="mw-parser-output")
 
+    # tabber = soup.find(class_="tabber wds-tabber")
+
     section_list = []
     section = None
     if (main_div is None):
         print("Main div is none for Champion {} so cannot create the json".format(champion_url))
         return None
-    for element in main_div.findAll(recursive=False):
+    for element in main_div.findAll(recursive=True):
         if (element.name == 'h2'):
             if (not(section == None)):
                 section_list.append(section)
@@ -131,6 +133,12 @@ def get_champion_data_for_champion_url(champion_url):
     print("Done Champion: {}".format(champion_url))
     return Champion(champion_url, section_list, image_url)
 
+    #mw-content-text > div.mw-parser-output > div.tabber.wds-tabber > div.wds-tab__content.wds-is-current > ul:nth-child(5) > li:nth-child(1) > i
+
+    #mw-content-text > div.mw-parser-output > div.tabber.wds-tabber > div:nth-child(3) > ul:nth-child(5) > li:nth-child(1) > i
+
+    #mw-content-text > div.mw-parser-output > ul:nth-child(4) > li > i
+
     # all_audio_elements = soup.find_all("audio")
 
     # for audio_element in all_audio_elements:
@@ -147,6 +155,8 @@ champion_list = []
 
 for champion_url in get_champion_list():
     champion_list.append(get_champion_data_for_champion_url(champion_url))
+
+# champion_list.append(get_champion_data_for_champion_url("/wiki/Lee_Sin/LoL"))
 
 champion_root_list = ChampionRootList(champion_list)
 
