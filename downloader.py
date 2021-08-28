@@ -140,6 +140,7 @@ def get_champion_data_for_champion_url(champion_url):
         name_for_image = "Nunu & Willump"
     try:
         image_url = soup.find(title=name_for_image).find("img")['data-src']
+        image_url = image_url[0:image_url.index("latest") + 6]
     except:
         import pdb; pdb.set_trace()
     print("Done Champion: {}".format(champion_url))
