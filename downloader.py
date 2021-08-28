@@ -125,11 +125,23 @@ def get_champion_data_for_champion_url(champion_url):
                         section.subsection_list[-1].append_to_audio(Audio(audio_name, audio_url))
 
     #Now to get the champion cover image URL
-    champion_url_for_image = "https://leagueoflegends.fandom.com/wiki/Category:{}".format(str(champion_url).split("/")[4])
-    page = requests.get(champion_url_for_image)
-    soup = BeautifulSoup(page.content, "html.parser")
-    image_url = soup.find(class_="mw-parser-output").find("img")['src']
+    # champion_url_for_image = "https://leagueoflegends.fandom.com/wiki/Category:{}".format(str(champion_url).split("/")[4])
+    # page = requests.get(champion_url_for_image)
+    # soup = BeautifulSoup(page.content, "html.parser")
+    # image_url = soup.find(class_="mw-parser-output").find("img")['src']
 
+    #/html/body/div[4]/div[3]/div[5]/main/div[3]/div[2]/div[1]/table[2]
+
+    all_champions_page = "https://leagueoflegends.fandom.com/wiki/List_of_champions"
+    page = requests.get(all_champions_page)
+    soup = BeautifulSoup(page.content, "html.parser")
+    name_for_image = str(champion_url).split("/")[4].replace("_"," ").replace("%27","'")
+    if (name_for_image == "Nunu"): 
+        name_for_image = "Nunu & Willump"
+    try:
+        image_url = soup.find(title=name_for_image).find("img")['data-src']
+    except:
+        import pdb; pdb.set_trace()
     print("Done Champion: {}".format(champion_url))
     return Champion(champion_url, section_list, image_url)
 
