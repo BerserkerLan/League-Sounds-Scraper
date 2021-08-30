@@ -102,6 +102,7 @@ def get_champion_list():
 def get_champion_data_for_champion_url(champion_url):
     # main_path = os.path.join(os.getcwd(), str(champion_url).split("/")[2])
     # os.mkdir(main_path)
+    champion_name = champion_url.split("/")[2].split("_")
     champion_url = "https://leagueoflegends.fandom.com" + champion_url + "/Audio"
 
     page = requests.get(champion_url)
@@ -109,8 +110,6 @@ def get_champion_data_for_champion_url(champion_url):
     soup = BeautifulSoup(page.content, "html.parser")
 
     main_div = soup.find(class_="mw-parser-output")
-
-    # tabber = soup.find(class_="tabber wds-tabber")
 
     section_list = []
     skin_names = []
@@ -133,12 +132,14 @@ def get_champion_data_for_champion_url(champion_url):
                 audio_name = str(audio_url).split("/")[7]
                 audio_name_dess = audio_name.split("_")
                 print("Audio Name dess:", audio_name_dess)
-                if len(audio_name_dess) == 3:
-                    skin_name = audio_name_dess[0] + "_" + audio_name_dess[1] + "_" +  audio_name_dess[2]
-                elif len(audio_name_dess) == 2:
-                    skin_name = audio_name_dess[0] + "_" + audio_name_dess[1]
+                if not(champion_name in audio_name):
+                    skin_temp_arr = audio_name.split(".") #Beacuse it can be like TrueDamage.SpawnMusic.ogg
+                    skin_name = skin_temp_arr[0] + "_" + skin_temp_arr[1]
                 else:
-                    skin_name = audio_name_dess[0]
+                    if len(champion_name) == 2:
+                        skin_name = audio_name_dess[0] + "_" + audio_name_dess[1] + "_" +  audio_name_dess[2]
+                    elif len(champion_name) == 1:
+                        skin_name = audio_name_dess[0] + "_" + audio_name_dess[1]
                 if skin_name not in skin_names:
                     skin_names.append(skin_name)
                 if (not(section == None)):
