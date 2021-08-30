@@ -10,10 +10,22 @@ class ChampionRootList:
     def to_json(self):
         return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=5)
 class Champion:
-    def __init__(self, champion_name, section_list, champion_image_url) -> None:
+    def __init__(self, skin_list) -> None:
+        self.skin_list = skin_list
+
+    def __str__(self) -> str:
+        return "Champion Name: {}, List Of Sections: {}".format(self.champion_name, self.section_list)
+    def to_json(self):
+        return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=5)
+
+class Skin:
+    def __init__(self, champion_name) -> None:
         self.champion_name = champion_name
-        self.section_list = section_list
-        self.image_url = champion_image_url
+        self.audio_list = []
+        self.champion_image_url = ""
+    
+    def add_to_audio_list(self, audio):
+        self.audio_list.append(audio)
     def __str__(self) -> str:
         return "Champion Name: {}, List Of Sections: {}".format(self.champion_name, self.section_list)
     def to_json(self):
@@ -101,6 +113,7 @@ def get_champion_data_for_champion_url(champion_url):
     # tabber = soup.find(class_="tabber wds-tabber")
 
     section_list = []
+    skin_names = []
     section = None
     if (main_div is None):
         print("Main div is none for Champion {} so cannot create the json".format(champion_url))
@@ -118,11 +131,35 @@ def get_champion_data_for_champion_url(champion_url):
             for audio_element in audio_elements:
                 audio_url = audio_element.find("source")['src']
                 audio_name = str(audio_url).split("/")[7]
+                audio_name_dess = audio_name.split("_")
+                print("Audio Name dess:", audio_name_dess)
+                if len(audio_name_dess) == 3:
+                    skin_name = audio_name_dess[0] + "_" + audio_name_dess[1] + "_" +  audio_name_dess[2]
+                elif len(audio_name_dess) == 2:
+                    skin_name = audio_name_dess[0] + "_" + audio_name_dess[1]
+                else:
+                    skin_name = audio_name_dess[0]
+                if skin_name not in skin_names:
+                    skin_names.append(skin_name)
                 if (not(section == None)):
                     if (not (section.subsection_list)):
                         section.append_to_audio(Audio(audio_name, audio_url))
                     else:
                         section.subsection_list[-1].append_to_audio(Audio(audio_name, audio_url))
+
+    skins_list = []
+
+    for skin_name in skin_names:
+        skin = Skin(skin_name)
+        for section in section_list:
+            for audio in section.audio_list:
+                if skin_name in audio.audio_name:
+                    skin.add_to_audio_list(audio)
+            for subsection in section.subsection_list:
+                for audio_sub in subsection.audio_list:
+                    if skin_name in audio_sub.audio_name:
+                        skin.add_to_audio_list(audio_sub)
+        skins_list.append(skin)
 
     #Now to get the champion cover image URL
     # champion_url_for_image = "https://leagueoflegends.fandom.com/wiki/Category:{}".format(str(champion_url).split("/")[4])
@@ -144,7 +181,7 @@ def get_champion_data_for_champion_url(champion_url):
     except:
         import pdb; pdb.set_trace()
     print("Done Champion: {}".format(champion_url))
-    return Champion(champion_url, section_list, image_url)
+    return Champion(skins_list)
 
     #mw-content-text > div.mw-parser-output > div.tabber.wds-tabber > div.wds-tab__content.wds-is-current > ul:nth-child(5) > li:nth-child(1) > i
 
@@ -170,6 +207,7 @@ for champion_url in get_champion_list():
     champion_list.append(get_champion_data_for_champion_url(champion_url))
 
 # champion_list.append(get_champion_data_for_champion_url("/wiki/Lee_Sin/LoL"))
+
 
 champion_root_list = ChampionRootList(champion_list)
 
