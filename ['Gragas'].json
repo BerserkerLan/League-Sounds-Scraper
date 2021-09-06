@@ -1,0 +1,1584 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Gragas_Select.ogg/revision/latest?cb=20200711203706"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/Gragas_Ban.ogg/revision/latest?cb=20200809195245"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Ban"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Gragas_ArcticOps_Attack_0.ogg/revision/latest?cb=20201219183002"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Gragas_ArcticOps_Attack_1.ogg/revision/latest?cb=20201219183003"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Gragas_ArcticOps_Attack_2.ogg/revision/latest?cb=20201219183005"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Gragas_ArcticOps_Attack_3.ogg/revision/latest?cb=20201219183007"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Gragas_ArcticOps_Attack_4.ogg/revision/latest?cb=20201219183008"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Gragas_ArcticOps_Attack_5.ogg/revision/latest?cb=20201219183009"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Attack_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Gragas_ArcticOps_Attack_6.ogg/revision/latest?cb=20201219183010"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_BasicAttack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6a/Gragas_ArcticOps_BasicAttack_0.ogg/revision/latest?cb=20201219183012"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_BasicAttack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Gragas_ArcticOps_BasicAttack_1.ogg/revision/latest?cb=20201219183013"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_BasicAttack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/45/Gragas_ArcticOps_BasicAttack_2.ogg/revision/latest?cb=20201219183014"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_BasicAttack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Gragas_ArcticOps_BasicAttack_3.ogg/revision/latest?cb=20201219183016"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Death_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Gragas_ArcticOps_Death_0.ogg/revision/latest?cb=20201219183017"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Gragas_ArcticOps_Death_1.ogg/revision/latest?cb=20201219183019"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Gragas_ArcticOps_Death_2.ogg/revision/latest?cb=20201219183020"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Gragas_ArcticOps_Death_3.ogg/revision/latest?cb=20201219183021"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_E_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Gragas_ArcticOps_E_0.ogg/revision/latest?cb=20201219183022"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_E_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Gragas_ArcticOps_E_1.ogg/revision/latest?cb=20201219183024"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_E_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Gragas_ArcticOps_E_2.ogg/revision/latest?cb=20201219183025"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_E_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Gragas_ArcticOps_E_3.ogg/revision/latest?cb=20201219183026"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_E_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Gragas_ArcticOps_E_4.ogg/revision/latest?cb=20201219183028"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_E_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Gragas_ArcticOps_E_5.ogg/revision/latest?cb=20201219183029"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Gragas_ArcticOps_Joke.ogg/revision/latest?cb=20201219183031"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Laugh_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/Gragas_ArcticOps_Laugh_0.ogg/revision/latest?cb=20201219183032"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Laugh_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Gragas_ArcticOps_Laugh_1.ogg/revision/latest?cb=20201219183033"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Laugh_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Gragas_ArcticOps_Laugh_2.ogg/revision/latest?cb=20201219183035"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Laugh_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Gragas_ArcticOps_Laugh_3.ogg/revision/latest?cb=20201219183036"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Gragas_ArcticOps_Move_0.ogg/revision/latest?cb=20201219183037"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Gragas_ArcticOps_Move_1.ogg/revision/latest?cb=20201219183039"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Gragas_ArcticOps_Move_2.ogg/revision/latest?cb=20201219183040"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Gragas_ArcticOps_Move_3.ogg/revision/latest?cb=20201219183041"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1d/Gragas_ArcticOps_Move_4.ogg/revision/latest?cb=20201219183043"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Gragas_ArcticOps_Move_5.ogg/revision/latest?cb=20201219183044"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Gragas_ArcticOps_Move_6.ogg/revision/latest?cb=20201219183045"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Q_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Gragas_ArcticOps_Q_0.ogg/revision/latest?cb=20201219183046"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Q_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Gragas_ArcticOps_Q_1.ogg/revision/latest?cb=20201219183048"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Q_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Gragas_ArcticOps_Q_2.ogg/revision/latest?cb=20201219183049"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Q_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Gragas_ArcticOps_Q_3.ogg/revision/latest?cb=20201219183050"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_R_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Gragas_ArcticOps_R_0.ogg/revision/latest?cb=20201219183051"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_R_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Gragas_ArcticOps_R_1.ogg/revision/latest?cb=20201219183053"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_R_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Gragas_ArcticOps_R_2.ogg/revision/latest?cb=20201219183054"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_R_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Gragas_ArcticOps_R_3.ogg/revision/latest?cb=20201219183055"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_R_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Gragas_ArcticOps_R_4.ogg/revision/latest?cb=20201219183056"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_R_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Gragas_ArcticOps_R_5.ogg/revision/latest?cb=20201219183057"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Gragas_ArcticOps_Taunt.ogg/revision/latest?cb=20201219183059"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_W_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/Gragas_ArcticOps_W_0.ogg/revision/latest?cb=20201219183100"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_W_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Gragas_ArcticOps_W_1.ogg/revision/latest?cb=20201219183101"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_ArcticOps_W_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Gragas_ArcticOps_W_2.ogg/revision/latest?cb=20201219183103"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_ArcticOps"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Gragas_Original_Attack_0.ogg/revision/latest?cb=20201219183104"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/99/Gragas_Original_Attack_1.ogg/revision/latest?cb=20201219183106"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Gragas_Original_Attack_2.ogg/revision/latest?cb=20201219183107"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Gragas_Original_Attack_3.ogg/revision/latest?cb=20201219183108"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Gragas_Original_Attack_4.ogg/revision/latest?cb=20201219183109"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Gragas_Original_Attack_5.ogg/revision/latest?cb=20201219183111"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Attack_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Gragas_Original_Attack_6.ogg/revision/latest?cb=20201219183112"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_BasicAttack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Gragas_Original_BasicAttack_0.ogg/revision/latest?cb=20201219183113"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_BasicAttack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Gragas_Original_BasicAttack_1.ogg/revision/latest?cb=20201219183115"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_BasicAttack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Gragas_Original_BasicAttack_2.ogg/revision/latest?cb=20201219183116"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_BasicAttack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Gragas_Original_BasicAttack_3.ogg/revision/latest?cb=20201219183117"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Death_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Gragas_Original_Death_0.ogg/revision/latest?cb=20201219183119"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Gragas_Original_Death_1.ogg/revision/latest?cb=20201219183120"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Gragas_Original_Death_2.ogg/revision/latest?cb=20201219183121"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Gragas_Original_Death_3.ogg/revision/latest?cb=20201219183122"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_E_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Gragas_Original_E_0.ogg/revision/latest?cb=20201219183124"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_E_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Gragas_Original_E_1.ogg/revision/latest?cb=20201219183126"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_E_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Gragas_Original_E_2.ogg/revision/latest?cb=20201219183128"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_E_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Gragas_Original_E_3.ogg/revision/latest?cb=20201219183129"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_E_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Gragas_Original_E_4.ogg/revision/latest?cb=20201219183131"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_E_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Gragas_Original_E_5.ogg/revision/latest?cb=20201219183132"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Gragas_Original_Joke.ogg/revision/latest?cb=20201219183133"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Laugh_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Gragas_Original_Laugh_0.ogg/revision/latest?cb=20201219183134"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Laugh_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Gragas_Original_Laugh_1.ogg/revision/latest?cb=20201219183136"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Laugh_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Gragas_Original_Laugh_2.ogg/revision/latest?cb=20201219183137"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Laugh_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Gragas_Original_Laugh_3.ogg/revision/latest?cb=20201219183138"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Gragas_Original_Move_0.ogg/revision/latest?cb=20201219183139"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Gragas_Original_Move_1.ogg/revision/latest?cb=20201219183141"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Gragas_Original_Move_2.ogg/revision/latest?cb=20201219183142"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Gragas_Original_Move_3.ogg/revision/latest?cb=20201219183143"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Gragas_Original_Move_4.ogg/revision/latest?cb=20201219183144"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Gragas_Original_Move_5.ogg/revision/latest?cb=20201219183146"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Gragas_Original_Move_6.ogg/revision/latest?cb=20201219183147"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Q_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Gragas_Original_Q_0.ogg/revision/latest?cb=20201219183148"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Q_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Gragas_Original_Q_1.ogg/revision/latest?cb=20201219183150"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Q_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Gragas_Original_Q_2.ogg/revision/latest?cb=20201219183151"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Q_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Gragas_Original_Q_3.ogg/revision/latest?cb=20201219183152"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_R_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Gragas_Original_R_0.ogg/revision/latest?cb=20201219183153"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_R_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Gragas_Original_R_1.ogg/revision/latest?cb=20201219183155"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_R_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Gragas_Original_R_2.ogg/revision/latest?cb=20201219183156"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_R_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Gragas_Original_R_3.ogg/revision/latest?cb=20201219183157"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_R_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Gragas_Original_R_4.ogg/revision/latest?cb=20201219183159"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_R_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Gragas_Original_R_5.ogg/revision/latest?cb=20201219183200"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Gragas_Original_Taunt.ogg/revision/latest?cb=20201219183201"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_WSelf_Activate_SFX_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Gragas_Original_WSelf_Activate_SFX_0.ogg/revision/latest?cb=20201219183219"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_WSelf_Activate_SFX_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Gragas_Original_WSelf_Activate_SFX_1.ogg/revision/latest?cb=20201219183220"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_WSelf_Activate_SFX_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Gragas_Original_WSelf_Activate_SFX_2.ogg/revision/latest?cb=20201219183221"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_WSelf_Activate_SFX_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Gragas_Original_WSelf_Activate_SFX_3.ogg/revision/latest?cb=20201219183222"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_W_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Gragas_Original_W_0.ogg/revision/latest?cb=20201219183203"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_W_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Gragas_Original_W_1.ogg/revision/latest?cb=20201219183204"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_W_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Gragas_Original_W_2.ogg/revision/latest?cb=20201219183205"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_W_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Gragas_Original_W_3.ogg/revision/latest?cb=20201219183207"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_W_Loop_SFX_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Gragas_Original_W_Loop_SFX_0.ogg/revision/latest?cb=20201219183208"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_W_Loop_SFX_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Gragas_Original_W_Loop_SFX_1.ogg/revision/latest?cb=20201219183209"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_W_Loop_SFX_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Gragas_Original_W_Loop_SFX_2.ogg/revision/latest?cb=20201219183211"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_W_Loop_SFX_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Gragas_Original_W_Loop_SFX_3.ogg/revision/latest?cb=20201219183212"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_W_SFX_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Gragas_Original_W_SFX_0.ogg/revision/latest?cb=20201219183214"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_W_SFX_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Gragas_Original_W_SFX_1.ogg/revision/latest?cb=20201219183215"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_W_SFX_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Gragas_Original_W_SFX_2.ogg/revision/latest?cb=20201219183216"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Original_W_SFX_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Gragas_Original_W_SFX_3.ogg/revision/latest?cb=20201219183217"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Gragas_Warden_Attack_0.ogg/revision/latest?cb=20201219183224"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Gragas_Warden_Attack_1.ogg/revision/latest?cb=20201219183226"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Gragas_Warden_Attack_2.ogg/revision/latest?cb=20201219183228"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Gragas_Warden_Attack_3.ogg/revision/latest?cb=20201219183229"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Gragas_Warden_Attack_4.ogg/revision/latest?cb=20201219183231"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Gragas_Warden_Attack_5.ogg/revision/latest?cb=20201219183232"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Attack_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Gragas_Warden_Attack_6.ogg/revision/latest?cb=20201219183233"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_BasicAttack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Gragas_Warden_BasicAttack_0.ogg/revision/latest?cb=20201219183234"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_BasicAttack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Gragas_Warden_BasicAttack_1.ogg/revision/latest?cb=20201219183236"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_BasicAttack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Gragas_Warden_BasicAttack_2.ogg/revision/latest?cb=20201219183237"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_BasicAttack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Gragas_Warden_BasicAttack_3.ogg/revision/latest?cb=20201219183238"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Death_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Gragas_Warden_Death_0.ogg/revision/latest?cb=20201219183240"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Gragas_Warden_Death_1.ogg/revision/latest?cb=20201219183242"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Gragas_Warden_Death_2.ogg/revision/latest?cb=20201219183243"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Gragas_Warden_Death_3.ogg/revision/latest?cb=20201219183244"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_E_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Gragas_Warden_E_0.ogg/revision/latest?cb=20201219183246"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_E_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Gragas_Warden_E_1.ogg/revision/latest?cb=20201219183247"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_E_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Gragas_Warden_E_2.ogg/revision/latest?cb=20201219183248"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_E_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Gragas_Warden_E_3.ogg/revision/latest?cb=20201219183249"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_E_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Gragas_Warden_E_4.ogg/revision/latest?cb=20201219183251"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_E_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Gragas_Warden_E_5.ogg/revision/latest?cb=20201219183252"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Gragas_Warden_Joke.ogg/revision/latest?cb=20201219183254"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Laugh_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Gragas_Warden_Laugh_0.ogg/revision/latest?cb=20201219183256"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Laugh_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Gragas_Warden_Laugh_1.ogg/revision/latest?cb=20201219183257"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Laugh_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Gragas_Warden_Laugh_2.ogg/revision/latest?cb=20201219183258"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Laugh_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Gragas_Warden_Laugh_3.ogg/revision/latest?cb=20201219183259"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Gragas_Warden_Move_0.ogg/revision/latest?cb=20201219183301"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Gragas_Warden_Move_1.ogg/revision/latest?cb=20201219183302"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Gragas_Warden_Move_2.ogg/revision/latest?cb=20201219183303"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Gragas_Warden_Move_3.ogg/revision/latest?cb=20201219183305"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Gragas_Warden_Move_4.ogg/revision/latest?cb=20201219183306"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Gragas_Warden_Move_5.ogg/revision/latest?cb=20201219183307"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Gragas_Warden_Move_6.ogg/revision/latest?cb=20201219183309"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Q_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Gragas_Warden_Q_0.ogg/revision/latest?cb=20201219183310"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Q_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Gragas_Warden_Q_1.ogg/revision/latest?cb=20201219183312"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Q_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Gragas_Warden_Q_2.ogg/revision/latest?cb=20201219183313"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Q_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Gragas_Warden_Q_3.ogg/revision/latest?cb=20201219183314"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_R_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Gragas_Warden_R_0.ogg/revision/latest?cb=20201219183315"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_R_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Gragas_Warden_R_1.ogg/revision/latest?cb=20201219183316"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_R_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Gragas_Warden_R_2.ogg/revision/latest?cb=20201219183318"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_R_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/db/Gragas_Warden_R_3.ogg/revision/latest?cb=20201219183319"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_R_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Gragas_Warden_R_4.ogg/revision/latest?cb=20201219183320"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_R_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Gragas_Warden_R_5.ogg/revision/latest?cb=20201219183321"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/Gragas_Warden_Taunt.ogg/revision/latest?cb=20201219183323"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_W_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Gragas_Warden_W_0.ogg/revision/latest?cb=20201219183324"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_W_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Gragas_Warden_W_1.ogg/revision/latest?cb=20201219183325"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_W_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Gragas_Warden_W_2.ogg/revision/latest?cb=20201219183327"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Warden_W_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Gragas_Warden_W_3.ogg/revision/latest?cb=20201219183328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Warden"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gragas_Oktoberfest_Recall.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Gragas_Oktoberfest_Recall.ogg/revision/latest?cb=20160830165231"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gragas_Oktoberfest"
+          }
+     ]
+}

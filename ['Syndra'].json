@@ -1,0 +1,184 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Syndra_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Syndra_Select.ogg/revision/latest?cb=20200709160314"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Syndra_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Syndra_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Syndra_Ban.ogg/revision/latest?cb=20200810155334"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Syndra_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "StarGuardian_2017"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_move8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_move9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_taunt1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_taunt2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_joke1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_attack7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_MaxQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_MaxQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_MaxW1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_MaxW2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_MaxE1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Syndra_MaxE2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "StarGuardian_2017"
+          }
+     ]
+}

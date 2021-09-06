@@ -1,0 +1,1774 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Sion_Select_new.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Sion_Select_new.ogg/revision/latest?cb=20200709160532"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Sion_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Sion_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Sion_Ban.ogg/revision/latest?cb=20200810154715"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Sion_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_taunt05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_taunt06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntGalio01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntGalio02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntGalio03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntGalio04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntJarvan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntJarvan02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntJarvan03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntJarvan04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntKarthus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntPantheon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntSwain01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntSwain02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_tauntSwain03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_joke05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_jokeJarvan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_jokeJarvan02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_jokeJarvan03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_jokeUrgot01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_jokeUrgot02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attack27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attackInnate01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attackInnate02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attackInnate03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attackInnate04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attackInnate05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attackInnate06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attackInnate07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_attackInnate08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_Q1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_Q2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_Q3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_Q4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_Q9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_Q10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_Q11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_Q5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_Q6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_Q7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_Q8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_W1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_W4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_W5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_W6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_W7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_W8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_W9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_W2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_W3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_E1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_E2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_E3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_E4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_E5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_E6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_E7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_E8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_R4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_R5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_R6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_R7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_R8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_R9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_R10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_item01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_item02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_item03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_item04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_item05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_item06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_item07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_item08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemBanshees01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemBlackCleaver01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemBlackCleaver02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemBotRK01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemBloodthirster01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemBloodthirster02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemBoots01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemBoots02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemBoots03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemBoots04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemFrozenHeart01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemFrozenHeart02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemFrozenHeart03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemFrozenMallet01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemIcebornGauntlet01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemIcebornGauntlet02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemInfinityEdge01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemMaw01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemRanduins01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemRanduins02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemRanduins03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemSunfireCape01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemSunfireCape02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemSunfireCape03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemThornmail01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemWarmogs01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemWarmogs02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemWarmogs03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_itemWarmogs04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_recall04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_fountain01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_fountain02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_moveInnate01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_moveInnate02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_moveInnate03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_moveInnate04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_moveInnate05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_moveInnate06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_moveInnate07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_moveInnate08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_moveInnate09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_moveInnate10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_unknown01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_unknown02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sion_unknown03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_start04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_move35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntMecha01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntMecha02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntMecha03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntMecha04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntMecha05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntPROJECT01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntPROJECT02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntPROJECT03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntHuman01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntHuman02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntHuman03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntHuman04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntHuman05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntHuman06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntHuman07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntHuman08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntHuman09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntHuman10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntAlistar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntBard01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntBlitzcrank01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntBlitzcrank02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntBlitzcrank03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntDunkmasterDarius01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntFiora01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntHeimerdinger01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntIllaoi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntJax01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntJinx01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntMechaZeroSion01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntPoppy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntPoppy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntRenekton01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntUrgot01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntViktor01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_tauntViktor02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_joke05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_laugh05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_laugh06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_laugh07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_laugh08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellI1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellI2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellI3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellI4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellI5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellQ3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellQ4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellR1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellR2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellR3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellR4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellR5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellR6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellR7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellW1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellW2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellW3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_spellW4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_joke06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_item01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_item02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_item03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_item04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_item05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_item06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_itemTrinityForce01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_itemMercurysTreads01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_itemDeadMansPlate01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_itemDeadMansPlate02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_itemDeadMansPlate03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_itemRighteousGlory01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_itemRighteousGlory02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_itemRighteousGlory03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_itemRighteousGlory04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_recall04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SionMechaZero_joke01"
+          }
+     ]
+}

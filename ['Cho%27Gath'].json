@@ -1,0 +1,704 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Cho%27Gath_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Cho%27Gath_Select.ogg/revision/latest?cb=20200711194255"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Cho%27Gath_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Cho%27Gath_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Cho%27Gath_Ban.ogg/revision/latest?cb=20200809184542"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Cho%27Gath_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_joke3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_joke3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Greenterror_attack7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ChoGathDarkStar_attack7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_taunt1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_joke1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_attack7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_spellcasteffort4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_spellcasteffort3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_spellcasteffort1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_spellcasteffort2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_spellcasteffort21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_spellcasteffort22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_ultimateeffort1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_ultimateeffort2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Dandychogath_dying3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_gamestart1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_gamestart2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_gamestart3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_move8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_move9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_taunt1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_taunt2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_joke1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_dance1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_attack7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_attack8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_attack9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_W1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_W2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_W3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_E1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_E2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_E3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_ult1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_ult2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_ult3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_ult4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_feaststack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_feaststack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_feaststack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_feaststack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_feaststack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_feaststack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_feastmax1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_feastmax2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_feastmax3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_levelup6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_levelup11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_levelup15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_levelup18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_recall1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_recall2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_recall3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_revive1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_revive2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_revive3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_revive4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_revive5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_revive6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "BattleCastChogath_revive7"
+          }
+     ]
+}

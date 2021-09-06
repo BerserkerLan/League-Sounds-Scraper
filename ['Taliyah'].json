@@ -1,0 +1,1514 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Taliyah_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Taliyah_Select.ogg/revision/latest?cb=20200709161455"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Taliyah_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8b/Taliyah_Ban.ogg/revision/latest?cb=20200810155609"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_startSummonersRift01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_startSummonersRift02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_startSummonersRift03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_startSummonersRift04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_startHowlingAbyss01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_move37"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_moveEnemyBase01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_moveIdle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_taunt05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAquatic01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntIonian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntIonian02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntIonian03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntIonian04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntJhin01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntJhin02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntYasuo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntYasuo02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntYasuo03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntYasuo04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntNoxian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntNoxian02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntNoxian03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntNoxian04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntNoxian05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntNoxian06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntCassiopeia01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntCassiopeia02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntCassiopeia03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntCassiopeia04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntVoidborn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntVoidborn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntVoidborn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntVoidborn04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntChoGath01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntKassadin01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntKassadin02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntMalzahar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntMalzahar02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntRekSai01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntRekSai02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntVelKoz01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntVelKoz02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntVelKoz03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAmumu01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_tauntAnivia01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_tauntAnivia02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAnnie01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_tauntAshe01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_tauntAshe02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAurelionSol01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAzir01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAzir02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAzir03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAzir04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAzir05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAzir06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAzir07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAzir08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntAzir09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_tauntBraum01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_tauntBraum02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntEkko01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntFiddlesticks01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntIllaoi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntKindred01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_tauntLissandra01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_tauntLissandra02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntMalphite01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntMalphite02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntMalphite03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntNasus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntNasus02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntNasus03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntNasus04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntRammus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntRammus02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntRenekton01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntRenekton02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntRenekton03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntRyze01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_tauntSejuani01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_tauntSejuani02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntSivir01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntSivir02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntSivir03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntSkarner01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntSkarner02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntSkarner03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntTaric01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntWarwick01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntWarwick02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tauntXerath01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_interactionJokeAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_interactionJokeEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack37"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack38"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack39"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack40"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attack41"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attackRiver01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attackJungle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_interactionEnemyEscape01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attackBaron01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attackBaron02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attackDragon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_attackDragon02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellQ3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellQ4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellQ5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellW1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellW2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellW3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellW4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellW5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellW6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellW7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellE1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellE2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellE3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellE4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellE5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellE6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellR1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellR2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellR3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellR4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellR5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellR6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellR7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellR8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellR9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellR10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellR11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spellR12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_firstBloodAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_firstBloodEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_spreeKillingSpree01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_pentakill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tower01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_tower02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_shopClose01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_item01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_item02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_item03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_item04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_item05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_item06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_item07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_item08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemAbyssalMask01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemAncientCoin01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemArchangelsStaff01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemBootsBasic01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemCatalystOfAeons01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemEyeOfTheOasis01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemBansheesVeil01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemGiantsBelt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemHextechProtobelt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemBootsLucidity01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemLichBane01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemLudensEcho01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemMejaisSoulstealer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemMorellonomicon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemBansheesVeil02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemRabadonsDeathcap01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemRabadonsDeathcap02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemRodOfAges01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemRylaisCrystalScepter01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemSeraphsEmbrace01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemSpellthiefsEdge01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemTalismanOfAscension01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemTearOfTheGoddess01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemVisionWard01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemVisionWard02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemVisionWard03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemVisionWard04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemVoidStaff01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_itemZhonyasHourglass01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_potion01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_potion02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_potion03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_ward04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_ward05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_ward06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_ward07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_ward08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_interactionTimeMidGame01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Taliyah_interactionTimeLateGame01"
+          }
+     ]
+}

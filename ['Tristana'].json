@@ -1,0 +1,1609 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Tristana_Select_new.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Tristana_Select_new.ogg/revision/latest?cb=20200709161737"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Tristana_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Tristana_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Tristana_Ban.ogg/revision/latest?cb=20200810160033"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Tristana_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_tauntAmumu01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_tauntCaitlyn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_tauntCorki01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_tauntCorki02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_tauntJinx01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_tauntVeigar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_tauntVeigar02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_tauntZiggs01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_jokeHeimerdinger01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_jokeRumble01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_jokeRumble02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_jokeTeemo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_dance01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_dance02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_dance03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_dance04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellQ3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellQ4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellQ5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellQ6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellW14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellE1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellE2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellE3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellE4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellE5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellE6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellE7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellEKill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellEKill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellEKill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellEKill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellEKill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellEOverkill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellEOverkill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellEOverkill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellEOverkill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellR1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellR2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellR3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellR4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellR5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellR6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellR7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellR8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellR9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellR10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellR11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_spellR12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_item01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_item02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_item03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_item04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_item05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_item06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemBotRK01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemBloodthirster01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemBloodthirster02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemGuardianAngel01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemGuardianAngel02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemGuardianAngel03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemInfinityEdge01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemInfinityEdge02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemLastWhisper01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemLastWhisper02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemLastWhisper03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemScimitar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemScimitar02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemScimitar03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemStatikkShiv01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemStatikkShiv02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_itemStatikkShiv03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_turret01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_turret02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_turret03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_turret04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_ward04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_fountain01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_fountain02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_fountain03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Tristana_unknown15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_start04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_start05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_start06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_move32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_taunt05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_tauntAzir01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_tauntBrand01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_tauntFiddlesticks01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_tauntQuinn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_tauntRumble01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_tauntShyvana01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_jokeAnnie01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_jokeAnnie02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_jokeRumble01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_jokeRumble02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_dance01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_Q1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_Q2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_W35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_E1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_E2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_E3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_E4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_R4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_R5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_R6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_R7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_R8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_R9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_R10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_R11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemGuardianAngel01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemGuardianAngel02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemGuardianAngel03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemInfinityEdge01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemInfinityEdge02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemInfinityEdge03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemLastWhisper01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemLastWhisper02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemLastWhisper03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemMercurialScimitar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemMercurialScimitar02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemMercurialScimitar03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemSunfireCape01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemSunfireCape02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemSunfireCape03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemBloodthirster01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemBloodthirster02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemBloodthirster03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemStatikkShiv01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_itemStatikkShiv02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_tower01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_tower02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_tower03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_ward04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TristanaDragonTrainer_respawn04"
+          }
+     ]
+}

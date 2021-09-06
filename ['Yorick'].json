@@ -1,0 +1,1249 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yorick_Select_new.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Yorick_Select_new.ogg/revision/latest?cb=20200711203956"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yorick_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yorick_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Yorick_Ban.ogg/revision/latest?cb=20200810162334"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yorick_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_start10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_start04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_start05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_start06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_start07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_start08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_start09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move37"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move38"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move39"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move40"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move41"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move42"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move43"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move44"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move45"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move46"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move47"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move48"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move49"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move50"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_move51"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntMutant01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntEkkoZilean01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntYordle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntChild01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntAzir01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntHecarim01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntKalista01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntKarthus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntKindred01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntKindred02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntLucian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntLux01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntMaokai01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntMordekaiser01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntRyze01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntSinged01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tauntThresh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_interactionTauntEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_interactionTauntEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_interactionTauntEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_interactionTauntEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_jokeAmumu01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_interactionJokeEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_interactionLaughEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillYorick_dance"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArclightYorick_dance"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attackSpellQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attackSpellQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attackSpellQ3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attackSpellQ4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attackDragon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attackDragon02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attackBaron01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attackBaron02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_attackBaron03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellQ18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellW1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellW2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellW3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellW4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellW5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellW6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellW7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellW8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellW9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellW10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellE1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellE2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellE3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellE4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellE5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellE6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellR1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellR2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellR3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellR4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellR5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellR6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellR7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellR8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellR9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellR10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellRLevelUp01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellRLevelUp02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellRLevelUp03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spellRLevelUp04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_UltimateMusic"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArclightYorick_UltimateMusic"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_kill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_killShadowIsles01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spree01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spree02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spree03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_spree04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tower01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tower02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tower03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tower04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tower05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_tower06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_item01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_item02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_item03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemBladeOfTheRuinedKing01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemBladeOfTheRuinedKing02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemBladeOfTheRuinedKing03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemBladeOfTheRuinedKing04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemClothArmor01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemClothArmor02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemClothArmor03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemClothArmor04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemDeadMansPlate01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemDeadMansPlate02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemDeadMansPlate03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemDeadMansPlate04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemIcebornGauntlet01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemIcebornGauntlet02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemIcebornGauntlet03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemRubyCrystal01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemRubyCrystal02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemRubyCrystal03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemSteraksGage01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemSteraksGage02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemSteraksGage03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemSpiritVisage01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemSpiritVisage02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemSpiritVisage03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemSpiritVisage04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemSunfireCape01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemSunfireCape02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_itemSunfireCape03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_useHealthPotion01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_useHealthPotion02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_useHealthPotion03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_recall04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_recall05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_recall06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_death02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_death03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_death04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_respawn04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_respawn05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_respawn06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_respawn07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_respawn08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_respawn09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_respawn10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Yorick_respawn11"
+          }
+     ]
+}

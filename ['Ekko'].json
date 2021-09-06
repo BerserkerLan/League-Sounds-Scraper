@@ -1,0 +1,2249 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Ekko_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Ekko_Select.ogg/revision/latest?cb=20200711193058"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Ekko_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Ekko_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Ekko_Ban.ogg/revision/latest?cb=20200809192610"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Ekko_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntPiltover01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntPiltover01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntPiltover02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntPiltover02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntPiltover03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntPiltover03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntPiltover04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntPiltover04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntViktor04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntZaun01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntViktor05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntZaun02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntViktor06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntZaun03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntCaitlyn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntCaitlyn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntCaitlyn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntCaitlyn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntCaitlyn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntCaitlyn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntDrMundo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntDrMundo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntGaren01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntGaren01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntGaren02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntGaren02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntJanna01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntVi06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntJayce01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntJayce01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntJayce02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntJayce02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntJayce03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntJayce03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntJinx01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntJinx01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntJinx02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntJinx02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntTwitch01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntTwitch01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntTwitch02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntTwitch02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntUrgot01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntUrgot01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntZac01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntVelKoz01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntZac02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntVi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntVi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntVi02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntVi02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntVi03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntVi03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntVi04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntVi04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntVi05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntViktor01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntViktor01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntViktor02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntViktor02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntViktor03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntViktor03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntZilean01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntZilean01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_tauntZilean02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_tauntZilean02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_joke05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_joke05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_joke06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_joke06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_joke07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_joke07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_joke08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_joke08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_dance01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_dance01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_dance02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_dance02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_dance03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_dance03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_dance04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_dance04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_Q1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_Q2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_Q3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellQ3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_Q4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellQ4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_W11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellW11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_W12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellW12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_W21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellW21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_W22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellW22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_W23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellW23%60"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_E1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellE1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_E2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellE2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellR1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellR2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_spellR3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_sniper01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_sniper01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_sniper02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_sniper02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_sniper03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_sniper03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_sniper04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_sniper04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemGuardianAngel01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemGuardianAngel01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemGuardianAngel02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemGuardianAngel02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemGuardianAngel03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemGuardianAngel03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemGuardianAngel04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemGuardianAngel04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemHextechGunblade01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemHextechGunblade01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemLichBane01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemLichBane02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemLichbane02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemLichBane01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemLudensEcho01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemLudensEcho01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemLudensEcho02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemLudensEcho02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemNashorsTooth01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemNashorsTooth01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemNashorsTooth02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemNashorsTooth02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemRabadonsDeathcap01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemRabadonsDeathcap01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemRabadonsDeathcap02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemRabadonsDeathcap02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemRodofAges01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemRodofAges01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemRodofAges02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemRodofAges02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemRodofAges03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemRodofAges03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemTrinityForce01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemTrinityForce01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemTrinityForce02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemTrinityForce02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemVoidStaff01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemVoidStaff02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemVoidStaff02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemVoidStaff01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemZhonyasHourglass01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemZhonyasHourglass01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemZhonyasHourglass02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemZhonyasHourglass02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemElixirSorcery01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemElixirSorcery01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_revive01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_revive01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_revive02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_revive02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_recall04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_recall04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_respawn04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_respawn04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_respawn05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_respawn05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_respawn06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_respawn07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TrueDamage_SpawnMusic"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_encounterAkaliTrueDamage01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_encounterQiyanaTrueDamage01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_encounterSennaTrueDamage01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_encounterYasuoTrueDamage01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_encounterSonaDJ01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_encounterEkko01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_encounterKDA"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_encounterPentakill"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_idle"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_idle"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_idle"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_idle"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_tauntresponse"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_jokeresponse"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_W"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_W"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_W"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_W"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_W"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killAkaliTrueDamage01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killQiyanaTrueDamage01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killSennaTrueDamage01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killYasuoTrueDamage01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killSonaDJ01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killEkko01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killKDA"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_killPentakill"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_pentakill"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_pentakill"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_useRecall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_useRecall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_useRecall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoTrueDamage01_unknown"
+          }
+     ]
+}

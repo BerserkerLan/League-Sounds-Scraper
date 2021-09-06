@@ -1,0 +1,1484 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Riven_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Riven_Select.ogg/revision/latest?cb=20200711204626"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Riven_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Riven_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Riven_Ban.ogg/revision/latest?cb=20200810153832"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Riven_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_move8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_move9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_ultmove1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_ultmove2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_ultmove3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_ultmove4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_ultmove5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_ulttaunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_ultjoke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_attack7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_ultattack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_ultattack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_ultattack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_ultattack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Riven_ultattack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeRiven_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_start04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_start05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_start06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_start07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_start08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_start09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_startYasuoNightbringerAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_startYasuoNightbringerAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_startYasuoNightbringerEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_startYasuoNightbringerEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_startYasuoNightbringerEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_startYasuoNightbringerEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move37"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_move38"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveYasuoNightbringer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveYasuoNightbringer02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveYasuoNightbringer03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveYasuoNightbringer04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveYasuoNightbringer05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveYasuoNightbringer06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveYasuoNightbringer07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveYasuoNightbringer08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveYasuoNightbringer09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveYasuoNightbringer10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveR02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveR03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveR04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveR05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveR06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_moveR07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_tauntYasuoNightbringer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_tauntYasuoNightbringer02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_tauntYasuoNightbringer03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_tauntResponse01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_tauntResponseYasuoNightbringer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_tauntR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_tauntRYasuoNightbringer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_tauntRResponse01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_tauntRResponseYasuoNightbringer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_jokeResponseAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_jokeResponseEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_jokeR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_jokeRResponseAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_jokeRResponseEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_laughR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_laughR02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_laughR03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_laughR04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack37"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack38"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack39"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack40"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack41"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack42"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attack43"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackYasuoNightbringer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackYasuoNightbringer02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackYasuoNightbringer03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackYasuoNightbringer04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackYasuoNightbringer05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackYasuoNightbringer06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackYasuoNightbringer07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackYasuoNightbringer08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackYasuoNightbringer09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackYasuoNightbringer10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackR02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackR03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackR04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackR05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackRYasuoNightbringer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackRYasuoNightbringer02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_attackRYasuoNightbringer03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_spellR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_spellR02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_spellR03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_spellR04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_spellR05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_spellR06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_spellR07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_kill32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killDarkin01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killShadowIsles01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killInfernal01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killYasuoNightbringer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killYasuoNightbringer02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killYasuoNightbringer03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killYasuoNightbringer04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killYasuoNightbringer05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killYasuoNightbringer06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killYasuoNightbringer07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killYasuoNightbringer08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killYasuoNightbringer09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_firstBlood01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_firstBlood02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_firstBloodAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_firstBloodEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killDouble01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killDouble02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killTriple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killTriple02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killQuadra01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killQuadra02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killPenta01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killPenta02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_tower01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_tower02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killR02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killR03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killR04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killR05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killRDarkin01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killRShadowIsles01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killRInfernal01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killRYasuoNightbringer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killRYasuoNightbringer02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killRDouble01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killRTriple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killRQuadra01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_killRPenta01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_useHealthPotion01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_useHealthPotionR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_useHealthPotionR02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_ward04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_ward05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_recall04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_recall05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_recall06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_recallR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_deathYasuoNightbringer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_deathYasuoNightbringer02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_deathYasuoNightbringer03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RivenDawnbringer_respawnYasuoNightbringer01"
+          }
+     ]
+}

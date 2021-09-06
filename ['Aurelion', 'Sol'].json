@@ -1,0 +1,2604 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "AurelionSol_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/AurelionSol_Select.ogg/revision/latest?cb=20200709160356"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "AurelionSol_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/AurelionSol_Ban.ogg/revision/latest?cb=20200809174130"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_start01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_start01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_start02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_start02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_start03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_start03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_start04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_start04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_start06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_start06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_start05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move10_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move10_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move11_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move11_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move12_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move12_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move13_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move13_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move14_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move14_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move15_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move15_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move16_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move16_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move17_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move17_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move18_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move18_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move19_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move19_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move20_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move20_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move21_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move21_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move22_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move22_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move23_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move23_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move24_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move24_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move25_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move25_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move26_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move26_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move27_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move27_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move28_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move28_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move29_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move29_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move30_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move30_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move31_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move31_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move32_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move32_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move33_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move33_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move34_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move34_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move35_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move35_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move36_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move36_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move37_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move37_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move38_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move38_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move39_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move39_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move40_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move40_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move41_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move41_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move42_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move42_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move43_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move43_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_move44_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_move44_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_moveEnemyBase01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_moveEnemyBase01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_taunt01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_taunt01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_taunt02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_taunt02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_taunt03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_taunt03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_taunt04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_taunt04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_taunt05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_taunt05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_taunt06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_taunt06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_taunt07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_taunt07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntAhri01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntAhri01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntAmumu01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntAmumu01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntAnnie01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntAnnie01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntAzir01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntAzir01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntAzir02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntAzir02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntBard01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntBard01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntBard02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntBard02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntCaitlyn01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntCaitlyn01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntDiana01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntDiana01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntDiana02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntDiana02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntDragonTrainerTristana01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntDragonTrainerTristana01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntDraven01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntDraven01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntDunkmasterDarius01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntDunkmasterDarius01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntEkko01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntEkko01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntFiddlesticks01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntFiddlesticks01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntGaren01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntGaren01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntGnar01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntGnar01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntGraves01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntGraves01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntIllaoi02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntIllaoi02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntIllaoi01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntIllaoi01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntJhin_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntJhin_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntJinx01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntJinx01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntLeona01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntLeona01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntLeona02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntLeona02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntLux01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntLux01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntMalphite01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntMalphite01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntMissFortune01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntMissFortune01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntNasus01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntNasus01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntNasus02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntNasus02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntPantheon01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntPantheon01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntRammus01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntRammus01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntRenekton01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntRenekton01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntRyze01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntRyze01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntRyze02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntRyze02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntRyze03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntRyze03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntShyvana01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntShyvana01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntShyvana02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntShyvana02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntShyvana03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntShyvana03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntShyvana04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntShyvana04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntSoraka01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntSoraka01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntTahmKench01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntTahmKench01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntTaric01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntTaric01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntTryndamere01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntTryndamere01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntVi01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntVi01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntVi02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntVi02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntVladimir01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntVladimir01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntZac01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntZac01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntZilean01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntZilean01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntCelestial01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntCelestial01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntDragonSlayer01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntDragonSlayer01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntHuman01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntHuman01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntHuman02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntHuman02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntHuman03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntHuman03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntTargon01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntTargon01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tauntTargon02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tauntTargon02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_joke01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_joke01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_joke02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_joke02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_joke03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_joke03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_joke04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_joke04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_joke05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_joke05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_joke06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_joke06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_joke07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_joke07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_joke08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_joke08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_joke09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_joke09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_laugh01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_laugh01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_laugh02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_laugh02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_laugh03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_laugh03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_laugh04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_laugh04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_dance01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_dance01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_dance02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_dance02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_dance03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_dance03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack10_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack10_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack11_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack11_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack12_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack12_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack13_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack13_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack14_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack14_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack15_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack15_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack16_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack16_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack17_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack17_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack18_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack18_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack19_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack19_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack20_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack20_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack21_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack21_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack22_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack22_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack23_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack23_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack24_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack24_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack25_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack25_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack26_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack26_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack27_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack27_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack28_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack28_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack29_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack29_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack30_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack30_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack31_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack31_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack32_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack32_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack33_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack33_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack34_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack34_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack35_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack35_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack36_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack36_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack37_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack37_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack38_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack38_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack39_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack39_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack40_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack40_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack41_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack41_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack42_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack42_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack43_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack43_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack44_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack44_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack45_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack45_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attackDragon01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attackDragon01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attackDragon02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attackDragon02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attackDragon03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attackDragon03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attackDragon04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attackDragon04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attackDragon05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attackDragon05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellI1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellI1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellI2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellI2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellI3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellI3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellIkill01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellIkill01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellIkill02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellIkill02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellIkill03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellIkill03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellIkill04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellIkill04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellImultikill01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellImultikill01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellImultikill02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellImultikill02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellImultikill03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellImultikill03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellImultikill04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellImultikill04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellQ1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellQ1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellQ2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellQ2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellQ3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellQ3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellQ4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellQ4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellQ6_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellQ6_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellQ7_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellQ7_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellQ8_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellQ8_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellQ9_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellQ9_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellQ10_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellQ10_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_unknown01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_unknown01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_unknown02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_unknown02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellQ5_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellW1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellW1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellW2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellW2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellW3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellW3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_spellW4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_spellW4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_attack07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_attack07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tower01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tower01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tower02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tower02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tower03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tower03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tower04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tower04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_tower05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_tower05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_towerKill01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_towerKill01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_firstblood01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_firstblood01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_ace01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_ace01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_ace02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_ace02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_pentakill01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_pentakill01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_pentakill02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_pentakill02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_pentakill03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_pentakill03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_pentakill04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_pentakill04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_item01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_item01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_item02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_item02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_item03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_item03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_item04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_item04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_item05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_item05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_item06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_item06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemBootsAdvanced01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemBootsAdvanced01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemBootsAdvanced02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemBootsAdvanced02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemRodofAges01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemRodofAges01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemRodofAges02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemRodofAges02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemRodofAges03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemRodofAges03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemRodofAges04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemRodofAges04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemRabadonsDeathcap01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemRabadonsDeathcap01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemRabadonsDeathcap02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemRabadonsDeathcap02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemOrbofWinter01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemOrbofWinter01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemRylaisCrystalScepter03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemRylaisCrystalScepter03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemRylaisCrystalScepter01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemRylaisCrystalScepter01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemRylaisCrystalScepter02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemRylaisCrystalScepter02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemLiandrysTorment01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemLiandrysTorment01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemLiandrysTorment02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemLiandrysTorment02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemLiandrysTorment03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemLiandrysTorment03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemLudensEcho01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemLudensEcho01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemLudensEcho02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemLudensEcho02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_itemLudensEcho03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_itemLudensEcho03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_recall01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_recall01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_recall02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_recall02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_recall03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_recall03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_recall04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_recall04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_death01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_death01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_death02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_death02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_death03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_death03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_death04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_death04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_deathShyvana01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_deathShyvana01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_shutdown01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_shutdown01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_shutdown02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_shutdown02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_respawn01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_respawn01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_respawn02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_respawn02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_respawn03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_respawn03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_respawn04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_respawn04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSol_respawn05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AurelionSolMecha_respawn05_ogg"
+          }
+     ]
+}

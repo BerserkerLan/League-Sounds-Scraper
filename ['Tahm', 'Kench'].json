@@ -1,0 +1,1099 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "TahmKench_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/TahmKench_Select.ogg/revision/latest?cb=20200711192257"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "TahmKench_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/TahmKench_Ban.ogg/revision/latest?cb=20200810155503"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_start01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_start02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_start03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_start04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_start05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_start06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move10_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move11_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move12_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move13_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move14_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move15_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move16_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move17_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move18_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move19_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move20_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move21_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move22_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move23_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move24_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move25_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move26_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move27_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move28_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move29_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move30_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move31_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move32_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move33_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_move34_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_taunt01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_taunt02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_taunt03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_taunt04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_taunt05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAatrox02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAatrox01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAhri02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAhri01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAkali01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAlistar02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAlistar01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAmumu02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAmumu01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAnivia01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAnnie01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAshe02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAshe01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAzir01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAzir02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAzir03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntAzir04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntBlitzcrank01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntBraum03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntBraum01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntBraum02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntCaitlyn02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntCaitlyn01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntChoGath02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntChoGath01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntDarius02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntDarius01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntDiana02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntDiana01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntDraven02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntDraven03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntDraven01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntDrMundo02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntDrMundo01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntEkko02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntEkko01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntEzreal02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntEzreal01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntFiora02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntFiora01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntFizz01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntGangplank02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntGangplank01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntGaren01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntGnar02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntGnar01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntGragas02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntGragas01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntJanna02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntJanna01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntJarvan02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntJarvan01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntJax02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntJax01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntJayce02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntJayce01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntJinx02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntJinx01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntKatarina01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntLeeSin01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntLissandra02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntLissandra01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntLucian02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntLucian01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntMissFortune01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntMissFortune02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntNami02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntNami01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntNasus02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntNasus01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntRenekton02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntRenekton01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntRyze02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntRyze01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntSejuani02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntSejuani01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntSivir02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntSivir01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntTeemo02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntTeemo01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntTwistedFate02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntTwistedFate01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntVi02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntVi01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntWukong01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntXerath02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntXerath01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntYasuo02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntYasuo01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntZed02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_tauntZed01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_unknown01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_unknown02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_laugh01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_laugh02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_laugh03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_laugh04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_dance01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack10_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack11_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack12_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack13_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack14_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack15_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack16_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack17_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack18_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack19_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack20_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack21_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_attack22_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_unknown03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_unknown04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_unknown05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_R1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_R2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_R3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_R4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_R5_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_R6_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_R7_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_R8_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_W1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_W2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_W3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_W4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_W5_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_W6_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_W7_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_E1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_E2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_E3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_E4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemFrozenHeart01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemFrozenHeart02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemLocketoftheIronSolari01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemLocketoftheIronSolari02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemLocketoftheIronSolari03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemMercurysTreads01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemMikaelsCrucible01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemRanduinsOmen01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemRanduinsOmen02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemRanduinsOmen03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemRavenousHydra01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemRavenousHydra02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemRavenousHydra03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemSpiritVisage01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemSpiritVisage02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemSpiritVisage03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemSunfireCape01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemSunfireCape02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemWarmogsArmor01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemWarmogsArmor02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemWarmogsArmor03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_itemElixirofIron01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_ward01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_ward02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_ward03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_ward04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_recall01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TahmKench_recall02_ogg"
+          }
+     ]
+}

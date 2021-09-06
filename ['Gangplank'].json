@@ -1,0 +1,3129 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gangplank_Select_new2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Gangplank_Select_new2.ogg/revision/latest?cb=20200711195647"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gangplank_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Gangplank_Ban.ogg/revision/latest?cb=20200809194821"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_start04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_start05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntGraves01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntGraves02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntGraves03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntGraves04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntGraves05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntMissFortune01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntMissFortune02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntMissFortune03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntMissFortune04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntTwistedFate01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntTwistedFate02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntTwistedFate03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_tauntTwistedFate04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_Q1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_Q2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_Q3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_W1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_W2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_W3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_W4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_W5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_W6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_W7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_E1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_E2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_E3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_E4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_E5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_E6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_E7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_E8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_E9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_R4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemBilgewaterCutlass01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemBilgewaterCutlass02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemBilgewaterCutlass03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemDeathsDaughter01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemDeathsDaughter02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemDeathsDaughter03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemFireatWill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemFireatWill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemFireatWill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemInfinityEdge01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemInfinityEdge02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemInfinityEdge03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemRaiseMorale01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemRaiseMorale02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemRaiseMorale03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemStatikkShiv01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemStatikkShiv02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemBloodthirster01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemBloodthirster02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemBloodthirster03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemTrinityForce01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemTrinityForce02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_itemTrinityForce03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_start04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_taunt05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntGraves01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntGraves02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntGraves03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntMissFortune01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntMissFortune02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntMissFortune03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntMissFortune04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntMissFortune05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntNautilus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntNautilus02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntTwistedFate01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntTwistedFate02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntTwistedFate03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntTwistedFate04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_tauntGragas01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_dragon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_Q1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_Q2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_Q3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_Q4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_W1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_W2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_W3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_W4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_W5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_W6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_W7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_E1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_E2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_E3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_E4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_E5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_E6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_E7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_E8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_R4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemBilgewaterCutlass01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemBilgewaterCutlass02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemBilgewaterCutlass03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemDeathsDaughter01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemDeathsDaughter02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemDeathsDaughter03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemFireatWill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemFireatWill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemFireatWill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemInfinityEdge01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemInfinityEdge02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemInfinityEdge03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemRaiseMorale01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemRaiseMorale02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemRaiseMorale03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemStatikkShiv01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemStatikkShiv02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemBloodthirster01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemBloodthirster02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemBloodthirster03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemTrinityForce01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemTrinityForce02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_itemTrinityForce03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GangplankCaptain_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_welcomeSummonersRift01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_welcomeSummonersRift02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_welcomeSummonersRift03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_welcomeSummonersRift04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_welcomeHowlingAbyss01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_welcomeHowlingAbyss02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_welcomeButchersBridge01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_welcomeButchersBridge02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_welcomeTwistedTreeline01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_welcomeTwistedTreeline02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareCountdownMinionSpawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareCountdownMinionSpawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareCountdownMinionSpawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareCountdownMinionSpawn04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareCountdownMinionSpawn05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareMinionSpawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareMinionSpawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareMinionSpawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareMinionSpawn04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_ttAltarsCountdown01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_ttAltarsDeclare01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_firstBloodAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_firstBloodAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_firstBloodAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_firstBloodAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_firstBloodEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_firstBloodEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_firstBloodEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_firstBloodEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_kill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_kill06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_kill07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_kill08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_kill09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDeath01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDeath02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDeath03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDeath04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDeath05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDeath06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDeath07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDeath08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDeath09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killAlly07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareExecution01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareExecution02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareExecution03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareExecution04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareExecution05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareExecution06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_aceAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_aceAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_aceAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_aceAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_aceAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_aceAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_aceEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_aceEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_aceEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_aceEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_aceEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_aceEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDouble01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDouble02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDouble03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDouble04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDouble05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDouble06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDouble07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTriple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTriple02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTriple03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTriple04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTriple05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTriple06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadra01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadra02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadra03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadra04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadra05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadra06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPenta01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPenta02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPenta03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPenta04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPenta05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPenta06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPenta07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killLegendary01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killLegendary02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killLegendary03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killLegendary04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDoubleAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDoubleAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDoubleAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDoubleAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTripleAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTripleAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTripleAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTripleAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTripleAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTripleAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadraAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadraAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadraAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadraAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadraAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPentaAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPentaAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPentaAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPentaAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPentaAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killLegendaryAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killLegendaryAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killLegendaryAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDoubleEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDoubleEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDoubleEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDoubleEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killDoubleEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTripleEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTripleEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTripleEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTripleEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killTripleEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadraEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadraEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadraEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killQuadraEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPentaEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPentaEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPentaEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPentaEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killPentaEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killLegendaryEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killLegendaryEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_killLegendaryEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeKillingSpree01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeKillingSpree02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeKillingSpree03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeRampage01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeRampage02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeRampage03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeDominating01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeDominating02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeDominating03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeUnstoppable01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeGodlike01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeGodlike02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeGodlike03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeGodlike04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeLegendary01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeLegendary02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeLegendary03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeKillingSpreeAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeKillingSpreeAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeRampageAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeRampageAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeRampageAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeDominatingAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeDominatingAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeUnstoppableAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeUnstoppableAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeGodlikeAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeGodlikeAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeLegendaryAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeKillingSpreeEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeKillingSpreeEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeKillingSpreeEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeKillingSpreeEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeRampageEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeRampageEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeRampageEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeRampageEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeDominatingEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeDominatingEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeUnstoppableEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeUnstoppableEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeGodlikeEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeLegendaryEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spreeLegendaryEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareShutDown01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareShutDown02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareShutDown03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareShutDown04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyTurretAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyTurretAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyTurretAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyTurretEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyTurretEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyTurretEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureWarnInhibitorAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureWarnInhibitorAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureWarnInhibitorAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyInhibitorAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyInhibitorAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyInhibitorAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyInhibitorAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyInhibitorEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyInhibitorEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDestroyInhibitorEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureCountdownInhibitorAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureCountdownInhibitorAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDeclareInhibitorAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDeclareInhibitorAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureCountdownInhibitorEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureCountdownInhibitorEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDeclareInhibitorEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureDeclareInhibitorEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureWarnNexus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureWarnNexus02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_structureWarnNexus03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_dragonAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_dragonAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_dragonAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_dragonAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_dragonAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_dragonEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_dragonEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_dragonEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_dragonEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_baronAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_baronAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_baronAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_baronAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_baronAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_baronEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_baronEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_baronEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_baronEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareVictory01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareVictory02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareVictory03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareVictory04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareVictory05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDefeat01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDefeat02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDefeat03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDefeat04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDefeat05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareDisconnect01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_declareReconnect01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_welcomeCrystalScar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_welcomeCrystalScar02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csDeclareCountdown01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csDeclareStart01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csDeclareQuestComplete01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csDeclareQuestReceived01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csDeclareQuestReceived02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csDeclareQuestReceived03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csDeclareDominationAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csDeclareDominationEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csCaptureBoneyardAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csCaptureDrillAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csCaptureQuarryAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csCaptureRefineryAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csCaptureWindmillAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csCaptureBoneyardEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csCaptureDrillEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csCaptureQuarryEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csCaptureRefineryEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csCaptureWindmillEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNeutralizeBoneyardAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNeutralizeDrillAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNeutralizeQuarryAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNeutralizeRefineryAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNeutralizeWindmillAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNeutralizeBoneyardEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNeutralizeDrillEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNeutralizeQuarryEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNeutralizeRefineryEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNeutralizeWindmillEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNexusThreeQuartersAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNexusThreeQuartersAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNexusHalfAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNexusQuarterAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNexusCriticalAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNexusThreeQuartersEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNexusThreeQuartersEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNexusHalfEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNexusQuarterEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_csNexusCriticalEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillDoubleBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillTripleBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillQuadraBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillPentaBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillLegendaryBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillLegendaryRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorAceBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillDoubleRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillTripleRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillQuadraRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillPentaRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorAceRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillDoublePurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillTriplePurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillQuadraPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillPentaPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorKillLegendaryPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorAcePurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureWarnTurretBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureDestroyTurretBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureWarnInhibitorBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureDestroyInhibitorBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureCountdownInhibitorBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureRespawnInhibitorBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureWarnNexusBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorDragonBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorBaronBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorSurrenderBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorVictoryBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureWarnTurretRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureDestroyTurretRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureWarnInhibitorRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureDestroyInhibitorRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureCountdownInhibitorRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureRespawnInhibitorRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureWarnNexusRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorDragonRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorBaronRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorSurrenderRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorVictoryRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureWarnTurretPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureDestroyTurretPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureWarnInhibitorPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureDestroyInhibitorPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureCountdownInhibitorPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureRespawnInhibitorPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorStructureWarnNexusPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorDragonPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorBaronPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorSurrenderPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorVictoryPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNeutralizeBoneyard01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNeutralizeDrill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNeutralizeQuarry01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNeutralizeRefinery01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNeutralizeWindmill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSCaptureBoneyardBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSCaptureDrillBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSCaptureQuarryBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSCaptureRefineryBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSCaptureWindmillBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNexusQuarterBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNexusHalfBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNexusThreeQuartersBlue01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNexusThreeQuartersBlue02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSCaptureBoneyardRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSCaptureDrillRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSCaptureQuarryRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSCaptureRefineryRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSCaptureWindmillRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNexusQuarterRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNexusHalfRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNexusThreeQuartersRed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNexusQuarterPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNexusHalfPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerGangplank_spectatorCSNexusThreeQuartersPurple01"
+          }
+     ]
+}

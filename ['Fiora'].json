@@ -1,0 +1,349 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Fiora_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Fiora_Select.ogg/revision/latest?cb=20200709155125"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Fiora_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Fiora_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Fiora_Ban.ogg/revision/latest?cb=20200809193925"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Fiora_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_move8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_move9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_taunt1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_taunt2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_joke1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_attack7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_riposte1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_W11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_riposte2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_W12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_riposte3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_W13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_riposte4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_W14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_parry1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_W21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_parry2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_W22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_parry3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_W23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fiora_parry4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "FioraPROJECT_W24"
+          }
+     ]
+}

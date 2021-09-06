@@ -1,0 +1,399 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Fizz_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Fizz_Select.ogg/revision/latest?cb=20200407202839"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Fizz_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Fizz_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Fizz_Ban.ogg/revision/latest?cb=20200809194357"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Fizz_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_move8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_move8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_move9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_move9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_taunt1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_taunt1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_taunt2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_taunt2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_joke1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_joke1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_ult1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_ult2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Fizz_ult3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "VoidFizz_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "OmegaSquadFizz_R3"
+          }
+     ]
+}

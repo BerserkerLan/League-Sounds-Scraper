@@ -1,0 +1,909 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Poppy_Select_new.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Poppy_Select_new.ogg/revision/latest?cb=20200711203624"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Poppy_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Poppy_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Poppy_Ban.ogg/revision/latest?cb=20200810152932"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Poppy_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "StarGuardian2016_SpawnMusic"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_start04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_start05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_start06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_tauntGalio01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_interactionTauntPoppy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_interactionTauntPoppy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_tauntGaren01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_tauntGaren02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_tauntJarvan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_tauntJayce01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_tauntLeona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_tauntTaric01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_tauntTristana01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_joke05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_joke06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_joke07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_joke08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_joke09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_joke10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_joke11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attackJarvan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attackDragon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attackDragon02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attackDragon03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_I1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_I2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_I3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_I4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_I5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_I6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_I7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_Q1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_Q2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_W1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_W2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_W3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_W4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_W5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_W6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_criticalHealth01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_criticalHealth02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_criticalHealth03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_criticalHealth04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_E1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_E2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_E3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_E4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_E5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_E6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_E7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_E8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_R4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_R5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_R6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_R7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_R8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_jokeEkko01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_jokeEkko02"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Poppy_Original_Unknown_01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Poppy_Original_Unknown_01.ogg/revision/latest?cb=20200629064246"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Poppy_Original_Unknown_02.ogg/revision/latest?cb=20200629064247"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Poppy_Original_Unknown_03.ogg/revision/latest?cb=20200629064248"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_04.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Poppy_Original_Unknown_04.ogg/revision/latest?cb=20200629064249"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_05.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Poppy_Original_Unknown_05.ogg/revision/latest?cb=20200629064249"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_06.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Poppy_Original_Unknown_06.ogg/revision/latest?cb=20200629064249"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Poppy_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Poppy_Original_Unknown_01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Poppy_Original_Unknown_01.ogg/revision/latest?cb=20200629064246"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Poppy_Original_Unknown_02.ogg/revision/latest?cb=20200629064247"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Poppy_Original_Unknown_03.ogg/revision/latest?cb=20200629064248"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_04.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Poppy_Original_Unknown_04.ogg/revision/latest?cb=20200629064249"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_05.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Poppy_Original_Unknown_05.ogg/revision/latest?cb=20200629064249"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_06.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Poppy_Original_Unknown_06.ogg/revision/latest?cb=20200629064249"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Poppy_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Poppy_Original_Unknown_01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Poppy_Original_Unknown_01.ogg/revision/latest?cb=20200629064246"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Poppy_Original_Unknown_02.ogg/revision/latest?cb=20200629064247"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Poppy_Original_Unknown_03.ogg/revision/latest?cb=20200629064248"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_04.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Poppy_Original_Unknown_04.ogg/revision/latest?cb=20200629064249"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_05.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Poppy_Original_Unknown_05.ogg/revision/latest?cb=20200629064249"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_06.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Poppy_Original_Unknown_06.ogg/revision/latest?cb=20200629064249"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Poppy_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Poppy_Original_Unknown_01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Poppy_Original_Unknown_01.ogg/revision/latest?cb=20200629064246"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Poppy_Original_Unknown_02.ogg/revision/latest?cb=20200629064247"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Poppy_Original_Unknown_03.ogg/revision/latest?cb=20200629064248"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_04.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Poppy_Original_Unknown_04.ogg/revision/latest?cb=20200629064249"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_05.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Poppy_Original_Unknown_05.ogg/revision/latest?cb=20200629064249"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_06.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Poppy_Original_Unknown_06.ogg/revision/latest?cb=20200629064249"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Poppy_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Poppy_Original_Unknown_01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Poppy_Original_Unknown_01.ogg/revision/latest?cb=20200629064246"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Poppy_Original_Unknown_02.ogg/revision/latest?cb=20200629064247"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Poppy_Original_Unknown_03.ogg/revision/latest?cb=20200629064248"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_04.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Poppy_Original_Unknown_04.ogg/revision/latest?cb=20200629064249"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_05.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Poppy_Original_Unknown_05.ogg/revision/latest?cb=20200629064249"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_06.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Poppy_Original_Unknown_06.ogg/revision/latest?cb=20200629064249"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Poppy_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Poppy_Original_Unknown_01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Poppy_Original_Unknown_01.ogg/revision/latest?cb=20200629064246"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Poppy_Original_Unknown_02.ogg/revision/latest?cb=20200629064247"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Poppy_Original_Unknown_03.ogg/revision/latest?cb=20200629064248"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_04.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Poppy_Original_Unknown_04.ogg/revision/latest?cb=20200629064249"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_05.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Poppy_Original_Unknown_05.ogg/revision/latest?cb=20200629064249"
+                    },
+                    {
+                         "audio_name": "Poppy_Original_Unknown_06.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Poppy_Original_Unknown_06.ogg/revision/latest?cb=20200629064249"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Poppy_Original"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_item01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_item02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_item03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_item04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_itemAegis01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_itemFrozenMallet01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_itemFrozenMallet02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_itemFrozenMallet03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_itemNeedlesslyLargeRod01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_itemNeedlesslyLargeRod02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_itemWarmogsArmor01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_useHealthPotion01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_useHealthPotion02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "StarGuardian2016_recall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_fountain01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_fountain02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_fountain03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_respawn03"
+          }
+     ]
+}

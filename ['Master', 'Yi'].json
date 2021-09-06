@@ -1,0 +1,1049 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "MasterYi_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/MasterYi_Select.ogg/revision/latest?cb=20200709154658"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "MasterYi_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/MasterYi_Ban.ogg/revision/latest?cb=20200810151531"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_move01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_move01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_move03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_move02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_move05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_move03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_move06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_move04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_move10_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_move05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_move11_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_move06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_move12_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_move07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_move14_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_move08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_move15_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_move09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_move07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_taunt01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_taunt01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_taunt02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_taunt02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_taunt03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_taunt03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_interaction01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_tauntWukong01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_interaction02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_tauntWukong02_ogg"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "MasterYi.joke_old.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/MasterYi.joke_old.ogg/revision/latest?cb=20121127050831"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "MasterYi.joke_old"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_joke01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_joke01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_joke02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_joke03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_joke03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_laugh01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_laugh01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_laugh02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_laugh02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_laugh03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_laugh03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_laugh04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_laugh04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_attack01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_attack01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_attack02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_attack02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_attack03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_attack03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_attack05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_attack04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_attack06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_attack05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_attack09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_attack06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_Q01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_spellQ1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_Q02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_spellQ2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_Q03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_spellQ3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_W01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_spellW1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_W02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_spellW2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_W03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_spellW3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_ultimate01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_spellR1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_ultimate02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_spellR2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_ultimate03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_spellR3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYi_ultimate04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiCosmicBlade_spellR4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_start01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_startR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_start02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_startR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_start03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_startR03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move10_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move11_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move12_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move13_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move14_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move15_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move16_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move17_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_move18_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_moveR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_moveR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_moveR03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_moveR04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_moveR05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_moveR06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_moveR07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attackR07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_moveR08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_moveR09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_taunt01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_taunt02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_taunt03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntR03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntFiora01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntFioraR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntFiora02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntFioraR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntLucian01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntLucianR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntLucian02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntLucianR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntYasuo01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntYasuoR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntYasuo02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntYasuoR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntZed01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntZedR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntZed02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_tauntZedR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_joke01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_jokeR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_joke02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_jokeR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_joke03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_jokeR03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_jokeMasterYi01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_jokeMasterYiR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_jokeWukong01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_jokeWukongR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_laugh01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_laughR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_laugh02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_laughR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_laugh03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_laughR03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_laugh04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_laughR04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attack01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attack02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attack03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attack04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attack05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attack06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attack07_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attack08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attack09_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attack10_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attack11_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attack12_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attackR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attackR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attackR03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attackR04_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attackR05_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attackR06_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_attackR08_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_QR1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_QR2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_W1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_W2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_W3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_W4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_WR1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_WR2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_WR3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemBotRK01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemBotRKR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemBotRK02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemBotRKR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemBotRK03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemBotRKR03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemBloodthirster01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemBloodthirsterR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemBloodthirster02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemBloodthirsterR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemBloodthirster03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemBloodthirsterR03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemLastWhisper01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemLastWhisperR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemLastWhisper02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemLastWhisperR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemLastWhisper03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemLastWhisperR03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemYoumuusGhostblade01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemYoumuusGhostblade02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_itemYoumuusGhostblade03_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_ward01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_wardR01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_ward02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_wardR02_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_recall01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MasterYiPROJECT_recallR01_ogg"
+          }
+     ]
+}

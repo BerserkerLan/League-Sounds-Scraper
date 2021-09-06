@@ -1,0 +1,274 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Elise_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Elise_Select.ogg/revision/latest?cb=20200711202550"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Elise_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Elise_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/Elise_Ban.ogg/revision/latest?cb=20200809193446"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Elise_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_move8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_move9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_taunt1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_taunt2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_joke1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Elise_attack6"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Elise_BloodMoon_Recall.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Elise_BloodMoon_Recall.ogg/revision/latest?cb=20171106173039"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Elise_BloodMoon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Elise_SKTT1_Recall.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/Elise_SKTT1_Recall.ogg/revision/latest?cb=20171031010209"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Elise_SKTT1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_move8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_move9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_taunt1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_taunt2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_joke1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EliseSpider_attack6"
+          }
+     ]
+}

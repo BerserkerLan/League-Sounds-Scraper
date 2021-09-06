@@ -1,0 +1,84 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Alistar_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Alistar_Select.ogg/revision/latest?cb=20200709155421"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Alistar_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Alistar_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Alistar_Ban.ogg/revision/latest?cb=20200809172521"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Alistar_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Alistar_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Alistar_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Alistar_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Alistar_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Alistar_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Alistar_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Alistar_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Alistar_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Alistar_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Alistar_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AlistarMooCow_dance01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SKTT1Alistar_recall"
+          }
+     ]
+}

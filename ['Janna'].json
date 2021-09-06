@@ -1,0 +1,489 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Janna_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/12/Janna_Select.ogg/revision/latest?cb=20200711195604"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Janna_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Janna_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Janna_Ban.ogg/revision/latest?cb=20200810143636"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Janna_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "StarGuardian2016_SpawnMusic"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_joke1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Janna_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "StarGuardian2016_recall"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecastChampionSpecific_%283%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/JannaForecastChampionSpecific_%283%29.ogg/revision/latest?cb=20130906035640"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_%283%29"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecastChampionSpecific_%287%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/27/JannaForecastChampionSpecific_%287%29.ogg/revision/latest?cb=20130906035814"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_%287%29"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecastChampionSpecific_%286%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/JannaForecastChampionSpecific_%286%29.ogg/revision/latest?cb=20130906035640"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_%286%29"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecastChampionSpecific_%2810%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/JannaForecastChampionSpecific_%2810%29.ogg/revision/latest?cb=20130906035814"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_%2810%29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_attack12"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecastChampionSpecific_%288%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/JannaForecastChampionSpecific_%288%29.ogg/revision/latest?cb=20130906035814"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_%288%29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_ogg"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecastChampionSpecific_%282%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/JannaForecastChampionSpecific_%282%29.ogg/revision/latest?cb=20130906035639"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_%282%29"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecastChampionSpecific_%2814%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/JannaForecastChampionSpecific_%2814%29.ogg/revision/latest?cb=20130906035815"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_%2814%29"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecastChampionSpecific_%2815%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/JannaForecastChampionSpecific_%2815%29.ogg/revision/latest?cb=20130906035815"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_%2815%29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_spellcastW"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecast.spellcastW_%282%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/JannaForecast.spellcastW_%282%29.ogg/revision/latest?cb=20130906035638"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast.spellcastW_%282%29"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecast.spellcastW_%283%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/JannaForecast.spellcastW_%283%29.ogg/revision/latest?cb=20130906035639"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast.spellcastW_%283%29"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecast.spellcastW_%284%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/JannaForecast.spellcastW_%284%29.ogg/revision/latest?cb=20130906035639"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast.spellcastW_%284%29"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecastChampionSpecific_%2811%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/85/JannaForecastChampionSpecific_%2811%29.ogg/revision/latest?cb=20130906035814"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_%2811%29"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecastChampionSpecific_%2812%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/JannaForecastChampionSpecific_%2812%29.ogg/revision/latest?cb=20130906035815"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_%2812%29"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecastChampionSpecific_%2813%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/JannaForecastChampionSpecific_%2813%29.ogg/revision/latest?cb=20130906035815"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_%2813%29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_dying21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "JannaForecast_dying22"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "JannaForecastChampionSpecific_%289%29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/JannaForecastChampionSpecific_%289%29.ogg/revision/latest?cb=20130906035814"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "JannaForecastChampionSpecific_%289%29"
+          }
+     ]
+}

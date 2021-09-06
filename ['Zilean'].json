@@ -1,0 +1,129 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Zilean_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Zilean_Select.ogg/revision/latest?cb=20200711193344"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Zilean_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Zilean_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Zilean_Ban.ogg/revision/latest?cb=20200809183221"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Zilean_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Chronokeeper_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Chronokeeper_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Chronokeeper_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Chronokeeper_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Chronokeeper_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Chronokeeper_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Chronokeeper_attack7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Chronokeeper_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Chronokeeper_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Chronokeeper_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Chronokeeper_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Chronokeeper_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZileanBloodMoon_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZileanSugarRush_Recall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zilean_SugarRush"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zilean_SugarRush"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zilean_SugarRush"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zilean_SugarRush"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZileanBloodMoon_UltimateTheme1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZileanBloodMoon_UltimateTheme2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZileanSugarRush_Chronoshift"
+          }
+     ]
+}

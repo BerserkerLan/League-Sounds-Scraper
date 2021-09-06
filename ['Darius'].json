@@ -1,0 +1,3008 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Darius_Select.ogg/revision/latest?cb=20200709155900"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Darius_Ban.ogg/revision/latest?cb=20200809185136"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_move8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_move9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_taunt1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_taunt2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_joke1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_attack7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_taunt05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_taunt06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_taunt07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_taunt08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_taunt09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntAmumu01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntAmumu02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntAmumu03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntAshe01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntBrand01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntCaitlyn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntDiana01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntDraven01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntDrMundo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntDrMundo02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntEzreal01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntFiddlesticks01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntGangplank01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntGaren01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntGragas01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntJanna01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntLeeSin01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntLeona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntLulu01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntMalphite01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntMaokai01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntMaokai02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntMasterYi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntNocturne01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntNocturne02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntOrianna01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntRammus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntSion01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntSona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntSona02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntSoraka01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntTrundle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntUdyr01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntVi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntVladimir01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntZilean01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_tauntZyra01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack010"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack011"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack012"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack013"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack014"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack015"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack016"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack017"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack018"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack019"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack020"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack021"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_attack022"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_Q1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_Q2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_Q3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_Q4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_E1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_E2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_E3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_E4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_R18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemBoots01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemBoots02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemBoots03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemBoots04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemBoots05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemBloodthirster01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemBloodthirster02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemBloodthirster03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemFrozenMallet01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemFrozenMallet02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemFrozenMallet03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemInfinityEdge01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemInfinityEdge02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemMaw01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemMaw02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemMaw03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemRanduins01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemRanduins02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemRanduins03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemRavenousHydra01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemTrinityForce03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemTrinityForce04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemSunfireCape01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemSunfireCape02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemSunfireCape03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemSunfireCape04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemTrinityForce01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemTrinityForce02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_itemTrinityForce05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_fountain01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_fountain02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DariusDunkmaster_fountain03"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King069.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Darius_God-King069.ogg/revision/latest?cb=20180618143957"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King069"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King095.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/12/Darius_God-King095.ogg/revision/latest?cb=20180618144139"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King095"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King199.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/Darius_God-King199.ogg/revision/latest?cb=20180618144731"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King199"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King005.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/Darius_God-King005.ogg/revision/latest?cb=20180618143613"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King005"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King018.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/99/Darius_God-King018.ogg/revision/latest?cb=20180618143643"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King018"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King027.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Darius_God-King027.ogg/revision/latest?cb=20180618143718"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King027"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King041.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Darius_God-King041.ogg/revision/latest?cb=20180618143832"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King041"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King045.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b1/Darius_God-King045.ogg/revision/latest?cb=20180618143835"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King045"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King060.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Darius_God-King060.ogg/revision/latest?cb=20180618143915"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King060"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King062.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Darius_God-King062.ogg/revision/latest?cb=20180618143952"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King062"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King065.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Darius_God-King065.ogg/revision/latest?cb=20180618143954"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King065"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King070.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/Darius_God-King070.ogg/revision/latest?cb=20180618143958"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King070"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King082.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8b/Darius_God-King082.ogg/revision/latest?cb=20180618144049"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King082"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King088.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Darius_God-King088.ogg/revision/latest?cb=20180618144054"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King088"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King103.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Darius_God-King103.ogg/revision/latest?cb=20180618144205"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King103"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King110.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Darius_God-King110.ogg/revision/latest?cb=20180618144210"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King110"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King112.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Darius_God-King112.ogg/revision/latest?cb=20180618144237"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King112"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King123.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Darius_God-King123.ogg/revision/latest?cb=20180618144311"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King123"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King125.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Darius_God-King125.ogg/revision/latest?cb=20180618144312"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King125"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King151.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Darius_God-King151.ogg/revision/latest?cb=20180618144512"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King151"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King155.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Darius_God-King155.ogg/revision/latest?cb=20180618144515"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King155"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King170.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Darius_God-King170.ogg/revision/latest?cb=20180618144550"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King170"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King171.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Darius_God-King171.ogg/revision/latest?cb=20180618144613"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King171"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King180.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/Darius_God-King180.ogg/revision/latest?cb=20180618144621"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King180"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King184.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Darius_God-King184.ogg/revision/latest?cb=20180618144659"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King184"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King186.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Darius_God-King186.ogg/revision/latest?cb=20180618144700"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King186"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King195.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Darius_God-King195.ogg/revision/latest?cb=20180618144728"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King195"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King207.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/db/Darius_God-King207.ogg/revision/latest?cb=20180618144803"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King207"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King202.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Darius_God-King202.ogg/revision/latest?cb=20180618144800"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King202"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King074.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Darius_God-King074.ogg/revision/latest?cb=20180618144022"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King074"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King096.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/Darius_God-King096.ogg/revision/latest?cb=20180618144139"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King096"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King145.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Darius_God-King145.ogg/revision/latest?cb=20180618144410"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King145"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King051.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Darius_God-King051.ogg/revision/latest?cb=20180618143908"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King051"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King054.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Darius_God-King054.ogg/revision/latest?cb=20180618143911"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King054"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King056.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Darius_God-King056.ogg/revision/latest?cb=20180618143912"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King056"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King077.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Darius_God-King077.ogg/revision/latest?cb=20180618144024"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King077"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King084.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Darius_God-King084.ogg/revision/latest?cb=20180618144051"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King084"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King085.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Darius_God-King085.ogg/revision/latest?cb=20180618144052"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King085"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King114.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Darius_God-King114.ogg/revision/latest?cb=20180618144238"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King114"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King119.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Darius_God-King119.ogg/revision/latest?cb=20180618144242"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King119"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King120.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Darius_God-King120.ogg/revision/latest?cb=20180618144242"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King120"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King146.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Darius_God-King146.ogg/revision/latest?cb=20180618144411"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King146"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King157.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Darius_God-King157.ogg/revision/latest?cb=20180618144517"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King157"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King197.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Darius_God-King197.ogg/revision/latest?cb=20180618144730"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King197"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King140.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Darius_God-King140.ogg/revision/latest?cb=20180618144344"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King140"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King014.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Darius_God-King014.ogg/revision/latest?cb=20180618143640"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King014"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King042.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Darius_God-King042.ogg/revision/latest?cb=20180618143833"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King042"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King046.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Darius_God-King046.ogg/revision/latest?cb=20180618143836"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King046"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King158.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Darius_God-King158.ogg/revision/latest?cb=20180618144517"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King158"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King169.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Darius_God-King169.ogg/revision/latest?cb=20180618144549"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King169"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King043.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Darius_God-King043.ogg/revision/latest?cb=20180618143834"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King043"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King075.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Darius_God-King075.ogg/revision/latest?cb=20180618144023"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King075"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King116.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Darius_God-King116.ogg/revision/latest?cb=20180618144240"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King116"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King128.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Darius_God-King128.ogg/revision/latest?cb=20180618144315"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King128"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King160.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Darius_God-King160.ogg/revision/latest?cb=20180618144519"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King160"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King061.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Darius_God-King061.ogg/revision/latest?cb=20180618143951"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King061"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King093.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Darius_God-King093.ogg/revision/latest?cb=20180618144137"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King093"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King177.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Darius_God-King177.ogg/revision/latest?cb=20180618144618"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King177"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King133.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Darius_God-King133.ogg/revision/latest?cb=20180618144339"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King133"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King007.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Darius_God-King007.ogg/revision/latest?cb=20180618143614"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King007"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King035.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Darius_God-King035.ogg/revision/latest?cb=20180618143803"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King035"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King058.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Darius_God-King058.ogg/revision/latest?cb=20180618143914"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King058"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King026.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Darius_God-King026.ogg/revision/latest?cb=20180618143717"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King026"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King098.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Darius_God-King098.ogg/revision/latest?cb=20180618144141"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King098"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King167.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Darius_God-King167.ogg/revision/latest?cb=20180618144548"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King167"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King008.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Darius_God-King008.ogg/revision/latest?cb=20180618143615"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King008"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King034.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Darius_God-King034.ogg/revision/latest?cb=20180618143802"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King034"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King049.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Darius_God-King049.ogg/revision/latest?cb=20180618143838"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King049"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King102.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Darius_God-King102.ogg/revision/latest?cb=20180618144204"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King102"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King166.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Darius_God-King166.ogg/revision/latest?cb=20180618144547"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King166"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King100.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Darius_God-King100.ogg/revision/latest?cb=20180618144142"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King100"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King150.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Darius_God-King150.ogg/revision/latest?cb=20180618144413"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King150"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King175.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Darius_God-King175.ogg/revision/latest?cb=20180618144616"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King175"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King003.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Darius_God-King003.ogg/revision/latest?cb=20180618143611"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King003"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King048.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Darius_God-King048.ogg/revision/latest?cb=20180618143837"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King048"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King137.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Darius_God-King137.ogg/revision/latest?cb=20180618144342"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King137"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King173.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Darius_God-King173.ogg/revision/latest?cb=20180618144615"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King173"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King154.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Darius_God-King154.ogg/revision/latest?cb=20180618144514"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King154"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King143.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Darius_God-King143.ogg/revision/latest?cb=20180618144409"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King143"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King012.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Darius_God-King012.ogg/revision/latest?cb=20180618143638"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King012"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King121.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Darius_God-King121.ogg/revision/latest?cb=20180618144310"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King121"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King006.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Darius_God-King006.ogg/revision/latest?cb=20180618143613"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King006"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King090.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Darius_God-King090.ogg/revision/latest?cb=20180618144055"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King090"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King188.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Darius_God-King188.ogg/revision/latest?cb=20180618144702"
+                    },
+                    {
+                         "audio_name": "Darius_God-King188.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Darius_God-King188.ogg/revision/latest?cb=20180618144702"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King188"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King052.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Darius_God-King052.ogg/revision/latest?cb=20180618143909"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King052"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King104.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Darius_God-King104.ogg/revision/latest?cb=20180618144206"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King104"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King113.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Darius_God-King113.ogg/revision/latest?cb=20180618144237"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King113"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King029.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Darius_God-King029.ogg/revision/latest?cb=20180618143719"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King029"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King057.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Darius_God-King057.ogg/revision/latest?cb=20180618143913"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King057"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King001.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Darius_God-King001.ogg/revision/latest?cb=20180618143610"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King001"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King002.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Darius_God-King002.ogg/revision/latest?cb=20180618143611"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King002"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King021.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Darius_God-King021.ogg/revision/latest?cb=20180618143713"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King021"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King028.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/45/Darius_God-King028.ogg/revision/latest?cb=20180618143718"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King028"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King036.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Darius_God-King036.ogg/revision/latest?cb=20180618143804"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King036"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King055.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Darius_God-King055.ogg/revision/latest?cb=20180618143911"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King055"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King059.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Darius_God-King059.ogg/revision/latest?cb=20180618143914"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King059"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King067.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Darius_God-King067.ogg/revision/latest?cb=20180618143956"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King067"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King071.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Darius_God-King071.ogg/revision/latest?cb=20180618144020"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King071"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King073.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Darius_God-King073.ogg/revision/latest?cb=20180618144021"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King073"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King083.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Darius_God-King083.ogg/revision/latest?cb=20180618144050"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King083"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King086.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Darius_God-King086.ogg/revision/latest?cb=20180618144052"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King086"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King092.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Darius_God-King092.ogg/revision/latest?cb=20180618144136"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King092"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King094.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/Darius_God-King094.ogg/revision/latest?cb=20180618144138"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King094"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King097.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Darius_God-King097.ogg/revision/latest?cb=20180618144140"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King097"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King135.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Darius_God-King135.ogg/revision/latest?cb=20180618144341"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King135"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King142.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Darius_God-King142.ogg/revision/latest?cb=20180618144408"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King142"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King156.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Darius_God-King156.ogg/revision/latest?cb=20180618144516"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King156"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King165.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Darius_God-King165.ogg/revision/latest?cb=20180618144546"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King165"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King181.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Darius_God-King181.ogg/revision/latest?cb=20180618144657"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King181"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King187.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Darius_God-King187.ogg/revision/latest?cb=20180618144701"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King187"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King192.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Darius_God-King192.ogg/revision/latest?cb=20180618144726"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King192"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King201.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Darius_God-King201.ogg/revision/latest?cb=20180618144759"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King201"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King204.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Darius_God-King204.ogg/revision/latest?cb=20180618144801"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King204"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King022.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Darius_God-King022.ogg/revision/latest?cb=20180618143714"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King022"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King208.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Darius_God-King208.ogg/revision/latest?cb=20180618144804"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King208"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King209.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Darius_God-King209.ogg/revision/latest?cb=20180618144805"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King209"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King091.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Darius_God-King091.ogg/revision/latest?cb=20180618144136"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King091"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King023.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Darius_God-King023.ogg/revision/latest?cb=20180618143715"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King023"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King047.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Darius_God-King047.ogg/revision/latest?cb=20180618143837"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King047"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King161.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Darius_God-King161.ogg/revision/latest?cb=20180618144543"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King161"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King138.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Darius_God-King138.ogg/revision/latest?cb=20180618144343"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King138"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King191.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Darius_God-King191.ogg/revision/latest?cb=20180618144725"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King191"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King011.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Darius_God-King011.ogg/revision/latest?cb=20180618143637"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King011"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King016.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Darius_God-King016.ogg/revision/latest?cb=20180618143641"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King016"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King040.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Darius_God-King040.ogg/revision/latest?cb=20180618143807"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King040"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King099.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Darius_God-King099.ogg/revision/latest?cb=20180618144141"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King099"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King118.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Darius_God-King118.ogg/revision/latest?cb=20180618144241"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King118"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King139.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/49/Darius_God-King139.ogg/revision/latest?cb=20180618144343"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King139"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King174.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Darius_God-King174.ogg/revision/latest?cb=20180618144616"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King174"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King182.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Darius_God-King182.ogg/revision/latest?cb=20180618144658"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King182"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King193.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Darius_God-King193.ogg/revision/latest?cb=20180618144727"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King193"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King210.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Darius_God-King210.ogg/revision/latest?cb=20180618144805"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King210"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King024.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/26/Darius_God-King024.ogg/revision/latest?cb=20180618143716"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King024"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King031.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Darius_God-King031.ogg/revision/latest?cb=20180618143800"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King031"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King178.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Darius_God-King178.ogg/revision/latest?cb=20180618144619"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King178"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King194.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Darius_God-King194.ogg/revision/latest?cb=20180618144728"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King194"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King004.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Darius_God-King004.ogg/revision/latest?cb=20180618143612"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King004"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King015.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Darius_God-King015.ogg/revision/latest?cb=20180618143640"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King015"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King019.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Darius_God-King019.ogg/revision/latest?cb=20180618143644"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King019"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King076.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Darius_God-King076.ogg/revision/latest?cb=20180618144024"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King076"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King089.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Darius_God-King089.ogg/revision/latest?cb=20180618144054"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King089"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King132.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Darius_God-King132.ogg/revision/latest?cb=20180618144339"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King132"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King183.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Darius_God-King183.ogg/revision/latest?cb=20180618144658"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King183"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King206.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Darius_God-King206.ogg/revision/latest?cb=20180618144803"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King206"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King037.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Darius_God-King037.ogg/revision/latest?cb=20180618143804"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King037"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King136.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Darius_God-King136.ogg/revision/latest?cb=20180618144342"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King136"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King141.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Darius_God-King141.ogg/revision/latest?cb=20180618144407"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King141"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King144.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Darius_God-King144.ogg/revision/latest?cb=20180618144409"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King144"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King064.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Darius_God-King064.ogg/revision/latest?cb=20180618143953"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King064"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King066.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Darius_God-King066.ogg/revision/latest?cb=20180618143955"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King066"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King172.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Darius_God-King172.ogg/revision/latest?cb=20180618144614"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King172"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King072.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Darius_God-King072.ogg/revision/latest?cb=20180618144021"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King072"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King106.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Darius_God-King106.ogg/revision/latest?cb=20180618144207"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King106"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King107.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b6/Darius_God-King107.ogg/revision/latest?cb=20180618144208"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King107"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King108.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Darius_God-King108.ogg/revision/latest?cb=20180618144209"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King108"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King115.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Darius_God-King115.ogg/revision/latest?cb=20180618144239"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King115"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King122.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Darius_God-King122.ogg/revision/latest?cb=20180618144310"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King122"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King124.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Darius_God-King124.ogg/revision/latest?cb=20180618144312"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King124"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King131.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Darius_God-King131.ogg/revision/latest?cb=20180618144338"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King131"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King147.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Darius_God-King147.ogg/revision/latest?cb=20180618144411"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King147"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King159.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Darius_God-King159.ogg/revision/latest?cb=20180618144518"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King159"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King164.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Darius_God-King164.ogg/revision/latest?cb=20180618144546"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King164"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King189.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Darius_God-King189.ogg/revision/latest?cb=20180618144703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King189"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King203.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Darius_God-King203.ogg/revision/latest?cb=20180618144800"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King203"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King205.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Darius_God-King205.ogg/revision/latest?cb=20180618144802"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King205"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King010.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Darius_God-King010.ogg/revision/latest?cb=20180618143616"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King010"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King033.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Darius_God-King033.ogg/revision/latest?cb=20180618143802"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King033"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King196.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Darius_God-King196.ogg/revision/latest?cb=20180618144729"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King196"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King127.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Darius_God-King127.ogg/revision/latest?cb=20180618144314"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King127"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King078.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Darius_God-King078.ogg/revision/latest?cb=20180618144025"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King078"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King109.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Darius_God-King109.ogg/revision/latest?cb=20180618144210"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King109"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King030.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Darius_God-King030.ogg/revision/latest?cb=20180618143720"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King030"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King111.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Darius_God-King111.ogg/revision/latest?cb=20180618144236"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King111"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King152.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a5/Darius_God-King152.ogg/revision/latest?cb=20180618144513"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King152"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King162.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Darius_God-King162.ogg/revision/latest?cb=20180618144544"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King162"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King176.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Darius_God-King176.ogg/revision/latest?cb=20180618144618"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King176"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King080.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Darius_God-King080.ogg/revision/latest?cb=20180618144026"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King080"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King101.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Darius_God-King101.ogg/revision/latest?cb=20180618144204"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King101"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King130.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Darius_God-King130.ogg/revision/latest?cb=20180618144317"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King130"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King153.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Darius_God-King153.ogg/revision/latest?cb=20180618144514"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King153"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King198.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Darius_God-King198.ogg/revision/latest?cb=20180618144730"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King198"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King185.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Darius_God-King185.ogg/revision/latest?cb=20180618144700"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King185"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King105.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Darius_God-King105.ogg/revision/latest?cb=20180618144207"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King105"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King168.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Darius_God-King168.ogg/revision/latest?cb=20180618144548"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King168"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King179.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Darius_God-King179.ogg/revision/latest?cb=20180618144620"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King179"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King039.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/61/Darius_God-King039.ogg/revision/latest?cb=20180618143806"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King039"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King068.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Darius_God-King068.ogg/revision/latest?cb=20180618143957"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King068"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King079.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/Darius_God-King079.ogg/revision/latest?cb=20180618144026"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King079"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King081.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Darius_God-King081.ogg/revision/latest?cb=20180618144048"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King081"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King190.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Darius_God-King190.ogg/revision/latest?cb=20180618144703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King190"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King017.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Darius_God-King017.ogg/revision/latest?cb=20180618143642"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King017"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King020.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Darius_God-King020.ogg/revision/latest?cb=20180618143644"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King020"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King025.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Darius_God-King025.ogg/revision/latest?cb=20180618143716"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King025"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King126.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Darius_God-King126.ogg/revision/latest?cb=20180618144313"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King126"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King129.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Darius_God-King129.ogg/revision/latest?cb=20180618144316"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King129"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King149.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Darius_God-King149.ogg/revision/latest?cb=20180618144413"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King149"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King009.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Darius_God-King009.ogg/revision/latest?cb=20180618143615"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King009"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King038.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Darius_God-King038.ogg/revision/latest?cb=20180618143805"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King038"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King050.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Darius_God-King050.ogg/revision/latest?cb=20180618143839"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King050"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King053.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Darius_God-King053.ogg/revision/latest?cb=20180618143910"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King053"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King063.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Darius_God-King063.ogg/revision/latest?cb=20180618143953"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King063"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King087.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Darius_God-King087.ogg/revision/latest?cb=20180618144053"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King087"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King013.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Darius_God-King013.ogg/revision/latest?cb=20180618143639"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King013"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King044.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Darius_God-King044.ogg/revision/latest?cb=20180618143835"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King044"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Darius_God-King163.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Darius_God-King163.ogg/revision/latest?cb=20180618144545"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King163"
+          }
+     ]
+}

@@ -1,0 +1,3129 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "MissFortune_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/MissFortune_Select.ogg/revision/latest?cb=20200711191925"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "MissFortune_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/MissFortune_Ban.ogg/revision/latest?cb=20200810151644"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "StarGuardian_2017_SpawnMusic"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_move1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_move2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_move3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_move4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_move5_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_move6_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_move7_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_move8_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_taunt_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_joke_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_laugh1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_laugh2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_laugh3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_laugh4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_attack1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_attack2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_attack3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_attack4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_attack5_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortune_attack6_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortuneArcade_recall01_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "StarGuardian_2017_Recall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortuneGunGoddess_SpawnMusic_ogg"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_255.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Miss_Fortune_255.ogg/revision/latest?cb=20180320085149"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_255"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_277.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Miss_Fortune_277.ogg/revision/latest?cb=20180320085220"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_277"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_249.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Miss_Fortune_249.ogg/revision/latest?cb=20180320085140"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_249"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_106.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Miss_Fortune_106.ogg/revision/latest?cb=20180320083914"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_106"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_070.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Miss_Fortune_070.ogg/revision/latest?cb=20180320083821"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_070"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_011.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Miss_Fortune_011.ogg/revision/latest?cb=20180320083655"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_011"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_180.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Miss_Fortune_180.ogg/revision/latest?cb=20180320084109"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_180"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_121.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Miss_Fortune_121.ogg/revision/latest?cb=20180320083936"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_121"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_221.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Miss_Fortune_221.ogg/revision/latest?cb=20180320084210"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_221"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_101.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Miss_Fortune_101.ogg/revision/latest?cb=20180320083907"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_101"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_234.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Miss_Fortune_234.ogg/revision/latest?cb=20180320085116"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_234"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_165.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0c/Miss_Fortune_165.ogg/revision/latest?cb=20180320084047"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_165"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_198.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Miss_Fortune_198.ogg/revision/latest?cb=20180320084135"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_198"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_118.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Miss_Fortune_118.ogg/revision/latest?cb=20180320083931"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_118"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_227.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Miss_Fortune_227.ogg/revision/latest?cb=20180320085106"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_227"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_116.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Miss_Fortune_116.ogg/revision/latest?cb=20180320083928"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_116"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_099.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Miss_Fortune_099.ogg/revision/latest?cb=20180320083903"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_099"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_129.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Miss_Fortune_129.ogg/revision/latest?cb=20180320083948"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_129"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_064.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Miss_Fortune_064.ogg/revision/latest?cb=20180320083813"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_064"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_130.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Miss_Fortune_130.ogg/revision/latest?cb=20180320083949"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_130"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_114.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Miss_Fortune_114.ogg/revision/latest?cb=20180320083926"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_114"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_186.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Miss_Fortune_186.ogg/revision/latest?cb=20180320084117"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_186"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_057.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Miss_Fortune_057.ogg/revision/latest?cb=20180320083801"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_057"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_006.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Miss_Fortune_006.ogg/revision/latest?cb=20180320083648"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_006"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_217.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Miss_Fortune_217.ogg/revision/latest?cb=20180320084203"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_217"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_181.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/Miss_Fortune_181.ogg/revision/latest?cb=20180320084110"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_181"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_063.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Miss_Fortune_063.ogg/revision/latest?cb=20180320083812"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_063"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_236.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Miss_Fortune_236.ogg/revision/latest?cb=20180320085120"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_236"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_250.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Miss_Fortune_250.ogg/revision/latest?cb=20180320085141"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_250"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_251.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Miss_Fortune_251.ogg/revision/latest?cb=20180320085142"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_251"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_166.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Miss_Fortune_166.ogg/revision/latest?cb=20180320084049"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_166"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_184.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Miss_Fortune_184.ogg/revision/latest?cb=20180320084114"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_184"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_109.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/Miss_Fortune_109.ogg/revision/latest?cb=20180320083919"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_109"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_053.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Miss_Fortune_053.ogg/revision/latest?cb=20180320083756"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_053"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_122.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Miss_Fortune_122.ogg/revision/latest?cb=20180320083938"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_122"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_296.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Miss_Fortune_296.ogg/revision/latest?cb=20180320085248"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_296"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_141.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Miss_Fortune_141.ogg/revision/latest?cb=20180320084011"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_141"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_158.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Miss_Fortune_158.ogg/revision/latest?cb=20180320084037"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_158"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_268.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Miss_Fortune_268.ogg/revision/latest?cb=20180320085207"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_268"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_291.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Miss_Fortune_291.ogg/revision/latest?cb=20180320085240"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_291"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_004.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Miss_Fortune_004.ogg/revision/latest?cb=20180320083645"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_004"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_056.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Miss_Fortune_056.ogg/revision/latest?cb=20180320083800"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_056"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_133.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Miss_Fortune_133.ogg/revision/latest?cb=20180320083959"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_133"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_047.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Miss_Fortune_047.ogg/revision/latest?cb=20180320083747"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_047"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_155.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Miss_Fortune_155.ogg/revision/latest?cb=20180320084033"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_155"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_285.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Miss_Fortune_285.ogg/revision/latest?cb=20180320085232"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_285"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_051.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Miss_Fortune_051.ogg/revision/latest?cb=20180320083753"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_051"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_142.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Miss_Fortune_142.ogg/revision/latest?cb=20180320084013"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_142"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_192.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/53/Miss_Fortune_192.ogg/revision/latest?cb=20180320084126"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_192"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_203.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Miss_Fortune_203.ogg/revision/latest?cb=20180320084143"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_203"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_294.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Miss_Fortune_294.ogg/revision/latest?cb=20180320085245"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_294"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_145.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Miss_Fortune_145.ogg/revision/latest?cb=20180320084017"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_145"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_215.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Miss_Fortune_215.ogg/revision/latest?cb=20180320084200"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_215"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_168.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Miss_Fortune_168.ogg/revision/latest?cb=20180320084052"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_168"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_238.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Miss_Fortune_238.ogg/revision/latest?cb=20180320085123"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_238"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_265.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/26/Miss_Fortune_265.ogg/revision/latest?cb=20180320085203"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_265"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_175.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Miss_Fortune_175.ogg/revision/latest?cb=20180320084101"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_175"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_232.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Miss_Fortune_232.ogg/revision/latest?cb=20180320085114"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_232"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_244.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Miss_Fortune_244.ogg/revision/latest?cb=20180320085132"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_244"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_286.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Miss_Fortune_286.ogg/revision/latest?cb=20180320085233"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_286"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_097.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Miss_Fortune_097.ogg/revision/latest?cb=20180320083900"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_097"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_179.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Miss_Fortune_179.ogg/revision/latest?cb=20180320084107"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_179"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_161.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Miss_Fortune_161.ogg/revision/latest?cb=20180320084041"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_161"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_154.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Miss_Fortune_154.ogg/revision/latest?cb=20180320084031"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_154"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_220.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Miss_Fortune_220.ogg/revision/latest?cb=20180320084208"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_220"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_218.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Miss_Fortune_218.ogg/revision/latest?cb=20180320084205"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_218"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_269.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Miss_Fortune_269.ogg/revision/latest?cb=20180320085209"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_269"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_246.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Miss_Fortune_246.ogg/revision/latest?cb=20180320085135"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_246"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_059.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Miss_Fortune_059.ogg/revision/latest?cb=20180320083805"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_059"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_107.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Miss_Fortune_107.ogg/revision/latest?cb=20180320083916"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_107"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_176.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Miss_Fortune_176.ogg/revision/latest?cb=20180320084103"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_176"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_014.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Miss_Fortune_014.ogg/revision/latest?cb=20180320083659"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_014"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_187.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Miss_Fortune_187.ogg/revision/latest?cb=20180320084119"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_187"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_149.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Miss_Fortune_149.ogg/revision/latest?cb=20180320084023"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_149"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_128.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Miss_Fortune_128.ogg/revision/latest?cb=20180320083947"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_128"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_216.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Miss_Fortune_216.ogg/revision/latest?cb=20180320084201"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_216"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_068.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Miss_Fortune_068.ogg/revision/latest?cb=20180320083819"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_068"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_267.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Miss_Fortune_267.ogg/revision/latest?cb=20180320085205"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_267"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_253.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a5/Miss_Fortune_253.ogg/revision/latest?cb=20180320085146"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_253"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_151.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Miss_Fortune_151.ogg/revision/latest?cb=20180320084026"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_151"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_272.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Miss_Fortune_272.ogg/revision/latest?cb=20180320085213"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_272"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_188.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Miss_Fortune_188.ogg/revision/latest?cb=20180320084120"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_188"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_210.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/99/Miss_Fortune_210.ogg/revision/latest?cb=20180320084153"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_210"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_190.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Miss_Fortune_190.ogg/revision/latest?cb=20180320084124"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_190"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_293.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Miss_Fortune_293.ogg/revision/latest?cb=20180320085243"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_293"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_258.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Miss_Fortune_258.ogg/revision/latest?cb=20180320085153"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_258"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_112.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Miss_Fortune_112.ogg/revision/latest?cb=20180320083923"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_112"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_096.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Miss_Fortune_096.ogg/revision/latest?cb=20180320083859"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_096"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_257.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Miss_Fortune_257.ogg/revision/latest?cb=20180320085151"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_257"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_292.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Miss_Fortune_292.ogg/revision/latest?cb=20180320085242"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_292"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_290.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Miss_Fortune_290.ogg/revision/latest?cb=20180320085239"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_290"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_252.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Miss_Fortune_252.ogg/revision/latest?cb=20180320085144"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_252"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_264.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Miss_Fortune_264.ogg/revision/latest?cb=20180320085201"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_264"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_123.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Miss_Fortune_123.ogg/revision/latest?cb=20180320083939"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_123"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_197.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Miss_Fortune_197.ogg/revision/latest?cb=20180320084134"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_197"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_185.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Miss_Fortune_185.ogg/revision/latest?cb=20180320084116"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_185"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_231.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Miss_Fortune_231.ogg/revision/latest?cb=20180320085112"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_231"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_228.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Miss_Fortune_228.ogg/revision/latest?cb=20180320085108"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_228"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_124.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Miss_Fortune_124.ogg/revision/latest?cb=20180320083941"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_124"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_191.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Miss_Fortune_191.ogg/revision/latest?cb=20180320084125"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_191"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_287.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Miss_Fortune_287.ogg/revision/latest?cb=20180320085234"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_287"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_289.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Miss_Fortune_289.ogg/revision/latest?cb=20180320085237"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_289"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_066.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Miss_Fortune_066.ogg/revision/latest?cb=20180320083816"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_066"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_235.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Miss_Fortune_235.ogg/revision/latest?cb=20180320085118"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_235"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_037.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Miss_Fortune_037.ogg/revision/latest?cb=20180320083733"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_037"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_110.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Miss_Fortune_110.ogg/revision/latest?cb=20180320083920"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_110"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_148.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Miss_Fortune_148.ogg/revision/latest?cb=20180320084021"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_148"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_090.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Miss_Fortune_090.ogg/revision/latest?cb=20180320083850"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_090"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortuneGunGoddess_dance_ogg"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_140.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/Miss_Fortune_140.ogg/revision/latest?cb=20180320084010"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_140"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_052.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Miss_Fortune_052.ogg/revision/latest?cb=20180320083754"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_052"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_074.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Miss_Fortune_074.ogg/revision/latest?cb=20180320083827"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_074"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_007.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Miss_Fortune_007.ogg/revision/latest?cb=20180320083649"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_007"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_077.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Miss_Fortune_077.ogg/revision/latest?cb=20180320083831"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_077"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_035.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Miss_Fortune_035.ogg/revision/latest?cb=20180320083729"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_035"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_095.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Miss_Fortune_095.ogg/revision/latest?cb=20180320083857"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_095"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_024.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Miss_Fortune_024.ogg/revision/latest?cb=20180320083714"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_024"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_030.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Miss_Fortune_030.ogg/revision/latest?cb=20180320083722"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_030"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_105.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Miss_Fortune_105.ogg/revision/latest?cb=20180320083912"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_105"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_021.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Miss_Fortune_021.ogg/revision/latest?cb=20180320083710"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_021"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_113.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Miss_Fortune_113.ogg/revision/latest?cb=20180320083924"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_113"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_038.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Miss_Fortune_038.ogg/revision/latest?cb=20180320083734"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_038"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_117.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Miss_Fortune_117.ogg/revision/latest?cb=20180320083930"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_117"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_042.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Miss_Fortune_042.ogg/revision/latest?cb=20180320083740"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_042"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_036.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Miss_Fortune_036.ogg/revision/latest?cb=20180320083731"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_036"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_067.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Miss_Fortune_067.ogg/revision/latest?cb=20180320083817"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_067"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_020.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Miss_Fortune_020.ogg/revision/latest?cb=20180320083708"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_020"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_015.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Miss_Fortune_015.ogg/revision/latest?cb=20180320083700"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_015"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_091.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Miss_Fortune_091.ogg/revision/latest?cb=20180320083851"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_091"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_108.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Miss_Fortune_108.ogg/revision/latest?cb=20180320083917"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_108"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_087.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/64/Miss_Fortune_087.ogg/revision/latest?cb=20180320083845"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_087"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_069.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/99/Miss_Fortune_069.ogg/revision/latest?cb=20180320083820"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_069"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_120.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Miss_Fortune_120.ogg/revision/latest?cb=20180320083934"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_120"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_010.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Miss_Fortune_010.ogg/revision/latest?cb=20180320083653"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_010"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_073.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Miss_Fortune_073.ogg/revision/latest?cb=20180320083825"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_073"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_028.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Miss_Fortune_028.ogg/revision/latest?cb=20180320083720"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_028"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_040.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Miss_Fortune_040.ogg/revision/latest?cb=20180320083737"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_040"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_085.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Miss_Fortune_085.ogg/revision/latest?cb=20180320083843"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_085"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_100.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Miss_Fortune_100.ogg/revision/latest?cb=20180320083905"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_100"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_026.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Miss_Fortune_026.ogg/revision/latest?cb=20180320083716"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_026"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_050.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Miss_Fortune_050.ogg/revision/latest?cb=20180320083752"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_050"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_194.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Miss_Fortune_194.ogg/revision/latest?cb=20180320084129"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_194"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_033.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Miss_Fortune_033.ogg/revision/latest?cb=20180320083727"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_033"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_159.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Miss_Fortune_159.ogg/revision/latest?cb=20180320084038"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_159"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_061.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Miss_Fortune_061.ogg/revision/latest?cb=20180320083808"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_061"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_134.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Miss_Fortune_134.ogg/revision/latest?cb=20180320084001"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_134"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_072.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Miss_Fortune_072.ogg/revision/latest?cb=20180320083824"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_072"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_174.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Miss_Fortune_174.ogg/revision/latest?cb=20180320084100"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_174"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_049.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Miss_Fortune_049.ogg/revision/latest?cb=20180320083750"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_049"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_075.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Miss_Fortune_075.ogg/revision/latest?cb=20180320083828"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_075"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_048.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Miss_Fortune_048.ogg/revision/latest?cb=20180320083749"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_048"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_025.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Miss_Fortune_025.ogg/revision/latest?cb=20180320083715"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_025"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_196.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Miss_Fortune_196.ogg/revision/latest?cb=20180320084132"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_196"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_150.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Miss_Fortune_150.ogg/revision/latest?cb=20180320084024"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_150"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_055.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Miss_Fortune_055.ogg/revision/latest?cb=20180320083758"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_055"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_204.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Miss_Fortune_204.ogg/revision/latest?cb=20180320084144"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_204"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_082.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Miss_Fortune_082.ogg/revision/latest?cb=20180320083838"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_082"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_001.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Miss_Fortune_001.ogg/revision/latest?cb=20180320083640"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_001"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_093.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Miss_Fortune_093.ogg/revision/latest?cb=20180320083854"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_093"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_111.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Miss_Fortune_111.ogg/revision/latest?cb=20180320083921"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_111"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_081.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Miss_Fortune_081.ogg/revision/latest?cb=20180320083837"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_081"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_098.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/Miss_Fortune_098.ogg/revision/latest?cb=20180320083902"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_098"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_162.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Miss_Fortune_162.ogg/revision/latest?cb=20180320084043"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_162"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_127.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Miss_Fortune_127.ogg/revision/latest?cb=20180320083945"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_127"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_119.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Miss_Fortune_119.ogg/revision/latest?cb=20180320083932"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_119"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_279.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Miss_Fortune_279.ogg/revision/latest?cb=20180320085223"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_279"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_211.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Miss_Fortune_211.ogg/revision/latest?cb=20180320084154"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_211"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_044.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Miss_Fortune_044.ogg/revision/latest?cb=20180320083743"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_044"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_032.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Miss_Fortune_032.ogg/revision/latest?cb=20180320083725"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_032"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_126.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Miss_Fortune_126.ogg/revision/latest?cb=20180320083944"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_126"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_222.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b6/Miss_Fortune_222.ogg/revision/latest?cb=20180320084211"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_222"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_233.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Miss_Fortune_233.ogg/revision/latest?cb=20180320085115"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_233"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_131.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Miss_Fortune_131.ogg/revision/latest?cb=20180320083951"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_131"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_139.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Miss_Fortune_139.ogg/revision/latest?cb=20180320084008"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_139"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_177.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Miss_Fortune_177.ogg/revision/latest?cb=20180320084104"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_177"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_219.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Miss_Fortune_219.ogg/revision/latest?cb=20180320084206"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_219"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_163.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Miss_Fortune_163.ogg/revision/latest?cb=20180320084044"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_163"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_137.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Miss_Fortune_137.ogg/revision/latest?cb=20180320084005"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_137"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_062.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Miss_Fortune_062.ogg/revision/latest?cb=20180320083810"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_062"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_278.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Miss_Fortune_278.ogg/revision/latest?cb=20180320085222"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_278"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_008.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b1/Miss_Fortune_008.ogg/revision/latest?cb=20180320083650"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_008"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_016.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Miss_Fortune_016.ogg/revision/latest?cb=20180320083702"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_016"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_189.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Miss_Fortune_189.ogg/revision/latest?cb=20180320084122"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_189"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_230.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Miss_Fortune_230.ogg/revision/latest?cb=20180320085111"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_230"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_092.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Miss_Fortune_092.ogg/revision/latest?cb=20180320083853"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_092"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_237.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Miss_Fortune_237.ogg/revision/latest?cb=20180320085122"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_237"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_043.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Miss_Fortune_043.ogg/revision/latest?cb=20180320083742"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_043"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_136.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Miss_Fortune_136.ogg/revision/latest?cb=20180320084004"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_136"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_201.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Miss_Fortune_201.ogg/revision/latest?cb=20180320084140"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_201"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_239.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Miss_Fortune_239.ogg/revision/latest?cb=20180320085124"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_239"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_199.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Miss_Fortune_199.ogg/revision/latest?cb=20180320084137"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_199"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_288.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Miss_Fortune_288.ogg/revision/latest?cb=20180320085236"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_288"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_271.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Miss_Fortune_271.ogg/revision/latest?cb=20180320085211"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_271"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_002.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Miss_Fortune_002.ogg/revision/latest?cb=20180320083642"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_002"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_146.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Miss_Fortune_146.ogg/revision/latest?cb=20180320084018"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_146"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_207.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Miss_Fortune_207.ogg/revision/latest?cb=20180320084148"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_207"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_076.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Miss_Fortune_076.ogg/revision/latest?cb=20180320083830"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_076"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_065.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Miss_Fortune_065.ogg/revision/latest?cb=20180320083814"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_065"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_060.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Miss_Fortune_060.ogg/revision/latest?cb=20180320083806"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_060"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_243.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Miss_Fortune_243.ogg/revision/latest?cb=20180320085130"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_243"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_214.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Miss_Fortune_214.ogg/revision/latest?cb=20180320084158"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_214"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_247.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Miss_Fortune_247.ogg/revision/latest?cb=20180320085136"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_247"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_280.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Miss_Fortune_280.ogg/revision/latest?cb=20180320085224"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_280"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_144.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Miss_Fortune_144.ogg/revision/latest?cb=20180320084016"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_144"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_017.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Miss_Fortune_017.ogg/revision/latest?cb=20180320083704"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_017"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_241.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Miss_Fortune_241.ogg/revision/latest?cb=20180320085127"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_241"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_012.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Miss_Fortune_012.ogg/revision/latest?cb=20180320083656"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_012"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_046.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Miss_Fortune_046.ogg/revision/latest?cb=20180320083746"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_046"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_226.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Miss_Fortune_226.ogg/revision/latest?cb=20180320085105"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_226"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_013.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Miss_Fortune_013.ogg/revision/latest?cb=20180320083658"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_013"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_157.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Miss_Fortune_157.ogg/revision/latest?cb=20180320084035"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_157"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_282.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Miss_Fortune_282.ogg/revision/latest?cb=20180320085227"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_282"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_084.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Miss_Fortune_084.ogg/revision/latest?cb=20180320083841"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_084"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_019.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Miss_Fortune_019.ogg/revision/latest?cb=20180320083707"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_019"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_164.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Miss_Fortune_164.ogg/revision/latest?cb=20180320084045"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_164"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_178.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Miss_Fortune_178.ogg/revision/latest?cb=20180320084105"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_178"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_115.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Miss_Fortune_115.ogg/revision/latest?cb=20180320083927"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_115"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_248.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Miss_Fortune_248.ogg/revision/latest?cb=20180320085137"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_248"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_245.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Miss_Fortune_245.ogg/revision/latest?cb=20180320085133"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_245"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_212.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/99/Miss_Fortune_212.ogg/revision/latest?cb=20180320084155"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_212"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_083.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Miss_Fortune_083.ogg/revision/latest?cb=20180320083840"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_083"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_088.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Miss_Fortune_088.ogg/revision/latest?cb=20180320083847"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_088"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_170.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/01/Miss_Fortune_170.ogg/revision/latest?cb=20180320084054"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_170"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_260.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Miss_Fortune_260.ogg/revision/latest?cb=20180320085156"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_260"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_079.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Miss_Fortune_079.ogg/revision/latest?cb=20180320083834"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_079"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_058.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Miss_Fortune_058.ogg/revision/latest?cb=20180320083803"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_058"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_029.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Miss_Fortune_029.ogg/revision/latest?cb=20180320083721"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_029"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_202.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Miss_Fortune_202.ogg/revision/latest?cb=20180320084141"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_202"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_054.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Miss_Fortune_054.ogg/revision/latest?cb=20180320083757"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_054"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_273.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Miss_Fortune_273.ogg/revision/latest?cb=20180320085214"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_273"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_147.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Miss_Fortune_147.ogg/revision/latest?cb=20180320084020"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_147"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_242.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Miss_Fortune_242.ogg/revision/latest?cb=20180320085129"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_242"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_080.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Miss_Fortune_080.ogg/revision/latest?cb=20180320083836"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_080"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_171.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/db/Miss_Fortune_171.ogg/revision/latest?cb=20180320084056"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_171"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_103.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Miss_Fortune_103.ogg/revision/latest?cb=20180320083910"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_103"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_039.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Miss_Fortune_039.ogg/revision/latest?cb=20180320083736"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_039"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_224.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Miss_Fortune_224.ogg/revision/latest?cb=20180320084214"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_224"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_274.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Miss_Fortune_274.ogg/revision/latest?cb=20180320085216"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_274"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_152.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Miss_Fortune_152.ogg/revision/latest?cb=20180320084028"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_152"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_086.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Miss_Fortune_086.ogg/revision/latest?cb=20180320083844"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_086"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_266.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Miss_Fortune_266.ogg/revision/latest?cb=20180320085204"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_266"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_208.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Miss_Fortune_208.ogg/revision/latest?cb=20180320084150"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_208"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_138.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Miss_Fortune_138.ogg/revision/latest?cb=20180320084007"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_138"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_183.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Miss_Fortune_183.ogg/revision/latest?cb=20180320084113"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_183"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_018.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Miss_Fortune_018.ogg/revision/latest?cb=20180320083705"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_018"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_104.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Miss_Fortune_104.ogg/revision/latest?cb=20180320083911"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_104"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_263.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Miss_Fortune_263.ogg/revision/latest?cb=20180320085200"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_263"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_276.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Miss_Fortune_276.ogg/revision/latest?cb=20180320085218"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_276"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_031.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/61/Miss_Fortune_031.ogg/revision/latest?cb=20180320083724"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_031"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_003.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Miss_Fortune_003.ogg/revision/latest?cb=20180320083643"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_003"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_295.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/01/Miss_Fortune_295.ogg/revision/latest?cb=20180320085246"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_295"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_034.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Miss_Fortune_034.ogg/revision/latest?cb=20180320083728"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_034"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_270.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Miss_Fortune_270.ogg/revision/latest?cb=20180320085210"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_270"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_153.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Miss_Fortune_153.ogg/revision/latest?cb=20180320084030"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_153"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_240.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Miss_Fortune_240.ogg/revision/latest?cb=20180320085126"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_240"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_200.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Miss_Fortune_200.ogg/revision/latest?cb=20180320084138"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_200"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_045.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Miss_Fortune_045.ogg/revision/latest?cb=20180320083745"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_045"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_261.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Miss_Fortune_261.ogg/revision/latest?cb=20180320085157"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_261"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_125.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Miss_Fortune_125.ogg/revision/latest?cb=20180320083943"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_125"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_259.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Miss_Fortune_259.ogg/revision/latest?cb=20180320085154"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_259"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_281.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Miss_Fortune_281.ogg/revision/latest?cb=20180320085226"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_281"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_206.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Miss_Fortune_206.ogg/revision/latest?cb=20180320084147"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_206"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_089.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Miss_Fortune_089.ogg/revision/latest?cb=20180320083848"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_089"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_209.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Miss_Fortune_209.ogg/revision/latest?cb=20180320084151"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_209"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_173.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Miss_Fortune_173.ogg/revision/latest?cb=20180320084059"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_173"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_167.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Miss_Fortune_167.ogg/revision/latest?cb=20180320084050"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_167"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_172.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Miss_Fortune_172.ogg/revision/latest?cb=20180320084057"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_172"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_297.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6a/Miss_Fortune_297.ogg/revision/latest?cb=20180320085250"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_297"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_094.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Miss_Fortune_094.ogg/revision/latest?cb=20180320083856"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_094"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_229.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Miss_Fortune_229.ogg/revision/latest?cb=20180320085109"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_229"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_143.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Miss_Fortune_143.ogg/revision/latest?cb=20180320084014"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_143"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_223.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Miss_Fortune_223.ogg/revision/latest?cb=20180320084213"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_223"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_254.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Miss_Fortune_254.ogg/revision/latest?cb=20180320085147"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_254"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_009.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Miss_Fortune_009.ogg/revision/latest?cb=20180320083652"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_009"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_169.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Miss_Fortune_169.ogg/revision/latest?cb=20180320084053"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_169"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_275.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Miss_Fortune_275.ogg/revision/latest?cb=20180320085217"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_275"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_195.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Miss_Fortune_195.ogg/revision/latest?cb=20180320084131"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_195"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_005.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Miss_Fortune_005.ogg/revision/latest?cb=20180320083646"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_005"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_193.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Miss_Fortune_193.ogg/revision/latest?cb=20180320084128"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_193"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_262.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Miss_Fortune_262.ogg/revision/latest?cb=20180320085159"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_262"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_078.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Miss_Fortune_078.ogg/revision/latest?cb=20180320083832"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_078"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_225.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Miss_Fortune_225.ogg/revision/latest?cb=20180320085103"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_225"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_182.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Miss_Fortune_182.ogg/revision/latest?cb=20180320084112"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_182"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_213.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Miss_Fortune_213.ogg/revision/latest?cb=20180320084157"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_213"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_027.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Miss_Fortune_027.ogg/revision/latest?cb=20180320083718"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_027"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_071.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Miss_Fortune_071.ogg/revision/latest?cb=20180320083823"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_071"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortuneGunGoddess_recall_ogg"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_160.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Miss_Fortune_160.ogg/revision/latest?cb=20180320084040"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_160"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_135.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Miss_Fortune_135.ogg/revision/latest?cb=20180320084002"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_135"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_023.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Miss_Fortune_023.ogg/revision/latest?cb=20180320083713"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_023"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_102.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Miss_Fortune_102.ogg/revision/latest?cb=20180320083908"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_102"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "MissFortuneGunGoddess_death_ogg"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_041.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Miss_Fortune_041.ogg/revision/latest?cb=20180320083739"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_041"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_022.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Miss_Fortune_022.ogg/revision/latest?cb=20180320083711"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_022"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_205.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/86/Miss_Fortune_205.ogg/revision/latest?cb=20180320084145"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_205"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_156.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Miss_Fortune_156.ogg/revision/latest?cb=20180320084034"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_156"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_256.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/Miss_Fortune_256.ogg/revision/latest?cb=20180320085150"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_256"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_283.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Miss_Fortune_283.ogg/revision/latest?cb=20180320085228"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_283"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_284.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Miss_Fortune_284.ogg/revision/latest?cb=20180320085230"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_284"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Miss_Fortune_132.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Miss_Fortune_132.ogg/revision/latest?cb=20180320083952"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Miss_Fortune_132"
+          }
+     ]
+}

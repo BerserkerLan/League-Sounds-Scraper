@@ -1,0 +1,1772 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Hecarim_Select.ogg/revision/latest?cb=20200709155510"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_Ban.ogg/revision/latest?cb=20200809195909"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_move1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_move2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_move3"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_move4"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_move5"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_move6"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_move8"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_move8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_move9"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "LancerZeroHecarim_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_taunt1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_taunt1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_taunt2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_taunt2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_joke1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_joke1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Joke_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Hecarim_CosmicCharger_Joke_0.ogg/revision/latest?cb=20201121194732"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_joke2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Joke_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Hecarim_CosmicCharger_Joke_1.ogg/revision/latest?cb=20201121194735"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_basicattack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_basicattack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_basicattack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_basicattack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_basicattack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_basicattack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_basicattack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_basicattack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_attack1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_attack2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_attack3"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_attack4"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_attack5"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_attack6"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Hecarim_CosmicCharger_Move_4.ogg/revision/latest?cb=20201121194754"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Hecarim_CosmicCharger_Move_2.ogg/revision/latest?cb=20201121194750"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Hecarim_CosmicCharger_Move_0.ogg/revision/latest?cb=20201121194746"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Hecarim_CosmicCharger_Move_1.ogg/revision/latest?cb=20201121194748"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Hecarim_CosmicCharger_Move_6.ogg/revision/latest?cb=20201121194758"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Hecarim_CosmicCharger_Move_5.ogg/revision/latest?cb=20201121194756"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Hecarim_CosmicCharger_Move_7.ogg/revision/latest?cb=20201121194801"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Hecarim_CosmicCharger_Move_3.ogg/revision/latest?cb=20201121194752"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Hecarim_CosmicCharger_Taunt_0.ogg/revision/latest?cb=20201121194811"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Hecarim_CosmicCharger_Taunt_1.ogg/revision/latest?cb=20201121194816"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Hecarim_CosmicCharger_Attack_4.ogg/revision/latest?cb=20201121194710"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Hecarim_CosmicCharger_Attack_0.ogg/revision/latest?cb=20201121194701"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Hecarim_CosmicCharger_Attack_3.ogg/revision/latest?cb=20201121194708"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Hecarim_CosmicCharger_Attack_2.ogg/revision/latest?cb=20201121194706"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Hecarim_CosmicCharger_Attack_5.ogg/revision/latest?cb=20201121194712"
+                    },
+                    {
+                         "audio_name": "Hecarim_CosmicCharger_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Hecarim_CosmicCharger_Attack_1.ogg/revision/latest?cb=20201121194703"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_CosmicCharger"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_Q1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_Q1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_Q2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_Q3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_Q3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_Q4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_Q4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_Q2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_W1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_W1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_W2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_W2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_W3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_W3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_W4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_W4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "LancerZeroHecarim_W2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "LancerZeroHecarim_W3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_R4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_R6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_R5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_R4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_R6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_R7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_R7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_R5"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Hecarim_Arcade_Recall.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Hecarim_Arcade_Recall.ogg/revision/latest?cb=20160830171559"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_Arcade"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_death1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_death1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_death2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_death2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_death3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_death3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Hecarim_death4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ArcadeHecarim_death4"
+          }
+     ]
+}

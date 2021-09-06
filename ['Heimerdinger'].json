@@ -1,0 +1,2477 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_Select_new.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Heimerdinger_Select_new.ogg/revision/latest?cb=20200711203312"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Heimerdinger_Ban.ogg/revision/latest?cb=20200809200147"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_move26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_tauntJayce01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_tauntVi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_tauntZiggs01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_tauntViktor01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_tauntZiggs02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_tauntZiggs03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_tauntZiggs04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_Q1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_RQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_RQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_W1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_RW2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_RW1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_recall01"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer112.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Heimerdinger_DragonTrainer112.ogg/revision/latest?cb=20181114000044"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer112"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer139.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Heimerdinger_DragonTrainer139.ogg/revision/latest?cb=20181114000106"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer139"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer100.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Heimerdinger_DragonTrainer100.ogg/revision/latest?cb=20181114000034"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer100"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer135.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Heimerdinger_DragonTrainer135.ogg/revision/latest?cb=20181114000103"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer135"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer071.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Heimerdinger_DragonTrainer071.ogg/revision/latest?cb=20181114000010"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer071"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer093.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Heimerdinger_DragonTrainer093.ogg/revision/latest?cb=20181114000027"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer093"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer038.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Heimerdinger_DragonTrainer038.ogg/revision/latest?cb=20181113235942"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer038"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer159.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Heimerdinger_DragonTrainer159.ogg/revision/latest?cb=20181114000122"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer159"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer040.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Heimerdinger_DragonTrainer040.ogg/revision/latest?cb=20181113235943"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer040"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer106.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Heimerdinger_DragonTrainer106.ogg/revision/latest?cb=20181114000039"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer106"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer089.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Heimerdinger_DragonTrainer089.ogg/revision/latest?cb=20181114000024"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer089"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer120.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Heimerdinger_DragonTrainer120.ogg/revision/latest?cb=20181114000050"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer120"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer099.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Heimerdinger_DragonTrainer099.ogg/revision/latest?cb=20181114000033"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer099"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer066.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Heimerdinger_DragonTrainer066.ogg/revision/latest?cb=20181114000006"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer066"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer129.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Heimerdinger_DragonTrainer129.ogg/revision/latest?cb=20181114000057"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer129"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer002.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/61/Heimerdinger_DragonTrainer002.ogg/revision/latest?cb=20181113235912"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer002"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer087.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Heimerdinger_DragonTrainer087.ogg/revision/latest?cb=20181114000022"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer087"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer115.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Heimerdinger_DragonTrainer115.ogg/revision/latest?cb=20181114000046"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer115"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer065.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Heimerdinger_DragonTrainer065.ogg/revision/latest?cb=20181114000005"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer065"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer009.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Heimerdinger_DragonTrainer009.ogg/revision/latest?cb=20181113235917"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer009"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer097.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Heimerdinger_DragonTrainer097.ogg/revision/latest?cb=20181114000031"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer097"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer058.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Heimerdinger_DragonTrainer058.ogg/revision/latest?cb=20181113235958"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer058"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer126.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Heimerdinger_DragonTrainer126.ogg/revision/latest?cb=20181114000055"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer126"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer123.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Heimerdinger_DragonTrainer123.ogg/revision/latest?cb=20181114000053"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer123"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer110.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Heimerdinger_DragonTrainer110.ogg/revision/latest?cb=20181114000042"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer110"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer124.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Heimerdinger_DragonTrainer124.ogg/revision/latest?cb=20181114000054"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer124"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer051.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Heimerdinger_DragonTrainer051.ogg/revision/latest?cb=20181113235953"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer051"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer080.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Heimerdinger_DragonTrainer080.ogg/revision/latest?cb=20181114000017"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer080"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer046.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Heimerdinger_DragonTrainer046.ogg/revision/latest?cb=20181113235948"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer046"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer049.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Heimerdinger_DragonTrainer049.ogg/revision/latest?cb=20181113235951"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer049"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer054.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Heimerdinger_DragonTrainer054.ogg/revision/latest?cb=20181113235955"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer054"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer059.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Heimerdinger_DragonTrainer059.ogg/revision/latest?cb=20181113235959"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer059"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer112.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Heimerdinger_DragonTrainer112.ogg/revision/latest?cb=20181114000044"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer139.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Heimerdinger_DragonTrainer139.ogg/revision/latest?cb=20181114000106"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer100.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Heimerdinger_DragonTrainer100.ogg/revision/latest?cb=20181114000034"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer135.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Heimerdinger_DragonTrainer135.ogg/revision/latest?cb=20181114000103"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer071.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Heimerdinger_DragonTrainer071.ogg/revision/latest?cb=20181114000010"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer093.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Heimerdinger_DragonTrainer093.ogg/revision/latest?cb=20181114000027"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer097.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Heimerdinger_DragonTrainer097.ogg/revision/latest?cb=20181114000031"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer058.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Heimerdinger_DragonTrainer058.ogg/revision/latest?cb=20181113235958"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer110.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Heimerdinger_DragonTrainer110.ogg/revision/latest?cb=20181114000042"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer124.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Heimerdinger_DragonTrainer124.ogg/revision/latest?cb=20181114000054"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer051.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Heimerdinger_DragonTrainer051.ogg/revision/latest?cb=20181113235953"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer080.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Heimerdinger_DragonTrainer080.ogg/revision/latest?cb=20181114000017"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer046.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Heimerdinger_DragonTrainer046.ogg/revision/latest?cb=20181113235948"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer049.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Heimerdinger_DragonTrainer049.ogg/revision/latest?cb=20181113235951"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer054.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Heimerdinger_DragonTrainer054.ogg/revision/latest?cb=20181113235955"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer059.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Heimerdinger_DragonTrainer059.ogg/revision/latest?cb=20181113235959"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Heimerdinger_DragonTrainer_Dance.ogg/revision/latest?cb=20200809200636"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer003.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Heimerdinger_DragonTrainer003.ogg/revision/latest?cb=20181113235913"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer017.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Heimerdinger_DragonTrainer017.ogg/revision/latest?cb=20181113235923"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer078.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Heimerdinger_DragonTrainer078.ogg/revision/latest?cb=20181114000015"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer083.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/53/Heimerdinger_DragonTrainer083.ogg/revision/latest?cb=20181114000019"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer094.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Heimerdinger_DragonTrainer094.ogg/revision/latest?cb=20181114000028"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer157.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/46/Heimerdinger_DragonTrainer157.ogg/revision/latest?cb=20181114000120"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer119.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Heimerdinger_DragonTrainer119.ogg/revision/latest?cb=20181114000049"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer091.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Heimerdinger_DragonTrainer091.ogg/revision/latest?cb=20181114000026"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer070.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Heimerdinger_DragonTrainer070.ogg/revision/latest?cb=20181114000009"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer140.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Heimerdinger_DragonTrainer140.ogg/revision/latest?cb=20181114000107"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer109.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Heimerdinger_DragonTrainer109.ogg/revision/latest?cb=20181114000042"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer056.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/53/Heimerdinger_DragonTrainer056.ogg/revision/latest?cb=20181113235956"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer090.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Heimerdinger_DragonTrainer090.ogg/revision/latest?cb=20181114000025"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer061.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Heimerdinger_DragonTrainer061.ogg/revision/latest?cb=20181114000001"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer045.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Heimerdinger_DragonTrainer045.ogg/revision/latest?cb=20181113235947"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer073.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Heimerdinger_DragonTrainer073.ogg/revision/latest?cb=20181114000011"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer107.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Heimerdinger_DragonTrainer107.ogg/revision/latest?cb=20181114000040"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer074.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Heimerdinger_DragonTrainer074.ogg/revision/latest?cb=20181114000012"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer042.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Heimerdinger_DragonTrainer042.ogg/revision/latest?cb=20181113235945"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer032.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Heimerdinger_DragonTrainer032.ogg/revision/latest?cb=20181113235937"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer036.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Heimerdinger_DragonTrainer036.ogg/revision/latest?cb=20181113235939"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer114.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Heimerdinger_DragonTrainer114.ogg/revision/latest?cb=20181114000045"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer154.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Heimerdinger_DragonTrainer154.ogg/revision/latest?cb=20181114000118"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer055.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Heimerdinger_DragonTrainer055.ogg/revision/latest?cb=20181113235956"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer053.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Heimerdinger_DragonTrainer053.ogg/revision/latest?cb=20181113235954"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer021.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Heimerdinger_DragonTrainer021.ogg/revision/latest?cb=20181113235928"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer149.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Heimerdinger_DragonTrainer149.ogg/revision/latest?cb=20181114000114"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer162.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Heimerdinger_DragonTrainer162.ogg/revision/latest?cb=20181114000124"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer001.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Heimerdinger_DragonTrainer001.ogg/revision/latest?cb=20181113235911"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer043.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Heimerdinger_DragonTrainer043.ogg/revision/latest?cb=20181113235946"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer044.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Heimerdinger_DragonTrainer044.ogg/revision/latest?cb=20181113235946"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer033.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Heimerdinger_DragonTrainer033.ogg/revision/latest?cb=20181113235937"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer121.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Heimerdinger_DragonTrainer121.ogg/revision/latest?cb=20181114000051"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer105.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Heimerdinger_DragonTrainer105.ogg/revision/latest?cb=20181114000038"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer004.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Heimerdinger_DragonTrainer004.ogg/revision/latest?cb=20181113235913"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer006.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Heimerdinger_DragonTrainer006.ogg/revision/latest?cb=20181113235915"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer008.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Heimerdinger_DragonTrainer008.ogg/revision/latest?cb=20181113235916"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer010.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Heimerdinger_DragonTrainer010.ogg/revision/latest?cb=20181113235918"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer012.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Heimerdinger_DragonTrainer012.ogg/revision/latest?cb=20181113235920"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer013.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Heimerdinger_DragonTrainer013.ogg/revision/latest?cb=20181113235921"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer014.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/Heimerdinger_DragonTrainer014.ogg/revision/latest?cb=20181113235921"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer015.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Heimerdinger_DragonTrainer015.ogg/revision/latest?cb=20181113235922"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer016.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Heimerdinger_DragonTrainer016.ogg/revision/latest?cb=20181113235923"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer019.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Heimerdinger_DragonTrainer019.ogg/revision/latest?cb=20181113235926"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer022.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Heimerdinger_DragonTrainer022.ogg/revision/latest?cb=20181113235929"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer025.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Heimerdinger_DragonTrainer025.ogg/revision/latest?cb=20181113235931"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer026.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Heimerdinger_DragonTrainer026.ogg/revision/latest?cb=20181113235932"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer027.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Heimerdinger_DragonTrainer027.ogg/revision/latest?cb=20181113235933"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer029.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Heimerdinger_DragonTrainer029.ogg/revision/latest?cb=20181113235934"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer030.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Heimerdinger_DragonTrainer030.ogg/revision/latest?cb=20181113235935"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer034.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Heimerdinger_DragonTrainer034.ogg/revision/latest?cb=20181113235938"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer035.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Heimerdinger_DragonTrainer035.ogg/revision/latest?cb=20181113235939"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer037.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Heimerdinger_DragonTrainer037.ogg/revision/latest?cb=20181113235940"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer039.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Heimerdinger_DragonTrainer039.ogg/revision/latest?cb=20181113235942"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer047.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Heimerdinger_DragonTrainer047.ogg/revision/latest?cb=20181113235949"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer050.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Heimerdinger_DragonTrainer050.ogg/revision/latest?cb=20181113235952"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer057.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Heimerdinger_DragonTrainer057.ogg/revision/latest?cb=20181113235957"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer062.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/Heimerdinger_DragonTrainer062.ogg/revision/latest?cb=20181114000002"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer064.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Heimerdinger_DragonTrainer064.ogg/revision/latest?cb=20181114000004"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer067.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Heimerdinger_DragonTrainer067.ogg/revision/latest?cb=20181114000007"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer068.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0c/Heimerdinger_DragonTrainer068.ogg/revision/latest?cb=20181114000008"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer069.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Heimerdinger_DragonTrainer069.ogg/revision/latest?cb=20181114000008"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer075.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Heimerdinger_DragonTrainer075.ogg/revision/latest?cb=20181114000013"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer077.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Heimerdinger_DragonTrainer077.ogg/revision/latest?cb=20181114000014"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer079.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Heimerdinger_DragonTrainer079.ogg/revision/latest?cb=20181114000016"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer082.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Heimerdinger_DragonTrainer082.ogg/revision/latest?cb=20181114000018"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer084.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Heimerdinger_DragonTrainer084.ogg/revision/latest?cb=20181114000020"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer088.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Heimerdinger_DragonTrainer088.ogg/revision/latest?cb=20181114000023"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer092.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Heimerdinger_DragonTrainer092.ogg/revision/latest?cb=20181114000026"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer095.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Heimerdinger_DragonTrainer095.ogg/revision/latest?cb=20181114000029"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer096.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Heimerdinger_DragonTrainer096.ogg/revision/latest?cb=20181114000030"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer098.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Heimerdinger_DragonTrainer098.ogg/revision/latest?cb=20181114000032"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer104.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Heimerdinger_DragonTrainer104.ogg/revision/latest?cb=20181114000037"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer108.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Heimerdinger_DragonTrainer108.ogg/revision/latest?cb=20181114000041"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer111.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Heimerdinger_DragonTrainer111.ogg/revision/latest?cb=20181114000043"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer113.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Heimerdinger_DragonTrainer113.ogg/revision/latest?cb=20181114000044"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer118.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Heimerdinger_DragonTrainer118.ogg/revision/latest?cb=20181114000049"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer122.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Heimerdinger_DragonTrainer122.ogg/revision/latest?cb=20181114000052"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer130.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Heimerdinger_DragonTrainer130.ogg/revision/latest?cb=20181114000059"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer132.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Heimerdinger_DragonTrainer132.ogg/revision/latest?cb=20181114000100"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer133.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Heimerdinger_DragonTrainer133.ogg/revision/latest?cb=20181114000101"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer134.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Heimerdinger_DragonTrainer134.ogg/revision/latest?cb=20181114000102"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer136.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Heimerdinger_DragonTrainer136.ogg/revision/latest?cb=20181114000104"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer137.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Heimerdinger_DragonTrainer137.ogg/revision/latest?cb=20181114000105"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer138.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Heimerdinger_DragonTrainer138.ogg/revision/latest?cb=20181114000105"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer141.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/Heimerdinger_DragonTrainer141.ogg/revision/latest?cb=20181114000108"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer142.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Heimerdinger_DragonTrainer142.ogg/revision/latest?cb=20181114000109"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer144.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Heimerdinger_DragonTrainer144.ogg/revision/latest?cb=20181114000110"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer145.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Heimerdinger_DragonTrainer145.ogg/revision/latest?cb=20181114000111"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer146.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Heimerdinger_DragonTrainer146.ogg/revision/latest?cb=20181114000112"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer147.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Heimerdinger_DragonTrainer147.ogg/revision/latest?cb=20181114000112"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer148.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Heimerdinger_DragonTrainer148.ogg/revision/latest?cb=20181114000113"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer152.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Heimerdinger_DragonTrainer152.ogg/revision/latest?cb=20181114000116"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer156.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Heimerdinger_DragonTrainer156.ogg/revision/latest?cb=20181114000120"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer158.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Heimerdinger_DragonTrainer158.ogg/revision/latest?cb=20181114000121"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer161.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b6/Heimerdinger_DragonTrainer161.ogg/revision/latest?cb=20181114000123"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer163.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Heimerdinger_DragonTrainer163.ogg/revision/latest?cb=20181114000125"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer007.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Heimerdinger_DragonTrainer007.ogg/revision/latest?cb=20181113235915"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer020.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Heimerdinger_DragonTrainer020.ogg/revision/latest?cb=20181113235927"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer023.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Heimerdinger_DragonTrainer023.ogg/revision/latest?cb=20181113235929"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer028.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Heimerdinger_DragonTrainer028.ogg/revision/latest?cb=20181113235934"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer048.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Heimerdinger_DragonTrainer048.ogg/revision/latest?cb=20181113235950"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer052.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Heimerdinger_DragonTrainer052.ogg/revision/latest?cb=20181113235954"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer117.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Heimerdinger_DragonTrainer117.ogg/revision/latest?cb=20181114000048"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer153.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Heimerdinger_DragonTrainer153.ogg/revision/latest?cb=20181114000117"
+                    },
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer160.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Heimerdinger_DragonTrainer160.ogg/revision/latest?cb=20181114000123"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer003.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Heimerdinger_DragonTrainer003.ogg/revision/latest?cb=20181113235913"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer003"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer017.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Heimerdinger_DragonTrainer017.ogg/revision/latest?cb=20181113235923"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer017"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer078.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Heimerdinger_DragonTrainer078.ogg/revision/latest?cb=20181114000015"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer078"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer083.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/53/Heimerdinger_DragonTrainer083.ogg/revision/latest?cb=20181114000019"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer083"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer094.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Heimerdinger_DragonTrainer094.ogg/revision/latest?cb=20181114000028"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer094"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer157.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/46/Heimerdinger_DragonTrainer157.ogg/revision/latest?cb=20181114000120"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer157"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer119.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Heimerdinger_DragonTrainer119.ogg/revision/latest?cb=20181114000049"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer119"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer091.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Heimerdinger_DragonTrainer091.ogg/revision/latest?cb=20181114000026"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer091"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer070.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Heimerdinger_DragonTrainer070.ogg/revision/latest?cb=20181114000009"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer070"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer103.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Heimerdinger_DragonTrainer103.ogg/revision/latest?cb=20181114000036"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer103"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer151.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Heimerdinger_DragonTrainer151.ogg/revision/latest?cb=20181114000116"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer151"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer150.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Heimerdinger_DragonTrainer150.ogg/revision/latest?cb=20181114000115"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer150"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer086.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Heimerdinger_DragonTrainer086.ogg/revision/latest?cb=20181114000021"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer086"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer102.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Heimerdinger_DragonTrainer102.ogg/revision/latest?cb=20181114000035"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer102"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer140.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Heimerdinger_DragonTrainer140.ogg/revision/latest?cb=20181114000107"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer140"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer109.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Heimerdinger_DragonTrainer109.ogg/revision/latest?cb=20181114000042"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer109"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer056.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/53/Heimerdinger_DragonTrainer056.ogg/revision/latest?cb=20181113235956"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer056"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer090.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Heimerdinger_DragonTrainer090.ogg/revision/latest?cb=20181114000025"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer090"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer061.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Heimerdinger_DragonTrainer061.ogg/revision/latest?cb=20181114000001"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer061"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer045.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Heimerdinger_DragonTrainer045.ogg/revision/latest?cb=20181113235947"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer045"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer073.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Heimerdinger_DragonTrainer073.ogg/revision/latest?cb=20181114000011"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer073"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer107.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Heimerdinger_DragonTrainer107.ogg/revision/latest?cb=20181114000040"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer107"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer074.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Heimerdinger_DragonTrainer074.ogg/revision/latest?cb=20181114000012"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer074"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer042.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Heimerdinger_DragonTrainer042.ogg/revision/latest?cb=20181113235945"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer042"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer032.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Heimerdinger_DragonTrainer032.ogg/revision/latest?cb=20181113235937"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer032"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer036.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Heimerdinger_DragonTrainer036.ogg/revision/latest?cb=20181113235939"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer036"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer114.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Heimerdinger_DragonTrainer114.ogg/revision/latest?cb=20181114000045"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer114"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer154.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Heimerdinger_DragonTrainer154.ogg/revision/latest?cb=20181114000118"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer154"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer055.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Heimerdinger_DragonTrainer055.ogg/revision/latest?cb=20181113235956"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer055"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer053.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Heimerdinger_DragonTrainer053.ogg/revision/latest?cb=20181113235954"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer053"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer101.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Heimerdinger_DragonTrainer101.ogg/revision/latest?cb=20181114000035"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer101"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer081.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Heimerdinger_DragonTrainer081.ogg/revision/latest?cb=20181114000017"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer081"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer072.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Heimerdinger_DragonTrainer072.ogg/revision/latest?cb=20181114000010"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer072"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer031.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Heimerdinger_DragonTrainer031.ogg/revision/latest?cb=20181113235936"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer031"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer041.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Heimerdinger_DragonTrainer041.ogg/revision/latest?cb=20181113235944"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer041"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer076.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Heimerdinger_DragonTrainer076.ogg/revision/latest?cb=20181114000014"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer076"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer143.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Heimerdinger_DragonTrainer143.ogg/revision/latest?cb=20181114000109"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer143"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer018.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Heimerdinger_DragonTrainer018.ogg/revision/latest?cb=20181113235925"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer018"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer127.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Heimerdinger_DragonTrainer127.ogg/revision/latest?cb=20181114000056"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer127"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer155.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Heimerdinger_DragonTrainer155.ogg/revision/latest?cb=20181114000119"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer155"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer011.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Heimerdinger_DragonTrainer011.ogg/revision/latest?cb=20181113235919"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer011"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer060.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Heimerdinger_DragonTrainer060.ogg/revision/latest?cb=20181114000000"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer060"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer125.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Heimerdinger_DragonTrainer125.ogg/revision/latest?cb=20181114000055"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer125"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer024.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Heimerdinger_DragonTrainer024.ogg/revision/latest?cb=20181113235930"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer024"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer116.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Heimerdinger_DragonTrainer116.ogg/revision/latest?cb=20181114000047"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer116"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer021.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Heimerdinger_DragonTrainer021.ogg/revision/latest?cb=20181113235928"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer021"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer149.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Heimerdinger_DragonTrainer149.ogg/revision/latest?cb=20181114000114"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer149"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer162.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Heimerdinger_DragonTrainer162.ogg/revision/latest?cb=20181114000124"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer162"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer001.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Heimerdinger_DragonTrainer001.ogg/revision/latest?cb=20181113235911"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer001"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer043.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Heimerdinger_DragonTrainer043.ogg/revision/latest?cb=20181113235946"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer043"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer044.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Heimerdinger_DragonTrainer044.ogg/revision/latest?cb=20181113235946"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer044"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer033.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Heimerdinger_DragonTrainer033.ogg/revision/latest?cb=20181113235937"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer033"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer121.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Heimerdinger_DragonTrainer121.ogg/revision/latest?cb=20181114000051"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer121"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer105.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Heimerdinger_DragonTrainer105.ogg/revision/latest?cb=20181114000038"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer105"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer005.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Heimerdinger_DragonTrainer005.ogg/revision/latest?cb=20181113235914"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer005"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer085.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Heimerdinger_DragonTrainer085.ogg/revision/latest?cb=20181114000021"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer085"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer131.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Heimerdinger_DragonTrainer131.ogg/revision/latest?cb=20181114000059"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer131"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer004.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Heimerdinger_DragonTrainer004.ogg/revision/latest?cb=20181113235913"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer004"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer006.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Heimerdinger_DragonTrainer006.ogg/revision/latest?cb=20181113235915"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer006"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer008.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Heimerdinger_DragonTrainer008.ogg/revision/latest?cb=20181113235916"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer008"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer010.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Heimerdinger_DragonTrainer010.ogg/revision/latest?cb=20181113235918"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer010"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer012.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Heimerdinger_DragonTrainer012.ogg/revision/latest?cb=20181113235920"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer012"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer013.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Heimerdinger_DragonTrainer013.ogg/revision/latest?cb=20181113235921"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer013"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer014.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/Heimerdinger_DragonTrainer014.ogg/revision/latest?cb=20181113235921"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer014"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer015.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Heimerdinger_DragonTrainer015.ogg/revision/latest?cb=20181113235922"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer015"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer016.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Heimerdinger_DragonTrainer016.ogg/revision/latest?cb=20181113235923"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer016"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer019.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Heimerdinger_DragonTrainer019.ogg/revision/latest?cb=20181113235926"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer019"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer022.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Heimerdinger_DragonTrainer022.ogg/revision/latest?cb=20181113235929"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer022"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer025.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Heimerdinger_DragonTrainer025.ogg/revision/latest?cb=20181113235931"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer025"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer026.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Heimerdinger_DragonTrainer026.ogg/revision/latest?cb=20181113235932"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer026"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer027.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Heimerdinger_DragonTrainer027.ogg/revision/latest?cb=20181113235933"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer027"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer029.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Heimerdinger_DragonTrainer029.ogg/revision/latest?cb=20181113235934"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer029"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer030.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Heimerdinger_DragonTrainer030.ogg/revision/latest?cb=20181113235935"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer030"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer034.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Heimerdinger_DragonTrainer034.ogg/revision/latest?cb=20181113235938"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer034"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer035.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Heimerdinger_DragonTrainer035.ogg/revision/latest?cb=20181113235939"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer035"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer037.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Heimerdinger_DragonTrainer037.ogg/revision/latest?cb=20181113235940"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer037"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer039.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Heimerdinger_DragonTrainer039.ogg/revision/latest?cb=20181113235942"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer039"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer047.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Heimerdinger_DragonTrainer047.ogg/revision/latest?cb=20181113235949"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer047"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer050.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Heimerdinger_DragonTrainer050.ogg/revision/latest?cb=20181113235952"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer050"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer057.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Heimerdinger_DragonTrainer057.ogg/revision/latest?cb=20181113235957"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer057"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer062.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/Heimerdinger_DragonTrainer062.ogg/revision/latest?cb=20181114000002"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer062"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer064.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Heimerdinger_DragonTrainer064.ogg/revision/latest?cb=20181114000004"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer064"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer067.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Heimerdinger_DragonTrainer067.ogg/revision/latest?cb=20181114000007"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer067"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer068.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0c/Heimerdinger_DragonTrainer068.ogg/revision/latest?cb=20181114000008"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer068"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer069.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Heimerdinger_DragonTrainer069.ogg/revision/latest?cb=20181114000008"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer069"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer075.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Heimerdinger_DragonTrainer075.ogg/revision/latest?cb=20181114000013"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer075"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer077.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Heimerdinger_DragonTrainer077.ogg/revision/latest?cb=20181114000014"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer077"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer079.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Heimerdinger_DragonTrainer079.ogg/revision/latest?cb=20181114000016"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer079"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer082.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Heimerdinger_DragonTrainer082.ogg/revision/latest?cb=20181114000018"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer082"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer084.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Heimerdinger_DragonTrainer084.ogg/revision/latest?cb=20181114000020"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer084"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer088.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Heimerdinger_DragonTrainer088.ogg/revision/latest?cb=20181114000023"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer088"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer092.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Heimerdinger_DragonTrainer092.ogg/revision/latest?cb=20181114000026"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer092"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer095.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Heimerdinger_DragonTrainer095.ogg/revision/latest?cb=20181114000029"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer095"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer096.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Heimerdinger_DragonTrainer096.ogg/revision/latest?cb=20181114000030"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer096"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer098.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Heimerdinger_DragonTrainer098.ogg/revision/latest?cb=20181114000032"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer098"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer104.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Heimerdinger_DragonTrainer104.ogg/revision/latest?cb=20181114000037"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer104"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer108.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Heimerdinger_DragonTrainer108.ogg/revision/latest?cb=20181114000041"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer108"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer111.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Heimerdinger_DragonTrainer111.ogg/revision/latest?cb=20181114000043"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer111"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer113.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Heimerdinger_DragonTrainer113.ogg/revision/latest?cb=20181114000044"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer113"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer118.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Heimerdinger_DragonTrainer118.ogg/revision/latest?cb=20181114000049"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer118"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer122.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Heimerdinger_DragonTrainer122.ogg/revision/latest?cb=20181114000052"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer122"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer130.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Heimerdinger_DragonTrainer130.ogg/revision/latest?cb=20181114000059"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer130"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer132.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Heimerdinger_DragonTrainer132.ogg/revision/latest?cb=20181114000100"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer132"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer133.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Heimerdinger_DragonTrainer133.ogg/revision/latest?cb=20181114000101"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer133"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer134.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Heimerdinger_DragonTrainer134.ogg/revision/latest?cb=20181114000102"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer134"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer136.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Heimerdinger_DragonTrainer136.ogg/revision/latest?cb=20181114000104"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer136"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer137.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Heimerdinger_DragonTrainer137.ogg/revision/latest?cb=20181114000105"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer137"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer138.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Heimerdinger_DragonTrainer138.ogg/revision/latest?cb=20181114000105"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer138"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer141.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/Heimerdinger_DragonTrainer141.ogg/revision/latest?cb=20181114000108"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer141"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer142.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Heimerdinger_DragonTrainer142.ogg/revision/latest?cb=20181114000109"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer142"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer144.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Heimerdinger_DragonTrainer144.ogg/revision/latest?cb=20181114000110"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer144"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer145.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Heimerdinger_DragonTrainer145.ogg/revision/latest?cb=20181114000111"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer145"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer146.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Heimerdinger_DragonTrainer146.ogg/revision/latest?cb=20181114000112"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer146"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer147.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Heimerdinger_DragonTrainer147.ogg/revision/latest?cb=20181114000112"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer147"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer148.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Heimerdinger_DragonTrainer148.ogg/revision/latest?cb=20181114000113"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer148"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer152.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Heimerdinger_DragonTrainer152.ogg/revision/latest?cb=20181114000116"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer152"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer156.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Heimerdinger_DragonTrainer156.ogg/revision/latest?cb=20181114000120"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer156"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer158.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Heimerdinger_DragonTrainer158.ogg/revision/latest?cb=20181114000121"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer158"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer161.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b6/Heimerdinger_DragonTrainer161.ogg/revision/latest?cb=20181114000123"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer161"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer163.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Heimerdinger_DragonTrainer163.ogg/revision/latest?cb=20181114000125"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer163"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer007.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Heimerdinger_DragonTrainer007.ogg/revision/latest?cb=20181113235915"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer007"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer020.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Heimerdinger_DragonTrainer020.ogg/revision/latest?cb=20181113235927"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer020"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer023.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Heimerdinger_DragonTrainer023.ogg/revision/latest?cb=20181113235929"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer023"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer028.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Heimerdinger_DragonTrainer028.ogg/revision/latest?cb=20181113235934"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer028"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer048.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Heimerdinger_DragonTrainer048.ogg/revision/latest?cb=20181113235950"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer048"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer052.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Heimerdinger_DragonTrainer052.ogg/revision/latest?cb=20181113235954"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer052"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer117.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Heimerdinger_DragonTrainer117.ogg/revision/latest?cb=20181114000048"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer117"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer153.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Heimerdinger_DragonTrainer153.ogg/revision/latest?cb=20181114000117"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer153"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Heimerdinger_DragonTrainer160.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Heimerdinger_DragonTrainer160.ogg/revision/latest?cb=20181114000123"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Heimerdinger_DragonTrainer160"
+          }
+     ]
+}

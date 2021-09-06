@@ -1,0 +1,254 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "TwistedFate_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/TwistedFate_Select.ogg/revision/latest?cb=20200711195521"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "TwistedFate_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/TwistedFate_Ban.ogg/revision/latest?cb=20200810160410"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_move1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_move2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_move3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_move4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_move5_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_move6_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_move7_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_move8_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_move9_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_move10_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_move11_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_taunt1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_taunt2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_joke1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_joke2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_laugh1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_laugh2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_laugh3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_laugh4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_dance1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_dance2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_attack1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_attack2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_attack3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_attack4_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_attack5_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_attack6_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_attack7_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_attack8_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_bluecard1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_bluecard2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_bluecard3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_redcard1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_redcard2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_redcard3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_goldcard1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_goldcard2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_goldcard3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_graves1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_graves2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_graves3_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_destiny1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_destiny2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_gate1_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_gate2_ogg"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TwistedFate_gate3_ogg"
+          }
+     ]
+}

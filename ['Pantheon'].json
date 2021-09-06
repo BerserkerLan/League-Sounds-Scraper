@@ -1,0 +1,734 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Pantheon_Select_New.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Pantheon_Select_New.ogg/revision/latest?cb=20200325210544"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Pantheon_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Pantheon_Ban_New.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Pantheon_Ban_New.ogg/revision/latest?cb=20200325210544"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Pantheon_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PantheonDragonSlayer01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PantheonDragonSlayer01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PantheonDragonSlayer01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PantheonDragonSlayer01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_firstmoveEnemyAatrox02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterAatrox02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterAatrox02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterAatrox02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterAurelionSol01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterAurelionSol01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterDiana01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterGarenKatarina"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterIllaoi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterKayn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterLeona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterLeona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterLeona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterSoraka01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterTaric02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterXinZhao01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterZoe01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterAscended"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterAspectDarkin"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterAspectDarkin"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterDarkin"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterDarkin"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterDemigod"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_encounterLunari"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attacksfx"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_killAatrox02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_killAatrox02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_killAspect"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_killAspect"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_killAspect"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_killShield"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_recall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_recall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_recall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon02_respawn"
+          }
+     ]
+}

@@ -1,0 +1,3202 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Katarina_Select.ogg/revision/latest?cb=20200711201958"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Katarina_Ban.ogg/revision/latest?cb=20200810145300"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Ban"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_AttackDianaSkin25.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Katarina_BattleQueen_AttackDianaSkin25.ogg/revision/latest?cb=20201219195016"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_AttackJannaSkin27.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b6/Katarina_BattleQueen_AttackJannaSkin27.ogg/revision/latest?cb=20201219195017"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_AttackQiyanaSkin11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Katarina_BattleQueen_AttackQiyanaSkin11.ogg/revision/latest?cb=20201219195019"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_AttackRellSkin01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Katarina_BattleQueen_AttackRellSkin01.ogg/revision/latest?cb=20201219195020"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b1/Katarina_BattleQueen_Attack_0.ogg/revision/latest?cb=20201219194938"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Katarina_BattleQueen_Attack_1.ogg/revision/latest?cb=20201219194939"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Katarina_BattleQueen_Attack_10.ogg/revision/latest?cb=20201219194951"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Katarina_BattleQueen_Attack_11.ogg/revision/latest?cb=20201219194952"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_12.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Katarina_BattleQueen_Attack_12.ogg/revision/latest?cb=20201219194954"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_13.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Katarina_BattleQueen_Attack_13.ogg/revision/latest?cb=20201219194955"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_14.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Katarina_BattleQueen_Attack_14.ogg/revision/latest?cb=20201219194956"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Katarina_BattleQueen_Attack_15.ogg/revision/latest?cb=20201219194957"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_16.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Katarina_BattleQueen_Attack_16.ogg/revision/latest?cb=20201219194959"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_17.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Katarina_BattleQueen_Attack_17.ogg/revision/latest?cb=20201219195000"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_18.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Katarina_BattleQueen_Attack_18.ogg/revision/latest?cb=20201219195001"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_19.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Katarina_BattleQueen_Attack_19.ogg/revision/latest?cb=20201219195002"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Katarina_BattleQueen_Attack_10.ogg/revision/latest?cb=20201219194951"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Katarina_BattleQueen_Attack_11.ogg/revision/latest?cb=20201219194952"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_12.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Katarina_BattleQueen_Attack_12.ogg/revision/latest?cb=20201219194954"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_13.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Katarina_BattleQueen_Attack_13.ogg/revision/latest?cb=20201219194955"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_14.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Katarina_BattleQueen_Attack_14.ogg/revision/latest?cb=20201219194956"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Katarina_BattleQueen_Attack_15.ogg/revision/latest?cb=20201219194957"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_16.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Katarina_BattleQueen_Attack_16.ogg/revision/latest?cb=20201219194959"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_17.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Katarina_BattleQueen_Attack_17.ogg/revision/latest?cb=20201219195000"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_18.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Katarina_BattleQueen_Attack_18.ogg/revision/latest?cb=20201219195001"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_19.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Katarina_BattleQueen_Attack_19.ogg/revision/latest?cb=20201219195002"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Katarina_BattleQueen_Attack_2.ogg/revision/latest?cb=20201219194941"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_20.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Katarina_BattleQueen_Attack_20.ogg/revision/latest?cb=20201219195004"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_21.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Katarina_BattleQueen_Attack_21.ogg/revision/latest?cb=20201219195005"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_22.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Katarina_BattleQueen_Attack_22.ogg/revision/latest?cb=20201219195006"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_23.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Katarina_BattleQueen_Attack_23.ogg/revision/latest?cb=20201219195007"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_24.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Katarina_BattleQueen_Attack_24.ogg/revision/latest?cb=20201219195009"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_25.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Katarina_BattleQueen_Attack_25.ogg/revision/latest?cb=20201219195010"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_26.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/Katarina_BattleQueen_Attack_26.ogg/revision/latest?cb=20201219195011"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_27.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Katarina_BattleQueen_Attack_27.ogg/revision/latest?cb=20201219195012"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_28.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Katarina_BattleQueen_Attack_28.ogg/revision/latest?cb=20201219195014"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Katarina_BattleQueen_Attack_29.ogg/revision/latest?cb=20201219195015"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_20.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Katarina_BattleQueen_Attack_20.ogg/revision/latest?cb=20201219195004"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_21.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Katarina_BattleQueen_Attack_21.ogg/revision/latest?cb=20201219195005"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_22.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Katarina_BattleQueen_Attack_22.ogg/revision/latest?cb=20201219195006"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_23.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Katarina_BattleQueen_Attack_23.ogg/revision/latest?cb=20201219195007"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_24.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Katarina_BattleQueen_Attack_24.ogg/revision/latest?cb=20201219195009"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_25.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Katarina_BattleQueen_Attack_25.ogg/revision/latest?cb=20201219195010"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_26.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/Katarina_BattleQueen_Attack_26.ogg/revision/latest?cb=20201219195011"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_27.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Katarina_BattleQueen_Attack_27.ogg/revision/latest?cb=20201219195012"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_28.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Katarina_BattleQueen_Attack_28.ogg/revision/latest?cb=20201219195014"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_29.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Katarina_BattleQueen_Attack_29.ogg/revision/latest?cb=20201219195015"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Katarina_BattleQueen_Attack_3.ogg/revision/latest?cb=20201219194942"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Katarina_BattleQueen_Attack_4.ogg/revision/latest?cb=20201219194943"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Katarina_BattleQueen_Attack_5.ogg/revision/latest?cb=20201219194945"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Katarina_BattleQueen_Attack_6.ogg/revision/latest?cb=20201219194946"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0c/Katarina_BattleQueen_Attack_7.ogg/revision/latest?cb=20201219194947"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Katarina_BattleQueen_Attack_8.ogg/revision/latest?cb=20201219194949"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Attack_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Katarina_BattleQueen_Attack_9.ogg/revision/latest?cb=20201219194950"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_BasicAttack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Katarina_BattleQueen_BasicAttack_0.ogg/revision/latest?cb=20201219195021"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_BasicAttack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Katarina_BattleQueen_BasicAttack_1.ogg/revision/latest?cb=20201219195022"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_BasicAttack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Katarina_BattleQueen_BasicAttack_2.ogg/revision/latest?cb=20201219195024"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_BasicAttack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Katarina_BattleQueen_BasicAttack_3.ogg/revision/latest?cb=20201219195025"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_BasicAttack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Katarina_BattleQueen_BasicAttack_4.ogg/revision/latest?cb=20201219195026"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Death_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Katarina_BattleQueen_Death_0.ogg/revision/latest?cb=20201219195027"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Katarina_BattleQueen_Death_1.ogg/revision/latest?cb=20201219195029"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Katarina_BattleQueen_Death_2.ogg/revision/latest?cb=20201219195030"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Katarina_BattleQueen_Death_3.ogg/revision/latest?cb=20201219195031"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Katarina_BattleQueen_Death_4.ogg/revision/latest?cb=20201219195032"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_E_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Katarina_BattleQueen_E_0.ogg/revision/latest?cb=20201219195034"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_E_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Katarina_BattleQueen_E_1.ogg/revision/latest?cb=20201219195035"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_E_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Katarina_BattleQueen_E_2.ogg/revision/latest?cb=20201219195037"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_E_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Katarina_BattleQueen_E_3.ogg/revision/latest?cb=20201219195038"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_E_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a5/Katarina_BattleQueen_E_4.ogg/revision/latest?cb=20201219195039"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_E_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/Katarina_BattleQueen_E_5.ogg/revision/latest?cb=20201219195040"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_FirstEncounterBattleQueen.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Katarina_BattleQueen_FirstEncounterBattleQueen.ogg/revision/latest?cb=20201219195042"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_FirstEncounterDianaSkin25.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Katarina_BattleQueen_FirstEncounterDianaSkin25.ogg/revision/latest?cb=20201219195043"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_FirstEncounterGaren.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Katarina_BattleQueen_FirstEncounterGaren.ogg/revision/latest?cb=20201219195044"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_FirstEncounterJannaSkin27.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Katarina_BattleQueen_FirstEncounterJannaSkin27.ogg/revision/latest?cb=20201219195045"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_FirstEncounterQiyanaSkin11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Katarina_BattleQueen_FirstEncounterQiyanaSkin11.ogg/revision/latest?cb=20201219195047"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_FirstEncounterRellSkin01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Katarina_BattleQueen_FirstEncounterRellSkin01.ogg/revision/latest?cb=20201219195048"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_JokeResponse.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Katarina_BattleQueen_JokeResponse.ogg/revision/latest?cb=20201219195049"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_KillBattleQueen.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Katarina_BattleQueen_KillBattleQueen.ogg/revision/latest?cb=20201219195059"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_KillCaitlyn.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Katarina_BattleQueen_KillCaitlyn.ogg/revision/latest?cb=20201219195100"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_KillDianaSkin25.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Katarina_BattleQueen_KillDianaSkin25.ogg/revision/latest?cb=20201219195101"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_KillGaren.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/64/Katarina_BattleQueen_KillGaren.ogg/revision/latest?cb=20201219195102"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_KillJannaSkin27.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Katarina_BattleQueen_KillJannaSkin27.ogg/revision/latest?cb=20201219195104"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_KillPentakill.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Katarina_BattleQueen_KillPentakill.ogg/revision/latest?cb=20201219195105"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_KillRellSkin01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Katarina_BattleQueen_KillRellSkin01.ogg/revision/latest?cb=20201219195106"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Kill_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Katarina_BattleQueen_Kill_0.ogg/revision/latest?cb=20201219195051"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Kill_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Katarina_BattleQueen_Kill_1.ogg/revision/latest?cb=20201219195052"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Kill_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Katarina_BattleQueen_Kill_2.ogg/revision/latest?cb=20201219195053"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Kill_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Katarina_BattleQueen_Kill_3.ogg/revision/latest?cb=20201219195054"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Kill_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Katarina_BattleQueen_Kill_4.ogg/revision/latest?cb=20201219195056"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Kill_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Katarina_BattleQueen_Kill_5.ogg/revision/latest?cb=20201219195057"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Katarina_BattleQueen_Laugh.ogg/revision/latest?cb=20201219195108"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveFirstAllyBattleQueen.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Katarina_BattleQueen_MoveFirstAllyBattleQueen.ogg/revision/latest?cb=20201219195135"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveFirstEnemyBattleQueen.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Katarina_BattleQueen_MoveFirstEnemyBattleQueen.ogg/revision/latest?cb=20201219195136"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Katarina_BattleQueen_MoveFirst_0.ogg/revision/latest?cb=20201219195133"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Katarina_BattleQueen_MoveFirst_1.ogg/revision/latest?cb=20201219195134"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveLong_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Katarina_BattleQueen_MoveLong_0.ogg/revision/latest?cb=20201219195138"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveLong_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Katarina_BattleQueen_MoveLong_1.ogg/revision/latest?cb=20201219195139"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveLong_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/Katarina_BattleQueen_MoveLong_10.ogg/revision/latest?cb=20201219195151"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveLong_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/Katarina_BattleQueen_MoveLong_10.ogg/revision/latest?cb=20201219195151"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveLong_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Katarina_BattleQueen_MoveLong_2.ogg/revision/latest?cb=20201219195141"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveLong_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Katarina_BattleQueen_MoveLong_3.ogg/revision/latest?cb=20201219195142"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveLong_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Katarina_BattleQueen_MoveLong_4.ogg/revision/latest?cb=20201219195143"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveLong_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Katarina_BattleQueen_MoveLong_5.ogg/revision/latest?cb=20201219195145"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveLong_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Katarina_BattleQueen_MoveLong_6.ogg/revision/latest?cb=20201219195146"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveLong_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Katarina_BattleQueen_MoveLong_7.ogg/revision/latest?cb=20201219195147"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveLong_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Katarina_BattleQueen_MoveLong_8.ogg/revision/latest?cb=20201219195149"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_MoveLong_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Katarina_BattleQueen_MoveLong_9.ogg/revision/latest?cb=20201219195150"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Katarina_BattleQueen_Move_0.ogg/revision/latest?cb=20201219195109"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Katarina_BattleQueen_Move_1.ogg/revision/latest?cb=20201219195110"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Katarina_BattleQueen_Move_10.ogg/revision/latest?cb=20201219195121"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Katarina_BattleQueen_Move_11.ogg/revision/latest?cb=20201219195123"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_12.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Katarina_BattleQueen_Move_12.ogg/revision/latest?cb=20201219195124"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_13.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Katarina_BattleQueen_Move_13.ogg/revision/latest?cb=20201219195125"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_14.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Katarina_BattleQueen_Move_14.ogg/revision/latest?cb=20201219195126"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Katarina_BattleQueen_Move_15.ogg/revision/latest?cb=20201219195128"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_16.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Katarina_BattleQueen_Move_16.ogg/revision/latest?cb=20201219195129"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_17.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Katarina_BattleQueen_Move_17.ogg/revision/latest?cb=20201219195130"
+                    },
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_18.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Katarina_BattleQueen_Move_18.ogg/revision/latest?cb=20201219195131"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Katarina_BattleQueen_Move_10.ogg/revision/latest?cb=20201219195121"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Katarina_BattleQueen_Move_11.ogg/revision/latest?cb=20201219195123"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_12.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Katarina_BattleQueen_Move_12.ogg/revision/latest?cb=20201219195124"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_13.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Katarina_BattleQueen_Move_13.ogg/revision/latest?cb=20201219195125"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_14.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Katarina_BattleQueen_Move_14.ogg/revision/latest?cb=20201219195126"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Katarina_BattleQueen_Move_15.ogg/revision/latest?cb=20201219195128"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_16.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Katarina_BattleQueen_Move_16.ogg/revision/latest?cb=20201219195129"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_17.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Katarina_BattleQueen_Move_17.ogg/revision/latest?cb=20201219195130"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_18.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Katarina_BattleQueen_Move_18.ogg/revision/latest?cb=20201219195131"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Katarina_BattleQueen_Move_2.ogg/revision/latest?cb=20201219195111"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Katarina_BattleQueen_Move_3.ogg/revision/latest?cb=20201219195113"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Katarina_BattleQueen_Move_4.ogg/revision/latest?cb=20201219195114"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Katarina_BattleQueen_Move_5.ogg/revision/latest?cb=20201219195115"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Katarina_BattleQueen_Move_6.ogg/revision/latest?cb=20201219195116"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Katarina_BattleQueen_Move_7.ogg/revision/latest?cb=20201219195118"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/26/Katarina_BattleQueen_Move_8.ogg/revision/latest?cb=20201219195119"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Move_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Katarina_BattleQueen_Move_9.ogg/revision/latest?cb=20201219195120"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Q_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Katarina_BattleQueen_Q_0.ogg/revision/latest?cb=20201219195153"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Q_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Katarina_BattleQueen_Q_1.ogg/revision/latest?cb=20201219195154"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Q_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Katarina_BattleQueen_Q_2.ogg/revision/latest?cb=20201219195155"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Q_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Katarina_BattleQueen_Q_3.ogg/revision/latest?cb=20201219195156"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Q_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Katarina_BattleQueen_Q_4.ogg/revision/latest?cb=20201219195157"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Q_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/Katarina_BattleQueen_Q_5.ogg/revision/latest?cb=20201219195159"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Q_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Katarina_BattleQueen_Q_6.ogg/revision/latest?cb=20201219195200"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Q_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Katarina_BattleQueen_Q_7.ogg/revision/latest?cb=20201219195201"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Recall_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Katarina_BattleQueen_Recall_0.ogg/revision/latest?cb=20201219195210"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Recall_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Katarina_BattleQueen_Recall_1.ogg/revision/latest?cb=20201219195211"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Recall_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Katarina_BattleQueen_Recall_2.ogg/revision/latest?cb=20201219195213"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Respawn_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Katarina_BattleQueen_Respawn_0.ogg/revision/latest?cb=20201219195214"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Respawn_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/Katarina_BattleQueen_Respawn_1.ogg/revision/latest?cb=20201219195215"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Respawn_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Katarina_BattleQueen_Respawn_2.ogg/revision/latest?cb=20201219195217"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_R_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Katarina_BattleQueen_R_0.ogg/revision/latest?cb=20201219195202"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_R_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Katarina_BattleQueen_R_1.ogg/revision/latest?cb=20201219195204"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_R_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Katarina_BattleQueen_R_2.ogg/revision/latest?cb=20201219195205"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_R_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/Katarina_BattleQueen_R_3.ogg/revision/latest?cb=20201219195206"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_R_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Katarina_BattleQueen_R_4.ogg/revision/latest?cb=20201219195208"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_R_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Katarina_BattleQueen_R_5.ogg/revision/latest?cb=20201219195209"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_TauntResponse.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Katarina_BattleQueen_TauntResponse.ogg/revision/latest?cb=20201219195224"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Katarina_BattleQueen_Taunt_0.ogg/revision/latest?cb=20201219195221"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Katarina_BattleQueen_Taunt_1.ogg/revision/latest?cb=20201219195223"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Toggle_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/Katarina_BattleQueen_Toggle_0.ogg/revision/latest?cb=20201219195225"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Toggle_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Katarina_BattleQueen_Toggle_1.ogg/revision/latest?cb=20201219195226"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Toggle_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Katarina_BattleQueen_Toggle_2.ogg/revision/latest?cb=20201219195228"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Toggle_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Katarina_BattleQueen_Toggle_3.ogg/revision/latest?cb=20201219195229"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Toggle_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Katarina_BattleQueen_Toggle_4.ogg/revision/latest?cb=20201219195230"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Toggle_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Katarina_BattleQueen_Toggle_5.ogg/revision/latest?cb=20201219195231"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Toggle_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Katarina_BattleQueen_Toggle_6.ogg/revision/latest?cb=20201219195238"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Toggle_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Katarina_BattleQueen_Toggle_7.ogg/revision/latest?cb=20201219195240"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_Toggle_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Katarina_BattleQueen_Toggle_8.ogg/revision/latest?cb=20201219195241"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_W_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Katarina_BattleQueen_W_0.ogg/revision/latest?cb=20201219195242"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_W_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Katarina_BattleQueen_W_1.ogg/revision/latest?cb=20201219195244"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_W_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Katarina_BattleQueen_W_2.ogg/revision/latest?cb=20201219195245"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_W_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Katarina_BattleQueen_W_3.ogg/revision/latest?cb=20201219195246"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_BattleQueen_W_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Katarina_BattleQueen_W_4.ogg/revision/latest?cb=20201219195247"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_BattleQueen"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/61/Katarina_DeathSworn_AccompanyingSFX_0.ogg/revision/latest?cb=20201219195249"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Katarina_DeathSworn_AccompanyingSFX_1.ogg/revision/latest?cb=20201219195250"
+                    },
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Katarina_DeathSworn_AccompanyingSFX_10.ogg/revision/latest?cb=20201219195302"
+                    },
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Katarina_DeathSworn_AccompanyingSFX_11.ogg/revision/latest?cb=20201219195303"
+                    },
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_12.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Katarina_DeathSworn_AccompanyingSFX_12.ogg/revision/latest?cb=20201219195305"
+                    },
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_13.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Katarina_DeathSworn_AccompanyingSFX_13.ogg/revision/latest?cb=20201219195320"
+                    },
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_14.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Katarina_DeathSworn_AccompanyingSFX_14.ogg/revision/latest?cb=20201219195322"
+                    },
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Katarina_DeathSworn_AccompanyingSFX_15.ogg/revision/latest?cb=20201219195324"
+                    },
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_16.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Katarina_DeathSworn_AccompanyingSFX_16.ogg/revision/latest?cb=20201219195325"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Katarina_DeathSworn_AccompanyingSFX_10.ogg/revision/latest?cb=20201219195302"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Katarina_DeathSworn_AccompanyingSFX_11.ogg/revision/latest?cb=20201219195303"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_12.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Katarina_DeathSworn_AccompanyingSFX_12.ogg/revision/latest?cb=20201219195305"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_13.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Katarina_DeathSworn_AccompanyingSFX_13.ogg/revision/latest?cb=20201219195320"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_14.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Katarina_DeathSworn_AccompanyingSFX_14.ogg/revision/latest?cb=20201219195322"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Katarina_DeathSworn_AccompanyingSFX_15.ogg/revision/latest?cb=20201219195324"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_16.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Katarina_DeathSworn_AccompanyingSFX_16.ogg/revision/latest?cb=20201219195325"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Katarina_DeathSworn_AccompanyingSFX_2.ogg/revision/latest?cb=20201219195251"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Katarina_DeathSworn_AccompanyingSFX_3.ogg/revision/latest?cb=20201219195253"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Katarina_DeathSworn_AccompanyingSFX_4.ogg/revision/latest?cb=20201219195254"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Katarina_DeathSworn_AccompanyingSFX_5.ogg/revision/latest?cb=20201219195255"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Katarina_DeathSworn_AccompanyingSFX_6.ogg/revision/latest?cb=20201219195257"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Katarina_DeathSworn_AccompanyingSFX_7.ogg/revision/latest?cb=20201219195258"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Katarina_DeathSworn_AccompanyingSFX_8.ogg/revision/latest?cb=20201219195300"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_AccompanyingSFX_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Katarina_DeathSworn_AccompanyingSFX_9.ogg/revision/latest?cb=20201219195301"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Katarina_DeathSworn_Attack_0.ogg/revision/latest?cb=20201219195327"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Katarina_DeathSworn_Attack_1.ogg/revision/latest?cb=20201219195328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Katarina_DeathSworn_Attack_2.ogg/revision/latest?cb=20201219195329"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Katarina_DeathSworn_Attack_3.ogg/revision/latest?cb=20201219195330"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Katarina_DeathSworn_Attack_4.ogg/revision/latest?cb=20201219195332"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Katarina_DeathSworn_Attack_5.ogg/revision/latest?cb=20201219195333"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Attack_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Katarina_DeathSworn_Attack_6.ogg/revision/latest?cb=20201219195334"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_BasicAttack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Katarina_DeathSworn_BasicAttack_0.ogg/revision/latest?cb=20201219195335"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_BasicAttack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Katarina_DeathSworn_BasicAttack_1.ogg/revision/latest?cb=20201219195337"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_BasicAttack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Katarina_DeathSworn_BasicAttack_2.ogg/revision/latest?cb=20201219195338"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_BasicAttack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Katarina_DeathSworn_BasicAttack_3.ogg/revision/latest?cb=20201219195339"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Death_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Katarina_DeathSworn_Death_0.ogg/revision/latest?cb=20201219195340"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Katarina_DeathSworn_Death_1.ogg/revision/latest?cb=20201219195342"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Katarina_DeathSworn_Death_2.ogg/revision/latest?cb=20201219195343"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Katarina_DeathSworn_Death_3.ogg/revision/latest?cb=20201219195344"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Katarina_DeathSworn_Joke.ogg/revision/latest?cb=20201219195345"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Laugh_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Katarina_DeathSworn_Laugh_0.ogg/revision/latest?cb=20201219195347"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Laugh_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Katarina_DeathSworn_Laugh_1.ogg/revision/latest?cb=20201219195348"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Laugh_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/Katarina_DeathSworn_Laugh_2.ogg/revision/latest?cb=20201219195349"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Laugh_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/Katarina_DeathSworn_Laugh_3.ogg/revision/latest?cb=20201219195351"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Katarina_DeathSworn_Move_0.ogg/revision/latest?cb=20201219195352"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Katarina_DeathSworn_Move_1.ogg/revision/latest?cb=20201219195353"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Katarina_DeathSworn_Move_2.ogg/revision/latest?cb=20201219195354"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/Katarina_DeathSworn_Move_3.ogg/revision/latest?cb=20201219195356"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/Katarina_DeathSworn_Move_4.ogg/revision/latest?cb=20201219195357"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Katarina_DeathSworn_Move_5.ogg/revision/latest?cb=20201219195358"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Katarina_DeathSworn_Move_6.ogg/revision/latest?cb=20201219195359"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Katarina_DeathSworn_Move_7.ogg/revision/latest?cb=20201219195401"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Move_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Katarina_DeathSworn_Move_8.ogg/revision/latest?cb=20201219195402"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Move_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Katarina_DeathSworn_Move_9.ogg/revision/latest?cb=20201219195403"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Q_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/64/Katarina_DeathSworn_Q_0.ogg/revision/latest?cb=20201219195405"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Q_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0c/Katarina_DeathSworn_Q_1.ogg/revision/latest?cb=20201219195406"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Q_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Katarina_DeathSworn_Q_2.ogg/revision/latest?cb=20201219195407"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Q_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Katarina_DeathSworn_Q_3.ogg/revision/latest?cb=20201219195408"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_R_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Katarina_DeathSworn_R_0.ogg/revision/latest?cb=20201219195410"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_R_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Katarina_DeathSworn_R_1.ogg/revision/latest?cb=20201219195411"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_R_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Katarina_DeathSworn_R_2.ogg/revision/latest?cb=20201219195412"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_R_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Katarina_DeathSworn_R_3.ogg/revision/latest?cb=20201219195413"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_R_deactivate_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Katarina_DeathSworn_R_deactivate_0.ogg/revision/latest?cb=20201219195415"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_R_deactivate_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/Katarina_DeathSworn_R_deactivate_1.ogg/revision/latest?cb=20201219195416"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_R_deactivate_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Katarina_DeathSworn_R_deactivate_2.ogg/revision/latest?cb=20201219195417"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_R_deactivate_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Katarina_DeathSworn_R_deactivate_3.ogg/revision/latest?cb=20201219195419"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/49/Katarina_DeathSworn_Taunt_0.ogg/revision/latest?cb=20201219195420"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Katarina_DeathSworn_Taunt_1.ogg/revision/latest?cb=20201219195421"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_W_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Katarina_DeathSworn_W_0.ogg/revision/latest?cb=20201219195422"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_W_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Katarina_DeathSworn_W_1.ogg/revision/latest?cb=20201219195423"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_W_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Katarina_DeathSworn_W_2.ogg/revision/latest?cb=20201219195425"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_DeathSworn_W_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Katarina_DeathSworn_W_3.ogg/revision/latest?cb=20201219195426"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_DeathSworn"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Katarina_Original_Attack_0.ogg/revision/latest?cb=20201219195427"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Katarina_Original_Attack_1.ogg/revision/latest?cb=20201219195429"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Katarina_Original_Attack_2.ogg/revision/latest?cb=20201219195430"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Katarina_Original_Attack_3.ogg/revision/latest?cb=20201219195431"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Katarina_Original_Attack_4.ogg/revision/latest?cb=20201219195433"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Katarina_Original_Attack_5.ogg/revision/latest?cb=20201219195434"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Attack_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Katarina_Original_Attack_6.ogg/revision/latest?cb=20201219195435"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_BasicAttack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Katarina_Original_BasicAttack_0.ogg/revision/latest?cb=20201219195436"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_BasicAttack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Katarina_Original_BasicAttack_1.ogg/revision/latest?cb=20201219195438"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_BasicAttack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Katarina_Original_BasicAttack_2.ogg/revision/latest?cb=20201219195439"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_BasicAttack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Katarina_Original_BasicAttack_3.ogg/revision/latest?cb=20201219195440"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Death_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Katarina_Original_Death_0.ogg/revision/latest?cb=20201219195441"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Katarina_Original_Death_1.ogg/revision/latest?cb=20201219195443"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Katarina_Original_Death_2.ogg/revision/latest?cb=20201219195444"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Katarina_Original_Death_3.ogg/revision/latest?cb=20201219195445"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Katarina_Original_Joke.ogg/revision/latest?cb=20201219195446"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Laugh_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Katarina_Original_Laugh_0.ogg/revision/latest?cb=20201219195448"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Laugh_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Katarina_Original_Laugh_1.ogg/revision/latest?cb=20201219195449"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Laugh_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Katarina_Original_Laugh_2.ogg/revision/latest?cb=20201219195450"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Laugh_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Katarina_Original_Laugh_3.ogg/revision/latest?cb=20201219195452"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Katarina_Original_Move_0.ogg/revision/latest?cb=20201219195453"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Katarina_Original_Move_1.ogg/revision/latest?cb=20201219195454"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Katarina_Original_Move_2.ogg/revision/latest?cb=20201219195455"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/Katarina_Original_Move_3.ogg/revision/latest?cb=20201219195457"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Katarina_Original_Move_4.ogg/revision/latest?cb=20201219195458"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Katarina_Original_Move_5.ogg/revision/latest?cb=20201219195459"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Katarina_Original_Move_6.ogg/revision/latest?cb=20201219195500"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Katarina_Original_Move_7.ogg/revision/latest?cb=20201219195502"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Move_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Katarina_Original_Move_8.ogg/revision/latest?cb=20201219195503"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Move_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Katarina_Original_Move_9.ogg/revision/latest?cb=20201219195504"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Q_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Katarina_Original_Q_0.ogg/revision/latest?cb=20201219195506"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Q_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Katarina_Original_Q_1.ogg/revision/latest?cb=20201219195507"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Q_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Katarina_Original_Q_2.ogg/revision/latest?cb=20201219195508"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Q_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Katarina_Original_Q_3.ogg/revision/latest?cb=20201219195509"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_R_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Katarina_Original_R_0.ogg/revision/latest?cb=20201219195511"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_R_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Katarina_Original_R_1.ogg/revision/latest?cb=20201219195512"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_R_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Katarina_Original_R_2.ogg/revision/latest?cb=20201219195513"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_R_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Katarina_Original_R_3.ogg/revision/latest?cb=20201219195515"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_R_deactivate_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Katarina_Original_R_deactivate_0.ogg/revision/latest?cb=20201219195516"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_R_deactivate_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Katarina_Original_R_deactivate_1.ogg/revision/latest?cb=20201219195517"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_R_deactivate_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/26/Katarina_Original_R_deactivate_2.ogg/revision/latest?cb=20201219195518"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_R_deactivate_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Katarina_Original_R_deactivate_3.ogg/revision/latest?cb=20201219195520"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Katarina_Original_Taunt_0.ogg/revision/latest?cb=20201219195521"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Katarina_Original_Taunt_1.ogg/revision/latest?cb=20201219195522"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_W_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Katarina_Original_W_0.ogg/revision/latest?cb=20201219195523"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_W_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Katarina_Original_W_1.ogg/revision/latest?cb=20201219195525"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_W_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Katarina_Original_W_2.ogg/revision/latest?cb=20201219195526"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_Original_W_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Katarina_Original_W_3.ogg/revision/latest?cb=20201219195527"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Katarina_PROJECT_Attack_0.ogg/revision/latest?cb=20201219195529"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Katarina_PROJECT_Attack_1.ogg/revision/latest?cb=20201219195530"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Katarina_PROJECT_Attack_2.ogg/revision/latest?cb=20201219195531"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Katarina_PROJECT_Attack_3.ogg/revision/latest?cb=20201219195533"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Katarina_PROJECT_Attack_4.ogg/revision/latest?cb=20201219195534"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Katarina_PROJECT_Attack_5.ogg/revision/latest?cb=20201219195535"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Attack_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Katarina_PROJECT_Attack_6.ogg/revision/latest?cb=20201219195536"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_BasicAttack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Katarina_PROJECT_BasicAttack_0.ogg/revision/latest?cb=20201219195538"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_BasicAttack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Katarina_PROJECT_BasicAttack_1.ogg/revision/latest?cb=20201219195539"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_BasicAttack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0c/Katarina_PROJECT_BasicAttack_2.ogg/revision/latest?cb=20201219195540"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_BasicAttack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/46/Katarina_PROJECT_BasicAttack_3.ogg/revision/latest?cb=20201219195541"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Death_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Katarina_PROJECT_Death_0.ogg/revision/latest?cb=20201219195543"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Katarina_PROJECT_Death_1.ogg/revision/latest?cb=20201219195544"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Katarina_PROJECT_Death_2.ogg/revision/latest?cb=20201219195545"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Katarina_PROJECT_Death_3.ogg/revision/latest?cb=20201219195546"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Katarina_PROJECT_Joke.ogg/revision/latest?cb=20201219195547"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Laugh_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/Katarina_PROJECT_Laugh_0.ogg/revision/latest?cb=20201219195549"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Laugh_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Katarina_PROJECT_Laugh_1.ogg/revision/latest?cb=20201219195550"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Laugh_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Katarina_PROJECT_Laugh_2.ogg/revision/latest?cb=20201219195551"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Laugh_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Katarina_PROJECT_Laugh_3.ogg/revision/latest?cb=20201219195553"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Katarina_PROJECT_Move_0.ogg/revision/latest?cb=20201219195554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Katarina_PROJECT_Move_1.ogg/revision/latest?cb=20201219195555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Katarina_PROJECT_Move_2.ogg/revision/latest?cb=20201219195556"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Katarina_PROJECT_Move_3.ogg/revision/latest?cb=20201219195558"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Katarina_PROJECT_Move_4.ogg/revision/latest?cb=20201219195559"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Katarina_PROJECT_Move_5.ogg/revision/latest?cb=20201219195600"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Move_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Katarina_PROJECT_Move_6.ogg/revision/latest?cb=20201219195601"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Katarina_PROJECT_Move_7.ogg/revision/latest?cb=20201219195603"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Move_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Katarina_PROJECT_Move_8.ogg/revision/latest?cb=20201219195604"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Move_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Katarina_PROJECT_Move_9.ogg/revision/latest?cb=20201219195605"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Q_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Katarina_PROJECT_Q_0.ogg/revision/latest?cb=20201219195607"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Q_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/26/Katarina_PROJECT_Q_1.ogg/revision/latest?cb=20201219195608"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Q_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Katarina_PROJECT_Q_2.ogg/revision/latest?cb=20201219195609"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Q_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Katarina_PROJECT_Q_3.ogg/revision/latest?cb=20201219195610"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_R_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Katarina_PROJECT_R_0.ogg/revision/latest?cb=20201219195612"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_R_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Katarina_PROJECT_R_1.ogg/revision/latest?cb=20201219195613"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_R_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Katarina_PROJECT_R_2.ogg/revision/latest?cb=20201219195614"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_R_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Katarina_PROJECT_R_3.ogg/revision/latest?cb=20201219195615"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_R_deactivate_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Katarina_PROJECT_R_deactivate_0.ogg/revision/latest?cb=20201219195617"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_R_deactivate_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Katarina_PROJECT_R_deactivate_1.ogg/revision/latest?cb=20201219195618"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_R_deactivate_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Katarina_PROJECT_R_deactivate_2.ogg/revision/latest?cb=20201219195619"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_R_deactivate_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Katarina_PROJECT_R_deactivate_3.ogg/revision/latest?cb=20201219195622"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Taunt_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Katarina_PROJECT_Taunt_0.ogg/revision/latest?cb=20201219195624"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_Taunt_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Katarina_PROJECT_Taunt_1.ogg/revision/latest?cb=20201219195626"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_W_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Katarina_PROJECT_W_0.ogg/revision/latest?cb=20201219195627"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_W_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Katarina_PROJECT_W_1.ogg/revision/latest?cb=20201219195628"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_W_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Katarina_PROJECT_W_2.ogg/revision/latest?cb=20201219195629"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Katarina_PROJECT_W_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Katarina_PROJECT_W_3.ogg/revision/latest?cb=20201219195631"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Katarina_PROJECT"
+          }
+     ]
+}

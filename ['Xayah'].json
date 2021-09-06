@@ -1,0 +1,3588 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Xayah_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Xayah_Select.ogg/revision/latest?cb=20200711201041"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Xayah_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Xayah_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Xayah_Ban.ogg/revision/latest?cb=20200810161934"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Xayah_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_start04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_start05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_start06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_start07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_start08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_startRakan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_startRakan02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_startRakan03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_startRakan04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_startRakan05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_startRakan06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_startRakan07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_move34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanNearby36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_moveRakanDistant30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_idleRakan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_idleRakan02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_idleRakan03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_idleRakan04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_idleRakan05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_taunt05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_taunt06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_taunt07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_taunt08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_taunt09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntRakan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntRakan02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntSupport01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntSupport02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntSupport03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntSupport04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntSupport05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntSupport06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntSupport07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntMage01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntMage02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntYordle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntYordle02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntYordle03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntAhri01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntAhri02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntRengar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntWukong01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntAmumu01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntAurelionSol01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntBard01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntCaitlyn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntCamille01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntEkko01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntGaren01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntIllaoi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntIvern01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntKled01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntRammus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntTahmKench01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntUrgot01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntVi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tauntVladimir01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionTauntEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionTauntEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionTauntEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionTauntEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionTauntEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionTauntEnemyRakan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionTauntEnemyRakan02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionJokeEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionJokeEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionJokeEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionJokeEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionJokeEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionJokeEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_dance01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_dance02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_dance03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_dance04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_dance05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_dance06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attack33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_attackRakan26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_spellE13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_kill15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killAhri01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killNami01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killNami02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killNami03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killNami04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killNami05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killNami06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killNami07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killNami08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killLux01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killTaliyah01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killPentakill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killPentakill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killPentakill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killPentakill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killPentakill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killPentakill06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_tower15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killMinion01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killMinion02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killMinion03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killMinion04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killMinion05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killMinion06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killMinion07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_item01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_item02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_item03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_item04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_item05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_item06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_item07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_item08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_item09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_item10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_ward04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_ward05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_ward06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_ward07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_ward08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_ward09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_ward10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_wardDestroy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_wardDestroy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_wardDestroy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_wardDestroy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_wardDestroy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_wardDestroy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeDistant01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeNearby01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeDistant02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeNearby02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeDistant03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeNearby03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeDistant04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeNearby04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeDistant05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeNearby05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeDistant06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeNearby06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeDistant07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeNearby07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeDistant08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeNearby08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeDistant09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeNearby09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeDistant10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingAssistMeNearby10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerDistant01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerNearby01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerDistant02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerNearby02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerDistant03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerNearby03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerDistant04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerNearby04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerDistant05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerNearby05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerDistant06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerNearby06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerDistant07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerNearby07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerDistant08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerNearby08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerDistant09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerNearby09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerDistant10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingDangerNearby10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingDistant01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingNearby01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingDistant02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingNearby02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingDistant03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingNearby03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingDistant04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingNearby04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingDistant05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingNearby05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingDistant06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingNearby06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingDistant07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingNearby07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingDistant08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingNearby08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingDistant09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingNearby09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingDistant10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingEnemyMissingNearby10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayDistant01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayNearby01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayDistant02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayNearby02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayDistant03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayNearby03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayDistant04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayNearby04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayDistant05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayNearby05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayDistant06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayNearby06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayDistant07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayNearby07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayDistant08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayNearby08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayDistant09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayNearby09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayDistant10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_pingOnMyWayNearby10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_recallRakan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_recallRakan02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_recallRakan03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_recallRakan04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_recallRakan05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_recallRakan06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_death02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_death03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_death04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_death05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_death06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_respawn04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_respawn05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "StarGuardian2019_SpawnMusic"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_firstmove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_Saki.01.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/26/XayahStarGuardian01.firstmove_Saki.01.01.01.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_Saki.01.01.01"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_Saki.01.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/XayahStarGuardian01.firstmove_Saki.01.03.03.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_Saki.01.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/XayahStarGuardian01.firstmove_Saki.01.03.03.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_Saki.01.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/XayahStarGuardian01.firstmove_Saki.01.03.03.ogg/revision/latest?cb=20191020050553"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_Saki.01.03.03"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearAlliedStarGuardian_Saki.01.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/XayahStarGuardian01.firstmove_nearAlliedStarGuardian_Saki.01.01.01.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearAlliedStarGuardian"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearAlliedStarGuardian_Saki.01.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/XayahStarGuardian01.firstmove_nearAlliedStarGuardian_Saki.01.03.03.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearAlliedStarGuardian_Saki.01.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/XayahStarGuardian01.firstmove_nearAlliedStarGuardian_Saki.01.03.03.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearAlliedStarGuardian_Saki.01.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/XayahStarGuardian01.firstmove_nearAlliedStarGuardian_Saki.01.03.03.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearAlliedStarGuardian"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearEnemyStarGuardian_Saki.01.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/XayahStarGuardian01.firstmove_nearEnemyStarGuardian_Saki.01.01.01.ogg/revision/latest?cb=20191020050553"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearEnemyStarGuardian"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearEnemyStarGuardian_Saki.01.02.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/XayahStarGuardian01.firstmove_nearEnemyStarGuardian_Saki.01.02.03.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearEnemyStarGuardian_Saki.01.02.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/XayahStarGuardian01.firstmove_nearEnemyStarGuardian_Saki.01.02.03.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearEnemyStarGuardian_Saki.01.02.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/XayahStarGuardian01.firstmove_nearEnemyStarGuardian_Saki.01.02.03.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearEnemyStarGuardian_Saki.01.02.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/XayahStarGuardian01.firstmove_nearEnemyStarGuardian_Saki.01.02.03.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearEnemyStarGuardian_Saki.01.02.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/XayahStarGuardian01.firstmove_nearEnemyStarGuardian_Saki.01.02.03.ogg/revision/latest?cb=20191020050553"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearEnemyStarGuardian"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.01.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/64/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.01.02.01.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.01.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/64/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.01.02.01.ogg/revision/latest?cb=20191020050553"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.01.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.01.04.02.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.01.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.01.04.02.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.01.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.01.04.02.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.01.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.01.04.02.ogg/revision/latest?cb=20191020050553"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.02.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.02.02.01.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.02.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.02.02.01.ogg/revision/latest?cb=20191020050553"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.02.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.02.04.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.02.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.02.04.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.02.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.02.04.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.02.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.02.04.02.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.03.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1d/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.03.01.01.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.03.01.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.03.01.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.03.01.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.03.01.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.03.01.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.03.01.02.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.04.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.04.02.01.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.04.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.04.02.01.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.04.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.04.04.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.04.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.04.04.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.04.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.04.04.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.04.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.04.04.02.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.01.01.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/db/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.03.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/db/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.03.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/db/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.03.02.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.05.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.05.03.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.05.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.05.03.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.05.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.05.03.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.05.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.05.03.ogg/revision/latest?cb=20191020050553"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.05.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/XayahStarGuardian01.firstmove_nearRakanXayah_StarGuardian.05.05.03.ogg/revision/latest?cb=20191020050553"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.firstmove_nearRakanXayah"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_move"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_Saki.01.02.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/XayahStarGuardian01.move_Saki.01.02.02.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_Saki.01.02.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/XayahStarGuardian01.move_Saki.01.02.02.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_Saki.01.02.02"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_Saki.02.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/XayahStarGuardian01.move_Saki.02.01.01.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_Saki.02.01.01"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_Saki.02.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/XayahStarGuardian01.move_Saki.02.03.03.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_Saki.02.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/XayahStarGuardian01.move_Saki.02.03.03.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_Saki.02.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/XayahStarGuardian01.move_Saki.02.03.03.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_Saki.02.03.03"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.01.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.01.02.01.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.01.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.01.02.01.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.02.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.02.01.01.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.03.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.03.02.01.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.03.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.03.02.01.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.04.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.04.02.01.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.04.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.04.02.01.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.05.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.05.01.01.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.05.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.05.03.02.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.05.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.05.03.02.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.05.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.05.03.02.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.06.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.06.02.01.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.06.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.06.02.01.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.06.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.06.04.02.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.06.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.06.04.02.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.06.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.06.04.02.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.06.04.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.06.04.02.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.07.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.07.01.01.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.07.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.07.03.02.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.07.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.07.03.02.ogg/revision/latest?cb=20191020050555"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.move_nearRakanXayah_StarGuardian.07.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/XayahStarGuardian01.move_nearRakanXayah_StarGuardian.07.03.02.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.move_nearRakanXayah"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_longmove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.longmove_Saki.01.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/XayahStarGuardian01.longmove_Saki.01.01.01.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.longmove_Saki.01.01.01"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.longmove_Saki.01.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/XayahStarGuardian01.longmove_Saki.01.03.03.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.longmove_Saki.01.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/XayahStarGuardian01.longmove_Saki.01.03.03.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.longmove_Saki.01.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/XayahStarGuardian01.longmove_Saki.01.03.03.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.longmove_Saki.01.03.03"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.longmove_Saki.02.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/XayahStarGuardian01.longmove_Saki.02.01.01.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.longmove_Saki.02.01.01"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.longmove_Saki.02.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/XayahStarGuardian01.longmove_Saki.02.03.03.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.longmove_Saki.02.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/XayahStarGuardian01.longmove_Saki.02.03.03.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.longmove_Saki.02.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/XayahStarGuardian01.longmove_Saki.02.03.03.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.longmove_Saki.02.03.03"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.longmove_Saki.03.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/XayahStarGuardian01.longmove_Saki.03.01.01.ogg/revision/latest?cb=20191020050555"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.longmove_Saki.03.01.01"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.longmove_Saki.03.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/XayahStarGuardian01.longmove_Saki.03.03.03.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.longmove_Saki.03.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/XayahStarGuardian01.longmove_Saki.03.03.03.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.longmove_Saki.03.03.03.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/XayahStarGuardian01.longmove_Saki.03.03.03.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.longmove_Saki.03.03.03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterAhriStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterEzrealStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterJannaStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterJinxStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterLuluStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterLuxStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterMissFortuneStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterNeekoStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterPoppyStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterRakanStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterSorakaStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterSyndraStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterZoeStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterUrgot02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_encounterPajamaGuardian"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_tauntresponse"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_jokeresponse"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackAhriStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackJinxStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackLuxStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackMissFortuneStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackNeekoStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackRakanStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_attackZoeStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killGeneric"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_Saki.01.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/XayahStarGuardian01.killGeneric_Saki.01.01.01.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.killGeneric_Saki.01.01.01"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.01.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.01.02.01.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.01.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.01.02.01.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.killGeneric_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.01.01.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.killGeneric_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.03.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.03.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.03.02.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.killGeneric_nearRakanXayah"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killAhriStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killEzrealStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killJannaStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killJinxStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killLuluStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killLuxStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killMissFortuneStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killNeekoStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killPoppyStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killRakanStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killSorakaStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killSyndraStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_killZoeStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_pentakill"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_Eroot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_Eroot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_Eroot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_Eroot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_Eroot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_Eroot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_Eroot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_Eroot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_recall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_recall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01_unknown"
+          }
+     ]
+}

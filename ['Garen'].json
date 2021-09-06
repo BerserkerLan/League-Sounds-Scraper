@@ -1,0 +1,44 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Garen_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Garen_Select.ogg/revision/latest?cb=20200711204210"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Garen_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Garen_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Garen_Ban.ogg/revision/latest?cb=20200809194952"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Garen_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DemaciaVice_SpawnMusic"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "DemaciaVice_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Darius_God-King006"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gnar_tauntGaren"
+          }
+     ]
+}

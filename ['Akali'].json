@@ -1,0 +1,1772 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_Select_new.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Akali_Select_new.ogg/revision/latest?cb=20180803072338"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Akali_Ban.ogg/revision/latest?cb=20180803072339"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TrueDamage_SpawnMusic"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_007.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Akali_007.ogg/revision/latest?cb=20180717202912"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_007"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_010.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Akali_010.ogg/revision/latest?cb=20180717202914"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_010"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_029.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Akali_029.ogg/revision/latest?cb=20180717203012"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_029"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_040.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Akali_040.ogg/revision/latest?cb=20180717203032"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_040"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_069.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Akali_069.ogg/revision/latest?cb=20180717203132"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_069"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_110.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Akali_110.ogg/revision/latest?cb=20180717203259"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_110"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_124.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Akali_124.ogg/revision/latest?cb=20180717203330"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_124"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_001.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Akali_001.ogg/revision/latest?cb=20180717202908"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_001"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_008.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Akali_008.ogg/revision/latest?cb=20180717202912"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_008"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_026.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/Akali_026.ogg/revision/latest?cb=20180717203010"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_026"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_097.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Akali_097.ogg/revision/latest?cb=20180717203231"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_097"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_103.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/12/Akali_103.ogg/revision/latest?cb=20180717203255"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_103"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_109.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Akali_109.ogg/revision/latest?cb=20180717203259"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_109"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_116.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Akali_116.ogg/revision/latest?cb=20180717203315"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_116"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_142.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Akali_142.ogg/revision/latest?cb=20180717203411"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_142"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_145.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/db/Akali_145.ogg/revision/latest?cb=20180717203413"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_145"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_149.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Akali_149.ogg/revision/latest?cb=20180717203416"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_149"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_057.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/Akali_057.ogg/revision/latest?cb=20180717203112"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_057"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_078.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Akali_078.ogg/revision/latest?cb=20180717203152"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_078"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_091.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Akali_091.ogg/revision/latest?cb=20180717203226"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_091"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_099.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Akali_099.ogg/revision/latest?cb=20180717203232"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_099"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_107.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Akali_107.ogg/revision/latest?cb=20180717203257"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_107"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_121.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Akali_121.ogg/revision/latest?cb=20180717203328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_121"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_131.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Akali_131.ogg/revision/latest?cb=20180717203349"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_131"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_134.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Akali_134.ogg/revision/latest?cb=20180717203352"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_134"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_152.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Akali_152.ogg/revision/latest?cb=20180717203458"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_152"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_154.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Akali_154.ogg/revision/latest?cb=20180717203459"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_154"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_161.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Akali_161.ogg/revision/latest?cb=20180717203520"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_161"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_019.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Akali_019.ogg/revision/latest?cb=20180717202949"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_019"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_032.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Akali_032.ogg/revision/latest?cb=20180717203027"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_032"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_072.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Akali_072.ogg/revision/latest?cb=20180717203148"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_072"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_077.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Akali_077.ogg/revision/latest?cb=20180717203152"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_077"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_084.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Akali_084.ogg/revision/latest?cb=20180717203209"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_084"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_102.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Akali_102.ogg/revision/latest?cb=20180717203254"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_102"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_104.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/53/Akali_104.ogg/revision/latest?cb=20180717203255"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_104"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_111.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Akali_111.ogg/revision/latest?cb=20180717203311"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_111"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_114.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Akali_114.ogg/revision/latest?cb=20180717203314"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_114"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_126.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Akali_126.ogg/revision/latest?cb=20180717203332"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_126"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_128.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Akali_128.ogg/revision/latest?cb=20180717203333"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_128"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_132.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Akali_132.ogg/revision/latest?cb=20180717203350"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_132"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_140.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Akali_140.ogg/revision/latest?cb=20180717203355"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_140"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_153.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Akali_153.ogg/revision/latest?cb=20180717203459"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_153"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_156.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Akali_156.ogg/revision/latest?cb=20180717203501"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_156"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_031.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Akali_031.ogg/revision/latest?cb=20180717203026"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_031"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_047.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Akali_047.ogg/revision/latest?cb=20180717203050"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_047"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_092.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Akali_092.ogg/revision/latest?cb=20180717203227"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_092"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_096.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Akali_096.ogg/revision/latest?cb=20180717203230"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_096"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_139.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Akali_139.ogg/revision/latest?cb=20180717203354"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_139"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_146.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Akali_146.ogg/revision/latest?cb=20180717203414"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_146"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_157.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Akali_157.ogg/revision/latest?cb=20180717203501"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_157"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_056.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Akali_056.ogg/revision/latest?cb=20180717203112"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_056"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_168.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Akali_168.ogg/revision/latest?cb=20180717203525"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_168"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_066.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Akali_066.ogg/revision/latest?cb=20180717203130"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_066"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_150.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Akali_150.ogg/revision/latest?cb=20180717203417"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_150"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_041.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Akali_041.ogg/revision/latest?cb=20180717203046"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_041"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_127.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Akali_127.ogg/revision/latest?cb=20180717203332"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_127"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_071.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Akali_071.ogg/revision/latest?cb=20180717203147"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_071"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_009.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Akali_009.ogg/revision/latest?cb=20180717202913"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_009"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_118.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Akali_118.ogg/revision/latest?cb=20180717203316"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_118"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_025.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Akali_025.ogg/revision/latest?cb=20180717203009"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_025"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_037.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Akali_037.ogg/revision/latest?cb=20180717203030"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_037"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_006.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Akali_006.ogg/revision/latest?cb=20180717202911"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_006"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_106.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Akali_106.ogg/revision/latest?cb=20180717203257"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_106"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_087.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Akali_087.ogg/revision/latest?cb=20180717203211"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_087"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_053.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Akali_053.ogg/revision/latest?cb=20180717203110"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_053"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_067.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Akali_067.ogg/revision/latest?cb=20180717203131"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_067"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_086.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Akali_086.ogg/revision/latest?cb=20180717203210"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_086"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_155.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Akali_155.ogg/revision/latest?cb=20180717203500"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_155"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_164.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Akali_164.ogg/revision/latest?cb=20180717203523"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_164"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_075.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Akali_075.ogg/revision/latest?cb=20180717203150"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_075"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_036.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Akali_036.ogg/revision/latest?cb=20180717203030"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_036"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_046.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Akali_046.ogg/revision/latest?cb=20180717203049"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_046"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_050.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Akali_050.ogg/revision/latest?cb=20180717203052"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_050"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_100.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Akali_100.ogg/revision/latest?cb=20180717203233"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_100"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Irelia_065"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_002.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Akali_002.ogg/revision/latest?cb=20180717202909"
+                    },
+                    {
+                         "audio_name": "Akali_002.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Akali_002.ogg/revision/latest?cb=20180717202909"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_002"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_027.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Akali_027.ogg/revision/latest?cb=20180717203011"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_027"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_004.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Akali_004.ogg/revision/latest?cb=20180717202910"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_004"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_023.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Akali_023.ogg/revision/latest?cb=20180717203008"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_023"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_033.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Akali_033.ogg/revision/latest?cb=20180717203027"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_033"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_049.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Akali_049.ogg/revision/latest?cb=20180717203051"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_049"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_054.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Akali_054.ogg/revision/latest?cb=20180717203110"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_054"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_059.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Akali_059.ogg/revision/latest?cb=20180717203114"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_059"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_065.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Akali_065.ogg/revision/latest?cb=20180717203130"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_065"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_079.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Akali_079.ogg/revision/latest?cb=20180717203153"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_079"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_083.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Akali_083.ogg/revision/latest?cb=20180717203208"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_083"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_089.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Akali_089.ogg/revision/latest?cb=20180717203212"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_089"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_093.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Akali_093.ogg/revision/latest?cb=20180717203228"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_093"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_094.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Akali_094.ogg/revision/latest?cb=20180717203229"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_094"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_108.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Akali_108.ogg/revision/latest?cb=20180717203258"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_108"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_125.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Akali_125.ogg/revision/latest?cb=20180717203331"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_125"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_130.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Akali_130.ogg/revision/latest?cb=20180717203334"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_130"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_136.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Akali_136.ogg/revision/latest?cb=20180717203353"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_136"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_163.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Akali_163.ogg/revision/latest?cb=20180717203522"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_163"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_166.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/Akali_166.ogg/revision/latest?cb=20180717203524"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_166"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_170.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Akali_170.ogg/revision/latest?cb=20180717203527"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_170"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_022.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Akali_022.ogg/revision/latest?cb=20180717203007"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_022"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_076.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Akali_076.ogg/revision/latest?cb=20180717203151"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_076"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_122.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b6/Akali_122.ogg/revision/latest?cb=20180717203329"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_122"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_158.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Akali_158.ogg/revision/latest?cb=20180717203502"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_158"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_167.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Akali_167.ogg/revision/latest?cb=20180717203525"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_167"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_169.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Akali_169.ogg/revision/latest?cb=20180717203526"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_169"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_015.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Akali_015.ogg/revision/latest?cb=20180717202947"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_015"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_017.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Akali_017.ogg/revision/latest?cb=20180717202948"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_017"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_058.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Akali_058.ogg/revision/latest?cb=20180717203113"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_058"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_068.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Akali_068.ogg/revision/latest?cb=20180717203132"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_068"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_095.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Akali_095.ogg/revision/latest?cb=20180717203229"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_095"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_038.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Akali_038.ogg/revision/latest?cb=20180717203031"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_038"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_055.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Akali_055.ogg/revision/latest?cb=20180717203111"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_055"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_141.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Akali_141.ogg/revision/latest?cb=20180717203411"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_141"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_080.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Akali_080.ogg/revision/latest?cb=20180717203154"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_080"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_129.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Akali_129.ogg/revision/latest?cb=20180717203334"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_129"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_148.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Akali_148.ogg/revision/latest?cb=20180717203415"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_148"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_014.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/Akali_014.ogg/revision/latest?cb=20180717202946"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_014"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_070.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Akali_070.ogg/revision/latest?cb=20180717203133"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_070"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_105.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a5/Akali_105.ogg/revision/latest?cb=20180717203256"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_105"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_120.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Akali_120.ogg/revision/latest?cb=20180717203318"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_120"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_172.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Akali_172.ogg/revision/latest?cb=20180717203535"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_172"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_KDA.WMove.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Akali_KDA.WMove.ogg/revision/latest?cb=20181204195525"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_KDA.WMove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_020.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Akali_020.ogg/revision/latest?cb=20180717202950"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_020"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_160.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Akali_160.ogg/revision/latest?cb=20180717203503"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_160"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_003.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Akali_003.ogg/revision/latest?cb=20180717202909"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_003"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_011.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Akali_011.ogg/revision/latest?cb=20180717202944"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_011"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_016.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Akali_016.ogg/revision/latest?cb=20180717202947"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_016"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_018.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Akali_018.ogg/revision/latest?cb=20180717202949"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_018"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_024.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Akali_024.ogg/revision/latest?cb=20180717203009"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_024"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_028.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Akali_028.ogg/revision/latest?cb=20180717203011"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_028"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_042.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Akali_042.ogg/revision/latest?cb=20180717203046"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_042"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_043.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Akali_043.ogg/revision/latest?cb=20180717203047"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_043"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_060.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Akali_060.ogg/revision/latest?cb=20180717203115"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_060"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_062.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Akali_062.ogg/revision/latest?cb=20180717203128"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_062"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_063.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Akali_063.ogg/revision/latest?cb=20180717203128"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_063"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_064.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Akali_064.ogg/revision/latest?cb=20180717203129"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_064"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_085.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/Akali_085.ogg/revision/latest?cb=20180717203209"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_085"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_112.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Akali_112.ogg/revision/latest?cb=20180717203312"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_112"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_143.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Akali_143.ogg/revision/latest?cb=20180717203412"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_143"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_144.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Akali_144.ogg/revision/latest?cb=20180717203413"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_144"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_159.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Akali_159.ogg/revision/latest?cb=20180717203503"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_159"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_174.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Akali_174.ogg/revision/latest?cb=20180717203536"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_174"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_090.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Akali_090.ogg/revision/latest?cb=20180717203213"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_090"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_073.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Akali_073.ogg/revision/latest?cb=20180717203149"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_073"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_098.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Akali_098.ogg/revision/latest?cb=20180717203231"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_098"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_051.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Akali_051.ogg/revision/latest?cb=20180717203108"
+                    },
+                    {
+                         "audio_name": "Akali_051.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Akali_051.ogg/revision/latest?cb=20180717203108"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_051"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_012.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Akali_012.ogg/revision/latest?cb=20180717202945"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_012"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_151.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Akali_151.ogg/revision/latest?cb=20180717203457"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_151"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_162.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Akali_162.ogg/revision/latest?cb=20180717203521"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_162"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_137.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Akali_137.ogg/revision/latest?cb=20180717203354"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_137"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "KDA_Recall.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/KDA_Recall.ogg/revision/latest?cb=20190703234441"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "KDA_Recall"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "TrueDamage_Recall.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/TrueDamage_Recall.ogg/revision/latest?cb=20200712221726"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "TrueDamage_Recall"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_074.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Akali_074.ogg/revision/latest?cb=20180717203150"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_074"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_088.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Akali_088.ogg/revision/latest?cb=20180717203211"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_088"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_101.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Akali_101.ogg/revision/latest?cb=20180717203253"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_101"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_119.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Akali_119.ogg/revision/latest?cb=20180717203317"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_119"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_013.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Akali_013.ogg/revision/latest?cb=20180717202946"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_013"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_005.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Akali_005.ogg/revision/latest?cb=20180717202911"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_005"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_021.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Akali_021.ogg/revision/latest?cb=20180717203007"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_021"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_030.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Akali_030.ogg/revision/latest?cb=20180717203013"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_030"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_034.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Akali_034.ogg/revision/latest?cb=20180717203028"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_034"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_035.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Akali_035.ogg/revision/latest?cb=20180717203029"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_035"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_045.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Akali_045.ogg/revision/latest?cb=20180717203048"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_045"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_048.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Akali_048.ogg/revision/latest?cb=20180717203050"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_048"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_061.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Akali_061.ogg/revision/latest?cb=20180717203127"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_061"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_115.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Akali_115.ogg/revision/latest?cb=20180717203314"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_115"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_081.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Akali_081.ogg/revision/latest?cb=20180717203207"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_081"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_173.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Akali_173.ogg/revision/latest?cb=20180717203536"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_173"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_052.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Akali_052.ogg/revision/latest?cb=20180717203109"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_052"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_082.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Akali_082.ogg/revision/latest?cb=20180717203207"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_082"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_113.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Akali_113.ogg/revision/latest?cb=20180717203313"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_113"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_117.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Akali_117.ogg/revision/latest?cb=20180717203315"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_117"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_123.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Akali_123.ogg/revision/latest?cb=20180717203330"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_123"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_135.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Akali_135.ogg/revision/latest?cb=20180717203352"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_135"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_147.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Akali_147.ogg/revision/latest?cb=20180717203415"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_147"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_171.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/Akali_171.ogg/revision/latest?cb=20180717203534"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_171"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Akali_039.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Akali_039.ogg/revision/latest?cb=20180717203032"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Akali_039"
+          }
+     ]
+}

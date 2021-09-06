@@ -1,0 +1,2467 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Galio_Select_new.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Galio_Select_new.ogg/revision/latest?cb=20200711194038"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Galio_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Galio_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Galio_Ban.ogg/revision/latest?cb=20200809194603"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Galio_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_start04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_start05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_start06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_start07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_start08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move37"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move38"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move39"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move40"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move41"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move42"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move43"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move44"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move45"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move46"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move47"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move48"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move49"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move50"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_move51"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_moveNexus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_moveNexus02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntAurelionSol01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntAurelionSol02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntChoGath01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntGaren01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntIllaoi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntJarvanIV01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntLux01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntMalphite01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntNautilus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntPoppy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntRekSai01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntSion01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntUrgot01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntVolibear01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntYordle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntYordle02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntZac01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_tauntAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_tauntGalio01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_interactionTauntPoppy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_interactionTauntEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_interactionTauntEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_interactionTauntEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_laugh03"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Galio_Birdio_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Galio_Birdio_Dance.ogg/revision/latest?cb=20190721214513"
+                    },
+                    {
+                         "audio_name": "Galio_Birdio_Recall.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Galio_Birdio_Recall.ogg/revision/latest?cb=20190721214536"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Galio_Birdio"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attack24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackTower01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackTower02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackTower03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackTower04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackTower05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackTower06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackBlueSentinel01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackBlueSentinel02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackBlueSentinel03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackBlueSentinel04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackDragon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackDragon02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackBaron01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackBaron02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_attackBaron03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellQ3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellQ4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellQ5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellQ6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellQ7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellQ8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellQ9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellQ10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellW1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellW2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellW3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellW4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellW5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellW6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellW7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellW8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellW9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellW10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellW11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellE27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spellR1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_kill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_kill06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_kill07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_killDemacian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spreeKillingSpree01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spreeKillingSpree02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spreeKillingSpree03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_spreeKillingSpree04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_item01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_item02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_item03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_item04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemRubyCrystal01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemRubyCrystal02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemRubyCrystal03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemClothArmor01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemClothArmor02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemClothArmor03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemClothArmor04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemAmplifyingTome01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemAmplifyingTome02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemAmplifyingTome03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemAmplifyingTome04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemGlacialShroud01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemGlacialShroud02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemGlacialShroud03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemIcebornGauntlet01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemIcebornGauntlet02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemIcebornGauntlet03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemIcebornGauntlet04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemRodofAges01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemRodofAges02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemRodofAges03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemRodofAges04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemHextechProtobelt0101"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemHextechProtobelt0102"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemHextechProtobelt0103"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_itemHextechProtobelt0104"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_recall04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_recall05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_recall06"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Galio_Birdio_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Galio_Birdio_Dance.ogg/revision/latest?cb=20190721214513"
+                    },
+                    {
+                         "audio_name": "Galio_Birdio_Recall.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Galio_Birdio_Recall.ogg/revision/latest?cb=20190721214536"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Galio_Birdio"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_death02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_death03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_respawn04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_respawn05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_respawn06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Galio_respawn07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_start04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_start05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_start06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move37"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move38"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move39"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move40"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move41"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move42"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move43"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move44"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move45"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move46"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_move47"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_moveShop01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_moveShop02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_moveShop03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_moveNexus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_moveNexus02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_moveNexus03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_taunt05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_interactionTauntPoppy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntTeemo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntAhri01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntAmumu01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntAnnie01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntAshe01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntAurelionSol01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntAzir01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntEkko01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntGangplank01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntGaren01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntGragas01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntGragas02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntGraves01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntIllaoi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntIvern01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntJarvan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntJhin01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntKayle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntKindred01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntKled01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntLucian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntLux01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntOrianna01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntPoppy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntSejuani01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntSona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntTaric01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntTwistedFate01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_tauntTwitch01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_interactionTauntEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_interactionTauntEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_laugh05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack37"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack38"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attack39"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attackTower01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attackTower02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attackTower03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attackBlueSentinel01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attackBlueSentinel02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attackBlueSentinel03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attackBlueSentinel04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attackDragon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attackDragon02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attackBaron01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attackBaron02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_attackBaron03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellQ13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellW1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellW2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellW3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellW4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellW5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellW6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellW7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellW8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellW9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellW10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellW11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellE1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellE2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellE3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellE4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellE5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellE6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellE7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spellR1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_kill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_kill06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spreeKillingSpree01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spreeKillingSpree02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spreeKillingSpree03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_spreeKillingSpree04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_item01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_item02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_item03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_item04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_item05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemRubyCrystal01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemRubyCrystal02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemRubyCrystal03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemClothArmor01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemClothArmor02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemClothArmor03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemClothArmor04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemAmplifyingTome01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemAmplifyingTome02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemAmplifyingTome03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemAmplifyingTome04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemSpectresCowl01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemSpectresCowl02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemSpectresCowl03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemSpectresCowl04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemSpectresCowl05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemAbyssalMask01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemAbyssalMask02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemIcebornGauntlet01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemIcebornGauntlet02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemIcebornGauntlet03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_itemIcebornGauntlet04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_recall04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_recall05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_recall06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_recall07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_death02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_death03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_death04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_death05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_death06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_respawn04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_respawn05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "GalioGatekeeper_respawn06"
+          }
+     ]
+}

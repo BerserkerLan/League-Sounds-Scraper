@@ -1,0 +1,2578 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Blitzcrank_Select.ogg/revision/latest?cb=20200711201854"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Blitzcrank_Ban.ogg/revision/latest?cb=20200809174819"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Ban"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Blitzcrank_LancerParagon_Attack_0.ogg/revision/latest?cb=20210411134605"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Blitzcrank_LancerParagon_Attack_1.ogg/revision/latest?cb=20210411134607"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Blitzcrank_LancerParagon_Attack_2.ogg/revision/latest?cb=20210411134609"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Blitzcrank_LancerParagon_Attack_3.ogg/revision/latest?cb=20210411134611"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Blitzcrank_LancerParagon_Attack_4.ogg/revision/latest?cb=20210411134613"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Blitzcrank_LancerParagon_Attack_5.ogg/revision/latest?cb=20210411134615"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Death_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Blitzcrank_LancerParagon_Death_0.ogg/revision/latest?cb=20210411134617"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Blitzcrank_LancerParagon_Death_1.ogg/revision/latest?cb=20210411134619"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/26/Blitzcrank_LancerParagon_Death_2.ogg/revision/latest?cb=20210411134621"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/53/Blitzcrank_LancerParagon_Joke.ogg/revision/latest?cb=20210411134623"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Laugh_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Blitzcrank_LancerParagon_Laugh_0.ogg/revision/latest?cb=20210411134625"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Laugh_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/Blitzcrank_LancerParagon_Laugh_1.ogg/revision/latest?cb=20210411134627"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Laugh_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Blitzcrank_LancerParagon_Laugh_2.ogg/revision/latest?cb=20210411134629"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Laugh_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Blitzcrank_LancerParagon_Laugh_3.ogg/revision/latest?cb=20210411134631"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/86/Blitzcrank_LancerParagon_Move_0.ogg/revision/latest?cb=20210411134633"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Blitzcrank_LancerParagon_Move_1.ogg/revision/latest?cb=20210411134635"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Blitzcrank_LancerParagon_Move_2.ogg/revision/latest?cb=20210411134637"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Blitzcrank_LancerParagon_Move_3.ogg/revision/latest?cb=20210411134639"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Blitzcrank_LancerParagon_Move_4.ogg/revision/latest?cb=20210411134641"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Move_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Blitzcrank_LancerParagon_Move_5.ogg/revision/latest?cb=20210411134643"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerParagon_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Blitzcrank_LancerParagon_Taunt.ogg/revision/latest?cb=20210411134645"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerParagon"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/01/Blitzcrank_LancerRogue_Attack_0.ogg/revision/latest?cb=20210411134648"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Blitzcrank_LancerRogue_Attack_1.ogg/revision/latest?cb=20210411134650"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Blitzcrank_LancerRogue_Attack_2.ogg/revision/latest?cb=20210411134652"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Blitzcrank_LancerRogue_Attack_3.ogg/revision/latest?cb=20210411134654"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Blitzcrank_LancerRogue_Attack_4.ogg/revision/latest?cb=20210411134656"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Blitzcrank_LancerRogue_Attack_5.ogg/revision/latest?cb=20210411134658"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Death_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Blitzcrank_LancerRogue_Death_0.ogg/revision/latest?cb=20210411134700"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Blitzcrank_LancerRogue_Death_1.ogg/revision/latest?cb=20210411134702"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Blitzcrank_LancerRogue_Death_2.ogg/revision/latest?cb=20210411134704"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/86/Blitzcrank_LancerRogue_Joke.ogg/revision/latest?cb=20210411134706"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Laugh_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Blitzcrank_LancerRogue_Laugh_0.ogg/revision/latest?cb=20210411134708"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Laugh_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Blitzcrank_LancerRogue_Laugh_1.ogg/revision/latest?cb=20210411134710"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Laugh_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Blitzcrank_LancerRogue_Laugh_2.ogg/revision/latest?cb=20210411134712"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Laugh_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Blitzcrank_LancerRogue_Laugh_3.ogg/revision/latest?cb=20210411134714"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Blitzcrank_LancerRogue_Move_0.ogg/revision/latest?cb=20210411134716"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Blitzcrank_LancerRogue_Move_1.ogg/revision/latest?cb=20210411134718"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Blitzcrank_LancerRogue_Move_2.ogg/revision/latest?cb=20210411134720"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Blitzcrank_LancerRogue_Move_3.ogg/revision/latest?cb=20210411134722"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Blitzcrank_LancerRogue_Move_4.ogg/revision/latest?cb=20210411134724"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_LancerRogue_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Blitzcrank_LancerRogue_Taunt.ogg/revision/latest?cb=20210411134726"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_LancerRogue"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Blitzcrank_Original_Attack_0.ogg/revision/latest?cb=20210411134728"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Attack_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Blitzcrank_Original_Attack_1.ogg/revision/latest?cb=20210411134730"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Attack_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Blitzcrank_Original_Attack_2.ogg/revision/latest?cb=20210411134732"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Attack_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Blitzcrank_Original_Attack_3.ogg/revision/latest?cb=20210411134734"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Attack_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Blitzcrank_Original_Attack_4.ogg/revision/latest?cb=20210411134736"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Attack_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Blitzcrank_Original_Attack_5.ogg/revision/latest?cb=20210411134738"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Death_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Blitzcrank_Original_Death_0.ogg/revision/latest?cb=20210411134740"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Blitzcrank_Original_Death_1.ogg/revision/latest?cb=20210411134742"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Blitzcrank_Original_Death_2.ogg/revision/latest?cb=20210411134744"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Blitzcrank_Original_Joke.ogg/revision/latest?cb=20210411134747"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Laugh_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Blitzcrank_Original_Laugh_0.ogg/revision/latest?cb=20210411134749"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Laugh_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Blitzcrank_Original_Laugh_1.ogg/revision/latest?cb=20210411134751"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Laugh_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Blitzcrank_Original_Laugh_2.ogg/revision/latest?cb=20210411134753"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Laugh_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Blitzcrank_Original_Laugh_3.ogg/revision/latest?cb=20210411134755"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Move_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Blitzcrank_Original_Move_0.ogg/revision/latest?cb=20210411134757"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Blitzcrank_Original_Move_1.ogg/revision/latest?cb=20210411134759"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Move_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Blitzcrank_Original_Move_2.ogg/revision/latest?cb=20210411134801"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Blitzcrank_Original_Move_3.ogg/revision/latest?cb=20210411134803"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Move_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Blitzcrank_Original_Move_4.ogg/revision/latest?cb=20210411134805"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Blitzcrank_Original_Taunt.ogg/revision/latest?cb=20210411134807"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Blitzcrank_SpaceGroove_AccompanyingSFX_0.ogg/revision/latest?cb=20210411134809"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Blitzcrank_SpaceGroove_AccompanyingSFX_1.ogg/revision/latest?cb=20210411134811"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Blitzcrank_SpaceGroove_AccompanyingSFX_10.ogg/revision/latest?cb=20210411134828"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Blitzcrank_SpaceGroove_AccompanyingSFX_11.ogg/revision/latest?cb=20210411134830"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_12.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Blitzcrank_SpaceGroove_AccompanyingSFX_12.ogg/revision/latest?cb=20210411134832"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_13.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/45/Blitzcrank_SpaceGroove_AccompanyingSFX_13.ogg/revision/latest?cb=20210411134834"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_14.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Blitzcrank_SpaceGroove_AccompanyingSFX_14.ogg/revision/latest?cb=20210411134836"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b1/Blitzcrank_SpaceGroove_AccompanyingSFX_15.ogg/revision/latest?cb=20210411134838"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_16.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Blitzcrank_SpaceGroove_AccompanyingSFX_16.ogg/revision/latest?cb=20210411134840"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_17.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Blitzcrank_SpaceGroove_AccompanyingSFX_17.ogg/revision/latest?cb=20210411134842"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_18.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Blitzcrank_SpaceGroove_AccompanyingSFX_18.ogg/revision/latest?cb=20210411134844"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_19.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Blitzcrank_SpaceGroove_AccompanyingSFX_19.ogg/revision/latest?cb=20210411134846"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Blitzcrank_SpaceGroove_AccompanyingSFX_10.ogg/revision/latest?cb=20210411134828"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Blitzcrank_SpaceGroove_AccompanyingSFX_11.ogg/revision/latest?cb=20210411134830"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_12.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Blitzcrank_SpaceGroove_AccompanyingSFX_12.ogg/revision/latest?cb=20210411134832"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_13.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/45/Blitzcrank_SpaceGroove_AccompanyingSFX_13.ogg/revision/latest?cb=20210411134834"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_14.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Blitzcrank_SpaceGroove_AccompanyingSFX_14.ogg/revision/latest?cb=20210411134836"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b1/Blitzcrank_SpaceGroove_AccompanyingSFX_15.ogg/revision/latest?cb=20210411134838"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_16.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Blitzcrank_SpaceGroove_AccompanyingSFX_16.ogg/revision/latest?cb=20210411134840"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_17.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Blitzcrank_SpaceGroove_AccompanyingSFX_17.ogg/revision/latest?cb=20210411134842"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_18.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Blitzcrank_SpaceGroove_AccompanyingSFX_18.ogg/revision/latest?cb=20210411134844"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_19.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Blitzcrank_SpaceGroove_AccompanyingSFX_19.ogg/revision/latest?cb=20210411134846"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/Blitzcrank_SpaceGroove_AccompanyingSFX_2.ogg/revision/latest?cb=20210411134813"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_20.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Blitzcrank_SpaceGroove_AccompanyingSFX_20.ogg/revision/latest?cb=20210411134848"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_21.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Blitzcrank_SpaceGroove_AccompanyingSFX_21.ogg/revision/latest?cb=20210411134850"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_22.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Blitzcrank_SpaceGroove_AccompanyingSFX_22.ogg/revision/latest?cb=20210411134852"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_23.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Blitzcrank_SpaceGroove_AccompanyingSFX_23.ogg/revision/latest?cb=20210411134854"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_20.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Blitzcrank_SpaceGroove_AccompanyingSFX_20.ogg/revision/latest?cb=20210411134848"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_21.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Blitzcrank_SpaceGroove_AccompanyingSFX_21.ogg/revision/latest?cb=20210411134850"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_22.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Blitzcrank_SpaceGroove_AccompanyingSFX_22.ogg/revision/latest?cb=20210411134852"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_23.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Blitzcrank_SpaceGroove_AccompanyingSFX_23.ogg/revision/latest?cb=20210411134854"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Blitzcrank_SpaceGroove_AccompanyingSFX_3.ogg/revision/latest?cb=20210411134814"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Blitzcrank_SpaceGroove_AccompanyingSFX_4.ogg/revision/latest?cb=20210411134816"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Blitzcrank_SpaceGroove_AccompanyingSFX_5.ogg/revision/latest?cb=20210411134818"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Blitzcrank_SpaceGroove_AccompanyingSFX_6.ogg/revision/latest?cb=20210411134820"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Blitzcrank_SpaceGroove_AccompanyingSFX_7.ogg/revision/latest?cb=20210411134822"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Blitzcrank_SpaceGroove_AccompanyingSFX_8.ogg/revision/latest?cb=20210411134824"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_AccompanyingSFX_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8b/Blitzcrank_SpaceGroove_AccompanyingSFX_9.ogg/revision/latest?cb=20210411134826"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Blitzcrank_SpaceGroove_Attack_0_0_0.ogg/revision/latest?cb=20210411134856"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Blitzcrank_SpaceGroove_Attack_0_0_1.ogg/revision/latest?cb=20210411134858"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Blitzcrank_SpaceGroove_Attack_0_0_10.ogg/revision/latest?cb=20210411134916"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Blitzcrank_SpaceGroove_Attack_0_0_11.ogg/revision/latest?cb=20210411134919"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_12.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Blitzcrank_SpaceGroove_Attack_0_0_12.ogg/revision/latest?cb=20210411134921"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_13.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Blitzcrank_SpaceGroove_Attack_0_0_13.ogg/revision/latest?cb=20210411134922"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_14.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Blitzcrank_SpaceGroove_Attack_0_0_14.ogg/revision/latest?cb=20210411134924"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Blitzcrank_SpaceGroove_Attack_0_0_15.ogg/revision/latest?cb=20210411134927"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Blitzcrank_SpaceGroove_Attack_0_0_10.ogg/revision/latest?cb=20210411134916"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Blitzcrank_SpaceGroove_Attack_0_0_11.ogg/revision/latest?cb=20210411134919"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_12.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Blitzcrank_SpaceGroove_Attack_0_0_12.ogg/revision/latest?cb=20210411134921"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_13.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Blitzcrank_SpaceGroove_Attack_0_0_13.ogg/revision/latest?cb=20210411134922"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_14.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Blitzcrank_SpaceGroove_Attack_0_0_14.ogg/revision/latest?cb=20210411134924"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Blitzcrank_SpaceGroove_Attack_0_0_15.ogg/revision/latest?cb=20210411134927"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Blitzcrank_SpaceGroove_Attack_0_0_2.ogg/revision/latest?cb=20210411134900"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Blitzcrank_SpaceGroove_Attack_0_0_3.ogg/revision/latest?cb=20210411134902"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Blitzcrank_SpaceGroove_Attack_0_0_4.ogg/revision/latest?cb=20210411134904"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Blitzcrank_SpaceGroove_Attack_0_0_5.ogg/revision/latest?cb=20210411134906"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Blitzcrank_SpaceGroove_Attack_0_0_6.ogg/revision/latest?cb=20210411134908"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/64/Blitzcrank_SpaceGroove_Attack_0_0_7.ogg/revision/latest?cb=20210411134910"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Blitzcrank_SpaceGroove_Attack_0_0_8.ogg/revision/latest?cb=20210411134912"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_0_0_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Blitzcrank_SpaceGroove_Attack_0_0_9.ogg/revision/latest?cb=20210411134914"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Blitzcrank_SpaceGroove_Attack_1_1_0.ogg/revision/latest?cb=20210411134929"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Blitzcrank_SpaceGroove_Attack_1_1_1.ogg/revision/latest?cb=20210411134931"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Blitzcrank_SpaceGroove_Attack_1_1_10.ogg/revision/latest?cb=20210411135049"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/01/Blitzcrank_SpaceGroove_Attack_1_1_11.ogg/revision/latest?cb=20210411135051"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_12.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Blitzcrank_SpaceGroove_Attack_1_1_12.ogg/revision/latest?cb=20210411135053"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_13.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Blitzcrank_SpaceGroove_Attack_1_1_13.ogg/revision/latest?cb=20210411135055"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_14.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Blitzcrank_SpaceGroove_Attack_1_1_14.ogg/revision/latest?cb=20210411135057"
+                    },
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Blitzcrank_SpaceGroove_Attack_1_1_15.ogg/revision/latest?cb=20210411135059"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Blitzcrank_SpaceGroove_Attack_1_1_10.ogg/revision/latest?cb=20210411135049"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/01/Blitzcrank_SpaceGroove_Attack_1_1_11.ogg/revision/latest?cb=20210411135051"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_12.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Blitzcrank_SpaceGroove_Attack_1_1_12.ogg/revision/latest?cb=20210411135053"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_13.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Blitzcrank_SpaceGroove_Attack_1_1_13.ogg/revision/latest?cb=20210411135055"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_14.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Blitzcrank_SpaceGroove_Attack_1_1_14.ogg/revision/latest?cb=20210411135057"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Blitzcrank_SpaceGroove_Attack_1_1_15.ogg/revision/latest?cb=20210411135059"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Blitzcrank_SpaceGroove_Attack_1_1_2.ogg/revision/latest?cb=20210411134933"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Blitzcrank_SpaceGroove_Attack_1_1_3.ogg/revision/latest?cb=20210411134934"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Blitzcrank_SpaceGroove_Attack_1_1_4.ogg/revision/latest?cb=20210411134936"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Blitzcrank_SpaceGroove_Attack_1_1_5.ogg/revision/latest?cb=20210411134938"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Blitzcrank_SpaceGroove_Attack_1_1_6.ogg/revision/latest?cb=20210411134940"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Blitzcrank_SpaceGroove_Attack_1_1_7.ogg/revision/latest?cb=20210411134942"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Blitzcrank_SpaceGroove_Attack_1_1_8.ogg/revision/latest?cb=20210411135045"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Attack_1_1_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Blitzcrank_SpaceGroove_Attack_1_1_9.ogg/revision/latest?cb=20210411135047"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Death_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Blitzcrank_SpaceGroove_Death_0_0.ogg/revision/latest?cb=20210411135101"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Death_1_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Blitzcrank_SpaceGroove_Death_1_1.ogg/revision/latest?cb=20210411135103"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Death_2_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Blitzcrank_SpaceGroove_Death_2_1.ogg/revision/latest?cb=20210411135105"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Death_3_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/db/Blitzcrank_SpaceGroove_Death_3_0.ogg/revision/latest?cb=20210411135107"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_FirstEncounterBlitzcrank_0_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Blitzcrank_SpaceGroove_FirstEncounterBlitzcrank_0_1.ogg/revision/latest?cb=20210411135109"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_FirstEncounterLuluSkin26_0_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Blitzcrank_SpaceGroove_FirstEncounterLuluSkin26_0_3.ogg/revision/latest?cb=20210411135111"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_FirstEncounterLuluSkin26_0_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Blitzcrank_SpaceGroove_FirstEncounterLuluSkin26_0_4.ogg/revision/latest?cb=20210411135113"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_FirstEncounterLuxSkin19_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/49/Blitzcrank_SpaceGroove_FirstEncounterLuxSkin19_0_0.ogg/revision/latest?cb=20210411135115"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_FirstEncounterNasusSkin25_0_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Blitzcrank_SpaceGroove_FirstEncounterNasusSkin25_0_2.ogg/revision/latest?cb=20210411135117"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_FirstEncounterNunuSkin16_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Blitzcrank_SpaceGroove_FirstEncounterNunuSkin16_0_0.ogg/revision/latest?cb=20210411135119"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_FirstEncounterRumbleSkin13_0_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Blitzcrank_SpaceGroove_FirstEncounterRumbleSkin13_0_2.ogg/revision/latest?cb=20210411135123"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_FirstEncounterSamiraSkin10_0_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Blitzcrank_SpaceGroove_FirstEncounterSamiraSkin10_0_1.ogg/revision/latest?cb=20210411135125"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_JokeResponse_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Blitzcrank_SpaceGroove_JokeResponse_0_0.ogg/revision/latest?cb=20210411135135"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Joke_0_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Blitzcrank_SpaceGroove_Joke_0_1.ogg/revision/latest?cb=20210411135127"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Joke_0_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Blitzcrank_SpaceGroove_Joke_0_2.ogg/revision/latest?cb=20210411135129"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Joke_1_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Blitzcrank_SpaceGroove_Joke_1_0.ogg/revision/latest?cb=20210411135131"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Joke_1_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Blitzcrank_SpaceGroove_Joke_1_1.ogg/revision/latest?cb=20210411135133"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_KillLuluSkin26_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Blitzcrank_SpaceGroove_KillLuluSkin26_0_0.ogg/revision/latest?cb=20210411135151"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_KillLuxSkin19_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Blitzcrank_SpaceGroove_KillLuxSkin19_0_0.ogg/revision/latest?cb=20210411135153"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_KillNasusSkin25_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Blitzcrank_SpaceGroove_KillNasusSkin25_0_0.ogg/revision/latest?cb=20210411135155"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_KillNunuSkin16_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Blitzcrank_SpaceGroove_KillNunuSkin16_0_0.ogg/revision/latest?cb=20210411135157"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_KillPenta_0_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Blitzcrank_SpaceGroove_KillPenta_0_1.ogg/revision/latest?cb=20210411135159"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_KillRumbleSkin13_0_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Blitzcrank_SpaceGroove_KillRumbleSkin13_0_2.ogg/revision/latest?cb=20210411135201"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_KillSamiraSkin10_0_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Blitzcrank_SpaceGroove_KillSamiraSkin10_0_1.ogg/revision/latest?cb=20210411135203"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_KillTurret_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Blitzcrank_SpaceGroove_KillTurret_0_0.ogg/revision/latest?cb=20210411135205"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_KillTurret_1_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Blitzcrank_SpaceGroove_KillTurret_1_2.ogg/revision/latest?cb=20210411135207"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_KillTurret_2_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Blitzcrank_SpaceGroove_KillTurret_2_0.ogg/revision/latest?cb=20210411135209"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_KillTurret_3_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Blitzcrank_SpaceGroove_KillTurret_3_0.ogg/revision/latest?cb=20210411135211"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Kill_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Blitzcrank_SpaceGroove_Kill_0_0.ogg/revision/latest?cb=20210411135137"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Kill_1_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Blitzcrank_SpaceGroove_Kill_1_0.ogg/revision/latest?cb=20210411135139"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Kill_2_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Blitzcrank_SpaceGroove_Kill_2_2.ogg/revision/latest?cb=20210411135141"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Kill_3_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Blitzcrank_SpaceGroove_Kill_3_2.ogg/revision/latest?cb=20210411135143"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Kill_4_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Blitzcrank_SpaceGroove_Kill_4_2.ogg/revision/latest?cb=20210411135145"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Kill_5_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Blitzcrank_SpaceGroove_Kill_5_1.ogg/revision/latest?cb=20210411135147"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Kill_6_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Blitzcrank_SpaceGroove_Kill_6_1.ogg/revision/latest?cb=20210411135149"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Laugh_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Blitzcrank_SpaceGroove_Laugh_0.ogg/revision/latest?cb=20210411135213"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Laugh_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8a/Blitzcrank_SpaceGroove_Laugh_1.ogg/revision/latest?cb=20210411135215"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveFirst_0_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Blitzcrank_SpaceGroove_MoveFirst_0_3.ogg/revision/latest?cb=20210411135347"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveFirst_0_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Blitzcrank_SpaceGroove_MoveFirst_0_4.ogg/revision/latest?cb=20210411135349"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveFirst_1_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Blitzcrank_SpaceGroove_MoveFirst_1_0.ogg/revision/latest?cb=20210411135351"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveFirst_1_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Blitzcrank_SpaceGroove_MoveFirst_1_4.ogg/revision/latest?cb=20210411135353"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveFirst_2_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/99/Blitzcrank_SpaceGroove_MoveFirst_2_0.ogg/revision/latest?cb=20210411135355"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveFirst_2_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Blitzcrank_SpaceGroove_MoveFirst_2_3.ogg/revision/latest?cb=20210411135357"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveFirst_3_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Blitzcrank_SpaceGroove_MoveFirst_3_2.ogg/revision/latest?cb=20210411135359"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveFirst_3_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Blitzcrank_SpaceGroove_MoveFirst_3_4.ogg/revision/latest?cb=20210411135401"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveFirst_4_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Blitzcrank_SpaceGroove_MoveFirst_4_0.ogg/revision/latest?cb=20210411135403"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveFirst_4_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Blitzcrank_SpaceGroove_MoveFirst_4_3.ogg/revision/latest?cb=20210411135405"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Blitzcrank_SpaceGroove_MoveLong_0_0.ogg/revision/latest?cb=20210411135407"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_0_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Blitzcrank_SpaceGroove_MoveLong_0_4.ogg/revision/latest?cb=20210411135409"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_1_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Blitzcrank_SpaceGroove_MoveLong_1_1.ogg/revision/latest?cb=20210411135412"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_2_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Blitzcrank_SpaceGroove_MoveLong_2_1.ogg/revision/latest?cb=20210411135414"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_3_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b1/Blitzcrank_SpaceGroove_MoveLong_3_1.ogg/revision/latest?cb=20210411135416"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_4_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Blitzcrank_SpaceGroove_MoveLong_4_0.ogg/revision/latest?cb=20210411135418"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_5_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/99/Blitzcrank_SpaceGroove_MoveLong_5_0.ogg/revision/latest?cb=20210411135421"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_6_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Blitzcrank_SpaceGroove_MoveLong_6_2.ogg/revision/latest?cb=20210411135423"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_6_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Blitzcrank_SpaceGroove_MoveLong_6_4.ogg/revision/latest?cb=20210411135425"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_7_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Blitzcrank_SpaceGroove_MoveLong_7_1.ogg/revision/latest?cb=20210411135427"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_7_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Blitzcrank_SpaceGroove_MoveLong_7_3.ogg/revision/latest?cb=20210411135429"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_8_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Blitzcrank_SpaceGroove_MoveLong_8_0.ogg/revision/latest?cb=20210411135431"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_8_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Blitzcrank_SpaceGroove_MoveLong_8_3.ogg/revision/latest?cb=20210411135433"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_9_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Blitzcrank_SpaceGroove_MoveLong_9_0.ogg/revision/latest?cb=20210411135435"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_MoveLong_9_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Blitzcrank_SpaceGroove_MoveLong_9_3.ogg/revision/latest?cb=20210411135437"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Blitzcrank_SpaceGroove_Move_0_0.ogg/revision/latest?cb=20210411135217"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_0_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Blitzcrank_SpaceGroove_Move_0_3.ogg/revision/latest?cb=20210411135219"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_10_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Blitzcrank_SpaceGroove_Move_10_1.ogg/revision/latest?cb=20210411135246"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_10_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Blitzcrank_SpaceGroove_Move_10_2.ogg/revision/latest?cb=20210411135248"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_11_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Blitzcrank_SpaceGroove_Move_11_2.ogg/revision/latest?cb=20210411135250"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_12_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Blitzcrank_SpaceGroove_Move_12_2.ogg/revision/latest?cb=20210411135252"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_13_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/45/Blitzcrank_SpaceGroove_Move_13_2.ogg/revision/latest?cb=20210411135254"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_14_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Blitzcrank_SpaceGroove_Move_14_1.ogg/revision/latest?cb=20210411135309"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_15_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/Blitzcrank_SpaceGroove_Move_15_2.ogg/revision/latest?cb=20210411135311"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_16_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Blitzcrank_SpaceGroove_Move_16_1.ogg/revision/latest?cb=20210411135313"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_17_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Blitzcrank_SpaceGroove_Move_17_1.ogg/revision/latest?cb=20210411135315"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_18_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/Blitzcrank_SpaceGroove_Move_18_1.ogg/revision/latest?cb=20210411135317"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_19_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Blitzcrank_SpaceGroove_Move_19_1.ogg/revision/latest?cb=20210411135319"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_1_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1d/Blitzcrank_SpaceGroove_Move_1_0.ogg/revision/latest?cb=20210411135221"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_20_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Blitzcrank_SpaceGroove_Move_20_0.ogg/revision/latest?cb=20210411135321"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_21_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Blitzcrank_SpaceGroove_Move_21_1.ogg/revision/latest?cb=20210411135323"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_22_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Blitzcrank_SpaceGroove_Move_22_2.ogg/revision/latest?cb=20210411135325"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_23_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Blitzcrank_SpaceGroove_Move_23_1.ogg/revision/latest?cb=20210411135327"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_24_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Blitzcrank_SpaceGroove_Move_24_0.ogg/revision/latest?cb=20210411135329"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_24_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Blitzcrank_SpaceGroove_Move_24_4.ogg/revision/latest?cb=20210411135331"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_25_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Blitzcrank_SpaceGroove_Move_25_2.ogg/revision/latest?cb=20210411135333"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_26_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Blitzcrank_SpaceGroove_Move_26_2.ogg/revision/latest?cb=20210411135335"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_27_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Blitzcrank_SpaceGroove_Move_27_1.ogg/revision/latest?cb=20210411135337"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_27_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Blitzcrank_SpaceGroove_Move_27_4.ogg/revision/latest?cb=20210411135339"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_28_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/Blitzcrank_SpaceGroove_Move_28_0.ogg/revision/latest?cb=20210411135341"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_29_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Blitzcrank_SpaceGroove_Move_29_1.ogg/revision/latest?cb=20210411135343"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_29_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Blitzcrank_SpaceGroove_Move_29_4.ogg/revision/latest?cb=20210411135345"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_2_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Blitzcrank_SpaceGroove_Move_2_2.ogg/revision/latest?cb=20210411135223"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_3_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b6/Blitzcrank_SpaceGroove_Move_3_1.ogg/revision/latest?cb=20210411135224"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_3_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Blitzcrank_SpaceGroove_Move_3_2.ogg/revision/latest?cb=20210411135226"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_4_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Blitzcrank_SpaceGroove_Move_4_0.ogg/revision/latest?cb=20210411135228"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_4_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Blitzcrank_SpaceGroove_Move_4_2.ogg/revision/latest?cb=20210411135230"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_5_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Blitzcrank_SpaceGroove_Move_5_0.ogg/revision/latest?cb=20210411135232"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_6_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Blitzcrank_SpaceGroove_Move_6_0.ogg/revision/latest?cb=20210411135234"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_6_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Blitzcrank_SpaceGroove_Move_6_1.ogg/revision/latest?cb=20210411135236"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_7_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Blitzcrank_SpaceGroove_Move_7_2.ogg/revision/latest?cb=20210411135238"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_8_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Blitzcrank_SpaceGroove_Move_8_0.ogg/revision/latest?cb=20210411135240"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_9_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Blitzcrank_SpaceGroove_Move_9_2.ogg/revision/latest?cb=20210411135242"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Move_9_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Blitzcrank_SpaceGroove_Move_9_4.ogg/revision/latest?cb=20210411135244"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Overdrive_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Blitzcrank_SpaceGroove_Overdrive_0.ogg/revision/latest?cb=20210411135439"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Overdrive_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Blitzcrank_SpaceGroove_Overdrive_1.ogg/revision/latest?cb=20210411135440"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Overdrive_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/Blitzcrank_SpaceGroove_Overdrive_2.ogg/revision/latest?cb=20210411135442"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Overdrive_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Blitzcrank_SpaceGroove_Overdrive_3.ogg/revision/latest?cb=20210411135444"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Overdrive_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Blitzcrank_SpaceGroove_Overdrive_4.ogg/revision/latest?cb=20210411135446"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Q_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Blitzcrank_SpaceGroove_Q_0.ogg/revision/latest?cb=20210411135448"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Q_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Blitzcrank_SpaceGroove_Q_1.ogg/revision/latest?cb=20210411135450"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Q_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Blitzcrank_SpaceGroove_Q_2.ogg/revision/latest?cb=20210411135453"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Q_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Blitzcrank_SpaceGroove_Q_3.ogg/revision/latest?cb=20210411135454"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Q_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Blitzcrank_SpaceGroove_Q_4.ogg/revision/latest?cb=20210411135456"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Q_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Blitzcrank_SpaceGroove_Q_5.ogg/revision/latest?cb=20210411135458"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Q_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Blitzcrank_SpaceGroove_Q_6.ogg/revision/latest?cb=20210411135500"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Q_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Blitzcrank_SpaceGroove_Q_7.ogg/revision/latest?cb=20210411135502"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Recall_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Blitzcrank_SpaceGroove_Recall_0_0.ogg/revision/latest?cb=20210411135504"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Recall_1_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Blitzcrank_SpaceGroove_Recall_1_1.ogg/revision/latest?cb=20210411135506"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Recall_1_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Blitzcrank_SpaceGroove_Recall_1_3.ogg/revision/latest?cb=20210411135508"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Recall_2_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/Blitzcrank_SpaceGroove_Recall_2_0.ogg/revision/latest?cb=20210411135510"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Recall_3_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Blitzcrank_SpaceGroove_Recall_3_2.ogg/revision/latest?cb=20210411135512"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Respawn_0_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Blitzcrank_SpaceGroove_Respawn_0_0.ogg/revision/latest?cb=20210411135514"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Respawn_1_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Blitzcrank_SpaceGroove_Respawn_1_1.ogg/revision/latest?cb=20210411135516"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Respawn_2_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Blitzcrank_SpaceGroove_Respawn_2_1.ogg/revision/latest?cb=20210411135518"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Respawn_2_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Blitzcrank_SpaceGroove_Respawn_2_2.ogg/revision/latest?cb=20210411135520"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_TauntResponse_0_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Blitzcrank_SpaceGroove_TauntResponse_0_1.ogg/revision/latest?cb=20210411135526"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Taunt_0_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Blitzcrank_SpaceGroove_Taunt_0_2.ogg/revision/latest?cb=20210411135522"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Blitzcrank_SpaceGroove_Taunt_1_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Blitzcrank_SpaceGroove_Taunt_1_0.ogg/revision/latest?cb=20210411135524"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Blitzcrank_SpaceGroove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PiltoverCustomsBlitzcrank_sellW"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RiotBlitzcrank_sellW1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RiotBlitzcrank_sellW2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RiotBlitzcrank_sellE"
+          }
+     ]
+}

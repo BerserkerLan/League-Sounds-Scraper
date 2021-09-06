@@ -1,0 +1,1534 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Select"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_SpawnMusic"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "StarGuardian2019_SpawnMusic"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown096"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown112"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown106"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown090"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown092"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown111"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown108"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown109"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown100"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown099"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown097"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown093"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown098"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown101"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown102"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown107"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown104"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown110"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown105"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZoeCyberPop_FirstMove01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZoeCyberPop_FirstMove02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZoeCyberPop_FirstMove03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZoeCyberPop_FirstMove04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZoeCyberPop_FirstMove05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_FirstMoveEnemyAurelionSol01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_FirstMoveEnemyAurelionSol02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_FirstMoveEnemyAurelionSol03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_FirstMoveEnemyEzreal01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_FirstMoveEnemyEzreal02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown143"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown135"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown137"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown123"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown145"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown136"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown117"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown127"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown144"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown139"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown091"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown094"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown095"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown103"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown113"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown114"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown115"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown116"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown118"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown119"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown120"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown121"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown122"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown124"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown125"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown126"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown128"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown129"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown130"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown131"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown132"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown133"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown134"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown138"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown140"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown141"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown142"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown146"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown147"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown022"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown023"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown024"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown025"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown026"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown027"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown028"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown029"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown030"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown031"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown032"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown033"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown034"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown035"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown036"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown037"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown198"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown199"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown200"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown201"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown202"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_TauntEzreal01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_TauntEzreal02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_TauntEzreal03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_TauntEzreal04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_TauntLux01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_TauntLux02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_TauntResponse01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_TauntResponse02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_TauntResponse03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_TauntResponse04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_TauntResponse05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown204"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown038"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown039"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown040"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown041"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown042"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown043"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown017"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown018"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown019"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown020"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown021"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown185"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown186"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown187"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown079"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown080"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown065"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown044"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown045"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown046"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown047"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown048"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown049"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown050"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown051"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown052"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown053"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown054"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown055"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown056"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown057"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown058"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown059"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown060"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown061"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown062"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown063"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown064"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown066"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown067"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown068"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown069"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown070"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown071"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown072"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown073"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown074"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown075"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown076"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown077"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown078"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown081"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown082"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown083"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown084"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown085"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown086"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown165"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown166"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown167"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackAurelionSol01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackAurelionSol02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackAurelionSol03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackAurelionSol04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackAurelionSol05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackEzreal01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackEzreal02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackEzreal03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackEzreal04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackEzreal05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackEzreal06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackEzreal07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackEzreal08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackLux01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackLux02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackLux03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackLux04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackLux05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackHumanFemale19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackYordle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackYordle02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackYordle03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackYordle04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackYordle05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackYordle06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackYordle07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackYordle08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackYordle09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_AttackYordle10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown171"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown172"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown173"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown175"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown176"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown177"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown178"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown179"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown180"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown181"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown182"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown183"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown184"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown188"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown189"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown190"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown191"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown192"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown193"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown194"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown195"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown196"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown197"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown005"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown006"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown007"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown008"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown010"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown011"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown012"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown013"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown014"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown015"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown016"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown009"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Soundeffect21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEnemy07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEnemy08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEnemy09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEnemy10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEnemy11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEnemy12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZoeCyberPop_KillEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZoeCyberPop_KillEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZoeCyberPop_KillEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ZoeCyberPop_KillEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillAurelionSol01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillAurelionSol02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillAurelionSol03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillAurelionSol04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillAurelionSol05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEzreal01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEzreal02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEzreal03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillEzreal04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillLux01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillLux02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillLux03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillLux04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_KillLux05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown205"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown001"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown002"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown003"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Zoe_Unknown004"
+          }
+     ]
+}

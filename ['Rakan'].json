@@ -1,0 +1,2586 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Rakan_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Rakan_Select.ogg/revision/latest?cb=20200711201003"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Rakan_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Rakan_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Rakan_Ban.ogg/revision/latest?cb=20200810153250"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Rakan_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_start04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_start05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_start06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_start07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_start08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_start09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_start10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_startXayah01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_startXayah02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_startXayah03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_startXayah04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_startXayah05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_startXayah06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_startXayah07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move37"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move38"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move39"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move40"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move41"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move42"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move43"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move44"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move45"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move46"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move47"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move48"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move49"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move50"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move51"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move52"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move53"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move54"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move55"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move56"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move57"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move58"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move59"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move60"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move61"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move62"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move63"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move64"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move65"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move66"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move67"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move68"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move69"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move70"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move71"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move72"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move73"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move74"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move75"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move76"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move77"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move78"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move79"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move80"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move81"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move82"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move83"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move84"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move85"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move86"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move87"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move88"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move89"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move90"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move91"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_move92"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahNearby36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_moveXayahDistant30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_idleRakan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_idleRakan02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_idleRakan03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_idleRakan04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_idleRakan05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_taunt05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_taunt06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_taunt07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_taunt08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_taunt09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_taunt10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_tauntXayah01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_tauntXayah02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_tauntRengar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_tauntRengar02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_tauntRengar03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_interactionTauntEnemyXayah01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_interactionTauntEnemyXayah02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack37"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack38"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack39"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack40"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack41"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack42"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack43"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack44"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack45"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack46"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack47"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack48"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack49"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack50"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack51"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack52"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack53"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack54"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack55"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack56"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack57"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack58"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack59"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack60"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack61"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack62"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack63"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attack64"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackMelee16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_attackXayah26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_spellW1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_spellW2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_spellW3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_interactionRakanQ8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_spellR1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_spellR2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_spellR3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_spellR4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_kill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_kill06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_kill07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_kill08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_kill09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_kill10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_kill11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_kill12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killXayah01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killXayah02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killXayah03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killXayah04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killXayah05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killIonian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killIonian02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killIonian03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killIonian04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killIonian05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killZed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killZed02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killZed03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killZed04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killZed05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killJhin01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killJhin02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killJhin03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killJhin04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killSwain01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killSwain02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killSwain03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killSwain04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killSwain05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killUdyr01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killUdyr02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killIllaoi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killIllaoi02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killIllaoi03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killRekSai01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killRekSai02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_killRekSai03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_ward31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_killRakan12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetDistant01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetNearby01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetDistant02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetNearby02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetDistant03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetNearby03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetDistant04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetNearby04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetDistant05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetNearby05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetDistant06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetNearby06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetDistant07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingTargetNearby07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingAssistMeDistant01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingAssistmeNearby01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingAssistMeDistant02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingAssistmeNearby02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingAssistMeDistant03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingAssistmeNearby03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingAssistMeDistant04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingAssistmeNearby04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingAssistMeDistant05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingAssistmeNearby05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerDistant01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerNearby01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerDistant02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerNearby02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerDistant03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerNearby03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerDistant04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerNearby04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerDistant05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerNearby05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerDistant06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerNearby06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerDistant07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerNearby07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerDistant08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerNearby08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerDistant09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerNearby09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerDistant10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerNearby10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerDistant11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingDangerNearby11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingDistant01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingNearby01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingDistant02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingNearby02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingDistant03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingNearby03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingDistant04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingNearby04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingDistant05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingNearby05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingDistant06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingNearby06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingDistant07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingEnemyMissingNearby07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayNearby01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayNearby02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayNearby03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayNearby04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayNearby05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayNearby06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayNearby07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayNearby08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayNearby09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayNearby10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayNearby12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayDistant13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xayah_pingOnMyWayNearby13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_recallXayah01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_recallXayah02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_recallXayah03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_recallXayah04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_recallXayah05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_recallXayah06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_death02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rakan_death03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "StarGuardian2019_SpawnMusic"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.01.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.01.02.01.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.01.02.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.01.02.01.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.killGeneric_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.01.01.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.01.01.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.killGeneric_nearRakanXayah"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.03.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.03.02.ogg/revision/latest?cb=20191020050554"
+                    },
+                    {
+                         "audio_name": "XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.03.02.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/XayahStarGuardian01.killGeneric_nearRakanXayah_StarGuardian.02.03.02.ogg/revision/latest?cb=20191020050554"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "XayahStarGuardian01.killGeneric_nearRakanXayah"
+          }
+     ]
+}

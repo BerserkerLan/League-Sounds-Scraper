@@ -1,0 +1,5289 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Kayn_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Kayn_Select.ogg/revision/latest?cb=20200709160623"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Kayn_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Kayn_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Kayn_Ban.ogg/revision/latest?cb=20200810145440"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Kayn_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_firstmove06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_firstmove05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_firstMove01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_firstMove03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_firstmove04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_firstMove02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_firstMove07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_firstmove08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_firstmove09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_move31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_tauntNoxian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_tauntNoxian02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_tauntYordle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_tauntAllyAatrox"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_tauntAllyVarus"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_tauntAllyZed"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_joke05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_castR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attackAatrox"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attackShen01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attackZed1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attackZed2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attackRiftScuttler1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attackRiftScuttler2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attackRiftScuttler3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attackRiftScuttler4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_attackDragon"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_castE01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_castE03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_castE04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_castE05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_castE02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killMelee13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killRanged01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killRanged02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killRanged03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killRanged04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killRanged05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killRanged06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killRanged07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killRanged08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killRanged09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killRanged10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killRanged11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killRanged12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_R4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_R5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_R6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killNoxian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killNoxian02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killAatrox01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killAatrox02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killShen01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killVarus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killZed02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killZed03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killZed04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killZed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_killZed05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_FirstBlood01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_FirstBlood02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_FirstBlood03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_FirstBlood04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_Quadra01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_Quadra02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_penta01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_penta02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_ace01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_ace02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_purchase05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_purchase06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_purchase01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_purchase02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_purchase03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_purchase04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_purchase07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_placeWard01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_placeWard02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_placeWard03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_destroyWard01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_destroyWard03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_destroyWard02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_recall3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_recall4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_recall1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_recall2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_firstMove01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_firstMove02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_tauntYordle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_tauntEnemyAatrox01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_tauntEnemyAatrox02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_tauntAllyVarus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_tauntAllyVarus02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_castingR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_castingR02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attackAatrox01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attackAatrox02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attackZed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attackZed02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attackZed03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attackZed04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attackScuttle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_attackScuttle02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_darkinTransform01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_darkinTransform02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_darkinTransform03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_darkinTransform04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Kayn_darkinTransform05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_castingE01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_castingE06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_castingE02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_castingE03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_castingE04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_castingE05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killAny01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killAny02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killAny03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killAny04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killAny05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killAny06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killAny07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killAny08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killWithR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killWithR02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killWithR03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killWithR04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killWithR05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killAatrox01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killAatrox02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killAatrox03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killVarus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killZed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killZed02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killZed03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killingSpree01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killingSpree02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killingSpree03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_killingSpree04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_quadra01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_quadra02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_quadra03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_penta01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_penta02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_penta03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_ace01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_ace02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_ace03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_ace04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_warding01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_warding02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_warding03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_destroyWard01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_destroyWard02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_destroyWard03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rhaast_respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_firstMove01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_firstMove02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_firstMove03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_movement17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_tauntAllyZed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_tauntAllyZed02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_castR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attackDarius01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attackSion01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attackScuttle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attackScuttle02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_attackScuttle03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_transform01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_transform02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_transform03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_transform04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_castE01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_castE02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_castE03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killAny01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killAny02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killAny03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killAny04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killAny05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killAny06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killAny07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killAny08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killWithR01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killWithR02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killWithR03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killWithR04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killNoxian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killAatrox01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killShen01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killZed01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killingSpree01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killingSpree02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killingSpree03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_killingSpree04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_quadra01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_quadra02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_quadra03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_penta01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_penta02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_ace01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_ace02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_ace03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_purchaseItem01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_purchaseItem02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_placeWard01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_placeWard02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_placeWard03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_destroyWard01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_destroyWard02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_destroyWard03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassin_respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_SpawnAllyOdyssey01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_SpawnAllyOdyssey02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_SpawnAllyDarkStar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_SpawnEnemyOdyssey01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_SpawnEnemyOdyssey02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_FirstMove01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_FirstMove02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_FirstMove03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_FirstMove04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement41"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement39"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement45"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement42"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement37"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement47"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement35"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement46"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement38"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement40"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement43"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement36"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement44"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Movement09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_EncounterOdysseyJinx01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_EncounterOdysseyMalphite01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_EncounterOdysseySona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_EncounterOdysseyYasuo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_EncounterOdysseyZiggs01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_TauntResponse01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Mastery02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Mastery01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_JokeResponse01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_AttackOdysseyJinx01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_AttackOdysseyMalphite01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_AttackOdysseySona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_AttackOdysseyYasuo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_AttackOdysseyZiggs01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_ReapingSlash01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_ReapingSlash02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_BladesReach01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_BladesReach02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_ShadowStep06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_ShadowStep02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_ShadowStep05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_ShadowStep04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_ShadowStep03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_ShadowStep01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_UmbralTrespass07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_UmbralTrespass05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_UmbralTrespass06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_UmbralTrespass01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_UmbralTrespass03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_UmbralTrespass08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_UmbralTrespass02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_UmbralTrespass04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Kill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Kill07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Kill06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Kill08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_KillKayn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_KillOdysseyJinx01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_KillOdysseyMalphite01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_KillOdysseySona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_KillOdysseyYasuo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_KillOdysseyZiggs01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Pentakill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Pentakill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Pentakill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Death02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Death03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "KaynOdyssey_Respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_FirstMove01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_FirstMove02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_FirstMove03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_FirstMove04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_FirstMove05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Movement29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_EncounterStarGuardian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_TauntAllyDarkStarThresh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_TauntResponse01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Mastery01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Mastery02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_JokeResponse01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Attack31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_AttackDarkStar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_AttackDarkStarThresh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_AttackOdysseyJinx01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_AttackOdysseyMalphite01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_AttackOdysseySona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_AttackOdysseyYasuo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_AttackOdysseyZiggs01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Transform01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Transform03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Transform04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Transform02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_ReapingSlash01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_ReapingSlash02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_ReapingSlash03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_BladesReach01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_BladesReach02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_BladesReach03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_ShadowStep01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_ShadowStep02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_ShadowStep03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_ShadowStep04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_ShadowStep05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_ShadowStep06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_ShadowStep07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_UmbralTrespass02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_UmbralTrespass04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_UmbralTrespass05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_UmbralTrespass06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_UmbralTrespass01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_UmbralTrespass03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_UmbralTrespass07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Kill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Kill06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Kill07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_KillRhaast01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_KillDarkStar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_KillDarkStarThresh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_KillOdysseyJinx01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_KillOdysseyMalphite01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_KillOdysseySona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_KillOdysseyYasuo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_KillOdysseyZiggs01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Pentakill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Pentakill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Pentakill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Death02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Death03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RhaastOdyssey_Respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_FirstMove01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_FirstMove02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_FirstMove03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_FirstMove04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_FirstMove05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Movement31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_TauntResponse01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Mastery01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Mastery02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_JokeResponse01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Attack30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_AttackOdysseyJinx01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_AttackOdysseyMalphite01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_AttackOdysseySona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_AttackOdysseyYasuo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_AttackOdysseyZiggs01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Transform01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Transform04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Transform02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Transform03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_ReapingSlash01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_ReapingSlash02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_ReapingSlash03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_BladesReach01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_BladesReach02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_BladesReach03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_ShadowStep01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_ShadowStep02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_ShadowStep03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_ShadowStep04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_ShadowStep05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_UmbralTrespass02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_UmbralTrespass03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_UmbralTrespass05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_UmbralTrespass07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_UmbralTrespass01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_UmbralTrespass08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_UmbralTrespass06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_UmbralTrespass04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Kill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Kill06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_KillKayn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_KillOdysseyJinx01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_KillOdysseyMalphite01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_KillOdysseySona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_KillOdysseyYasuo01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_KillOdysseyZiggs01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Pentakill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Pentakill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Pentakill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Death02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Death03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Respawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Respawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ShadowAssassinOdyssey_Respawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeSummonersRift01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeSummonersRift02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeSummonersRift03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeSummonersRift04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeSummonersRift05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeSummonersRift06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeHowlingAbyss01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeHowlingAbyss02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeHowlingAbyss03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeHowlingAbyss04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeHowlingAbyss05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeHowlingAbyss06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeButchersBridge01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeButchersBridge02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeButchersBridge03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeButchersBridge04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeButchersBridge05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeButchersBridge06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeTwistedTreeline01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeTwistedTreeline02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeTwistedTreeline03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeTwistedTreeline04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeTwistedTreeline05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeTwistedTreeline06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareCountdownMinionSpawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareCountdownMinionSpawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareCountdownMinionSpawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareCountdownMinionSpawn04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareCountdownMinionSpawn05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareMinionSpawn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareMinionSpawn02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareMinionSpawn03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareMinionSpawn04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareMinionSpawn05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_firstBlood01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_firstBlood02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_firstBlood03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_firstBlood04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_firstBlood05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_firstBlood06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_kill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_kill06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDeath01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDeath02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDeath03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDeath04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDeath05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDeath06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareExecution01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareExecution02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareExecution03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareExecution04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareExecution05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareExecution06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareAce01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareAce02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareAce03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareAce04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareAce05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareAce06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killDoubleAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killDoubleAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killDoubleAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killDoubleAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killDoubleAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killDoubleAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killTripleAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killTripleAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killTripleAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killTripleAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killTripleAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killTripleAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killQuadraAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killQuadraAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killQuadraAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killQuadraAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killQuadraAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killQuadraAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killPentaAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killPentaAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killPentaAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killPentaAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killPentaAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killDoubleEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killDoubleEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killDoubleEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killDoubleEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killDoubleEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killDoubleEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killTripleEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killTripleEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killTripleEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killTripleEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killTripleEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killTripleEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killQuadraEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killQuadraEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killQuadraEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killQuadraEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killQuadraEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killQuadraEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killPentaEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killPentaEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killPentaEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killPentaEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killPentaEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_killPentaEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeKillingSpreeAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeKillingSpreeAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeKillingSpreeAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeKillingSpreeAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeKillingSpreeAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeKillingSpreeAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeRampageAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeRampageAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeRampageAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeRampageAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeRampageAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeRampageAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeDominatingAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeDominatingAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeDominatingAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeDominatingAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeDominatingAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeDominatingAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeUnstoppableAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeUnstoppableAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeUnstoppableAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeUnstoppableAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeUnstoppableAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeUnstoppableAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeGodlikeAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeGodlikeAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeGodlikeAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeGodlikeAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeGodlikeAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeGodlikeAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeLegendaryAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeLegendaryAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeLegendaryAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeLegendaryAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeLegendaryAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeLegendaryAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeKillingSpreeEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeKillingSpreeEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeKillingSpreeEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeKillingSpreeEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeKillingSpreeEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeKillingSpreeEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeRampageEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeRampageEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeRampageEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeRampageEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeRampageEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeRampageEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeDominatingEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeDominatingEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeDominatingEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeDominatingEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeDominatingEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeDominatingEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeUnstoppableEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeUnstoppableEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeUnstoppableEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeUnstoppableEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeUnstoppableEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeUnstoppableEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeGodlikeEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeGodlikeEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeGodlikeEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeGodlikeEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeGodlikeEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeGodlikeEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeLegendaryEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeLegendaryEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeLegendaryEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeLegendaryEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeLegendaryEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_spreeLegendaryEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareShutDown01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareShutDown02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareShutDown03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareShutDown04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareShutDown05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareShutDown06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyTurretAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyTurretAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyTurretAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyTurretAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyTurretAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyTurretAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyTurretEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyTurretEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyTurretEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyTurretEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyTurretEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyTurretEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyInhibitorAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyInhibitorAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyInhibitorAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyInhibitorAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyInhibitorAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyInhibitorAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyInhibitorEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyInhibitorEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyInhibitorEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyInhibitorEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyInhibitorEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureDestroyInhibitorEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureCountdownInhibitorAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureCountdownInhibitorAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureCountdownInhibitorAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureCountdownInhibitorAlly04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureCountdownInhibitorAlly05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureCountdownInhibitorAlly06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureCountdownInhibitorEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureCountdownInhibitorEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureCountdownInhibitorEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureCountdownInhibitorEnemy05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureCountdownInhibitorEnemy04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_structureCountdownInhibitorEnemy06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareVictory01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareVictory02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareVictory03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareVictory04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareVictory05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareVictory06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDefeat01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDefeat02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDefeat03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDefeat04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDefeat05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDefeat06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDisconnect01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDisconnect02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDisconnect03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDisconnect04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareDisconnect05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareReconnect01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareReconnect02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareReconnect03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareReconnect04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_declareReconnect05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeOdysseyExtraction01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeOdysseyExtraction02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeOdysseyExtraction03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeOdysseyExtraction04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeOdysseyExtraction05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AnnouncerOdysseyKayn_welcomeOdysseyExtraction06"
+          }
+     ]
+}

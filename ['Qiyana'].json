@@ -1,0 +1,3359 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Qiyana_Select.ogg/revision/latest?cb=20190612184516"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Qiyana_Ban.ogg/revision/latest?cb=20190612184515"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TrueDamage_SpawnMusic"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_161.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Qiyana_161.ogg/revision/latest?cb=20190612184313"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_161"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_162.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Qiyana_162.ogg/revision/latest?cb=20190612184349"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_162"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_163.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Qiyana_163.ogg/revision/latest?cb=20190612184353"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_163"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_165.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Qiyana_165.ogg/revision/latest?cb=20190612184436"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_165"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_159.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Qiyana_159.ogg/revision/latest?cb=20190612184127"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_159"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_160.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Qiyana_160.ogg/revision/latest?cb=20190612184237"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_160"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_158.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Qiyana_158.ogg/revision/latest?cb=20190612184125"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_158"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_163.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/QiyanaBattleBoss_163.ogg/revision/latest?cb=20190612184008"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_163"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_160.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/QiyanaBattleBoss_160.ogg/revision/latest?cb=20190612184042"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_160"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_166.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/QiyanaBattleBoss_166.ogg/revision/latest?cb=20190612183831"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_166"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_167.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/QiyanaBattleBoss_167.ogg/revision/latest?cb=20190612183809"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_167"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_162.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/QiyanaBattleBoss_162.ogg/revision/latest?cb=20190612184011"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_162"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_108.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Qiyana_108.ogg/revision/latest?cb=20190612184223"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_108"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_108.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/QiyanaBattleBoss_108.ogg/revision/latest?cb=20190612184018"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_108"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_020.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Qiyana_020.ogg/revision/latest?cb=20190612184305"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_020"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_020.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/QiyanaBattleBoss_020.ogg/revision/latest?cb=20190612183821"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_020"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_080.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Qiyana_080.ogg/revision/latest?cb=20190612184158"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_080"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_080.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/QiyanaBattleBoss_080.ogg/revision/latest?cb=20190612183938"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_080"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_098.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Qiyana_098.ogg/revision/latest?cb=20190612184409"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_098"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_098.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/QiyanaBattleBoss_098.ogg/revision/latest?cb=20190612184004"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_098"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_073.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Qiyana_073.ogg/revision/latest?cb=20190612184248"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_073"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_073.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/QiyanaBattleBoss_073.ogg/revision/latest?cb=20190612183930"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_073"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_058.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Qiyana_058.ogg/revision/latest?cb=20190612184427"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_058"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_058.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/QiyanaBattleBoss_058.ogg/revision/latest?cb=20190612183911"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_058"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_015.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Qiyana_015.ogg/revision/latest?cb=20190612184259"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_015"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_015.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/QiyanaBattleBoss_015.ogg/revision/latest?cb=20190612183815"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_015"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_062.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Qiyana_062.ogg/revision/latest?cb=20190612184415"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_062"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_062.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/QiyanaBattleBoss_062.ogg/revision/latest?cb=20190612183915"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_062"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_002.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Qiyana_002.ogg/revision/latest?cb=20190612184333"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_002"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_002.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/QiyanaBattleBoss_002.ogg/revision/latest?cb=20190612183758"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_002"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_140.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/Qiyana_140.ogg/revision/latest?cb=20190612184243"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_140"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_140.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/QiyanaBattleBoss_140.ogg/revision/latest?cb=20190612184101"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_140"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_151.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Qiyana_151.ogg/revision/latest?cb=20190612184129"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_151"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_151.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/QiyanaBattleBoss_151.ogg/revision/latest?cb=20190612184116"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_151"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_012.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Qiyana_012.ogg/revision/latest?cb=20190612184132"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_012"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_012.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/QiyanaBattleBoss_012.ogg/revision/latest?cb=20190612183812"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_012"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_145.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Qiyana_145.ogg/revision/latest?cb=20190612184426"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_145"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_145.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/QiyanaBattleBoss_145.ogg/revision/latest?cb=20190612184108"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_145"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_024.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Qiyana_024.ogg/revision/latest?cb=20190612184414"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_024"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_024.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/QiyanaBattleBoss_024.ogg/revision/latest?cb=20190612183826"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_024"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_030.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Qiyana_030.ogg/revision/latest?cb=20190612184418"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_030"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_030.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/QiyanaBattleBoss_030.ogg/revision/latest?cb=20190612183835"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_030"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_031.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Qiyana_031.ogg/revision/latest?cb=20190612184339"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_031"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_031.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/QiyanaBattleBoss_031.ogg/revision/latest?cb=20190612183837"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_031"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_077.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Qiyana_077.ogg/revision/latest?cb=20190612184214"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_077"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_077.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/QiyanaBattleBoss_077.ogg/revision/latest?cb=20190612183934"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_077"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_129.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Qiyana_129.ogg/revision/latest?cb=20190612184340"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_129"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_129.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/QiyanaBattleBoss_129.ogg/revision/latest?cb=20190612184046"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_129"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_081.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Qiyana_081.ogg/revision/latest?cb=20190612184209"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_081"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_081.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/QiyanaBattleBoss_081.ogg/revision/latest?cb=20190612183941"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_081"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_069.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Qiyana_069.ogg/revision/latest?cb=20190612184331"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_069"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_069.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/QiyanaBattleBoss_069.ogg/revision/latest?cb=20190612183924"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_069"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_134.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Qiyana_134.ogg/revision/latest?cb=20190612184159"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_134"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_134.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/QiyanaBattleBoss_134.ogg/revision/latest?cb=20190612184052"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_134"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_052.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Qiyana_052.ogg/revision/latest?cb=20190612184126"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_052"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_052.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/QiyanaBattleBoss_052.ogg/revision/latest?cb=20190612183903"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_052"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_053.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Qiyana_053.ogg/revision/latest?cb=20190612184437"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_053"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_053.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/QiyanaBattleBoss_053.ogg/revision/latest?cb=20190612183905"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_053"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_107.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Qiyana_107.ogg/revision/latest?cb=20190612184215"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_107"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_107.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/QiyanaBattleBoss_107.ogg/revision/latest?cb=20190612184017"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_107"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_103.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Qiyana_103.ogg/revision/latest?cb=20190612184314"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_103"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_103.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/QiyanaBattleBoss_103.ogg/revision/latest?cb=20190612184013"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_103"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_105.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Qiyana_105.ogg/revision/latest?cb=20190612184258"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_105"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_105.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/QiyanaBattleBoss_105.ogg/revision/latest?cb=20190612184015"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_105"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_150.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Qiyana_150.ogg/revision/latest?cb=20190612184220"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_150"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_150.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/20/QiyanaBattleBoss_150.ogg/revision/latest?cb=20190612184114"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_150"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_117.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Qiyana_117.ogg/revision/latest?cb=20190612184236"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_117"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_117.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/QiyanaBattleBoss_117.ogg/revision/latest?cb=20190612184029"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_117"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_064.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Qiyana_064.ogg/revision/latest?cb=20190612184347"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_064"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_064.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/QiyanaBattleBoss_064.ogg/revision/latest?cb=20190612183918"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_064"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_097.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Qiyana_097.ogg/revision/latest?cb=20190612184226"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_097"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_097.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/QiyanaBattleBoss_097.ogg/revision/latest?cb=20190612184003"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_097"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_094.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Qiyana_094.ogg/revision/latest?cb=20190612184257"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_094"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_094.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/QiyanaBattleBoss_094.ogg/revision/latest?cb=20190612183957"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_094"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_072.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Qiyana_072.ogg/revision/latest?cb=20190612184227"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_072"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_072.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/QiyanaBattleBoss_072.ogg/revision/latest?cb=20190612183928"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_072"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_089.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Qiyana_089.ogg/revision/latest?cb=20190612184341"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_089"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_089.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/QiyanaBattleBoss_089.ogg/revision/latest?cb=20190612183951"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_089"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_036.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Qiyana_036.ogg/revision/latest?cb=20190612184242"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_036"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_036.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/QiyanaBattleBoss_036.ogg/revision/latest?cb=20190612183843"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_036"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_099.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Qiyana_099.ogg/revision/latest?cb=20190612184358"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_099"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_099.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/QiyanaBattleBoss_099.ogg/revision/latest?cb=20190612184005"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_099"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_041.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Qiyana_041.ogg/revision/latest?cb=20190612184330"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_041"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_041.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/QiyanaBattleBoss_041.ogg/revision/latest?cb=20190612183849"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_041"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_128.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Qiyana_128.ogg/revision/latest?cb=20190612184412"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_128"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_128.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/QiyanaBattleBoss_128.ogg/revision/latest?cb=20190612184044"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_128"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_122.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b1/Qiyana_122.ogg/revision/latest?cb=20190612184157"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_122"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_122.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/QiyanaBattleBoss_122.ogg/revision/latest?cb=20190612184035"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_122"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_135.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Qiyana_135.ogg/revision/latest?cb=20190612184150"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_135"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_135.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/QiyanaBattleBoss_135.ogg/revision/latest?cb=20190612184053"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_135"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_006.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Qiyana_006.ogg/revision/latest?cb=20190612184326"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_006"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_006.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/QiyanaBattleBoss_006.ogg/revision/latest?cb=20190612183803"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_006"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_111.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Qiyana_111.ogg/revision/latest?cb=20190612184402"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_111"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_111.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/QiyanaBattleBoss_111.ogg/revision/latest?cb=20190612184022"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_111"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_156.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Qiyana_156.ogg/revision/latest?cb=20190612184335"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_156"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_156.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/QiyanaBattleBoss_156.ogg/revision/latest?cb=20190612184123"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_156"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_148.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Qiyana_148.ogg/revision/latest?cb=20190612184348"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_148"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_148.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/QiyanaBattleBoss_148.ogg/revision/latest?cb=20190612184111"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_148"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_152.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Qiyana_152.ogg/revision/latest?cb=20190612184417"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_152"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_152.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/QiyanaBattleBoss_152.ogg/revision/latest?cb=20190612184118"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_152"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_019.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Qiyana_019.ogg/revision/latest?cb=20190612184143"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_019"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_019.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/QiyanaBattleBoss_019.ogg/revision/latest?cb=20190612183820"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_019"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_095.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/12/Qiyana_095.ogg/revision/latest?cb=20190612184252"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_095"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_095.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/QiyanaBattleBoss_095.ogg/revision/latest?cb=20190612183959"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_095"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_032.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Qiyana_032.ogg/revision/latest?cb=20190612184140"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_032"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_032.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/QiyanaBattleBoss_032.ogg/revision/latest?cb=20190612183838"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_032"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_059.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Qiyana_059.ogg/revision/latest?cb=20190612184138"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_059"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_059.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/QiyanaBattleBoss_059.ogg/revision/latest?cb=20190612183912"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_059"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_048.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Qiyana_048.ogg/revision/latest?cb=20190612184401"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_048"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_048.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/QiyanaBattleBoss_048.ogg/revision/latest?cb=20190612183859"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_048"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_090.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Qiyana_090.ogg/revision/latest?cb=20190612184221"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_090"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_090.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/QiyanaBattleBoss_090.ogg/revision/latest?cb=20190612183952"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_090"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_045.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Qiyana_045.ogg/revision/latest?cb=20190612184439"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_045"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_045.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/QiyanaBattleBoss_045.ogg/revision/latest?cb=20190612183855"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_045"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_096.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Qiyana_096.ogg/revision/latest?cb=20190612184410"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_096"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_096.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/QiyanaBattleBoss_096.ogg/revision/latest?cb=20190612184000"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_096"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_120.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Qiyana_120.ogg/revision/latest?cb=20190612184136"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_120"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_120.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/QiyanaBattleBoss_120.ogg/revision/latest?cb=20190612184033"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_120"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_018.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Qiyana_018.ogg/revision/latest?cb=20190612184222"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_018"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_018.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/QiyanaBattleBoss_018.ogg/revision/latest?cb=20190612183819"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_018"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_042.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Qiyana_042.ogg/revision/latest?cb=20190612184309"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_042"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_042.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/QiyanaBattleBoss_042.ogg/revision/latest?cb=20190612183850"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_042"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_121.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Qiyana_121.ogg/revision/latest?cb=20190612184428"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_121"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_121.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/QiyanaBattleBoss_121.ogg/revision/latest?cb=20190612184034"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_121"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_033.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Qiyana_033.ogg/revision/latest?cb=20190612184131"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_033"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_033.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/QiyanaBattleBoss_033.ogg/revision/latest?cb=20190612183839"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_033"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_109.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Qiyana_109.ogg/revision/latest?cb=20190612184217"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_109"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_109.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/QiyanaBattleBoss_109.ogg/revision/latest?cb=20190612184020"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_109"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_068.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Qiyana_068.ogg/revision/latest?cb=20190612184244"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_068"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_068.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/QiyanaBattleBoss_068.ogg/revision/latest?cb=20190612183923"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_068"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_137.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Qiyana_137.ogg/revision/latest?cb=20190612184148"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_137"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_137.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/QiyanaBattleBoss_137.ogg/revision/latest?cb=20190612184056"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_137"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_075.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Qiyana_075.ogg/revision/latest?cb=20190612184431"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_075"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_075.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/QiyanaBattleBoss_075.ogg/revision/latest?cb=20190612183932"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_075"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_057.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Qiyana_057.ogg/revision/latest?cb=20190612184424"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_057"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_057.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/QiyanaBattleBoss_057.ogg/revision/latest?cb=20190612183909"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_057"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_084.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Qiyana_084.ogg/revision/latest?cb=20190612184323"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_084"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_084.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/QiyanaBattleBoss_084.ogg/revision/latest?cb=20190612183945"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_084"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_022.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Qiyana_022.ogg/revision/latest?cb=20190612184303"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_022"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_022.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/53/QiyanaBattleBoss_022.ogg/revision/latest?cb=20190612183824"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_022"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_118.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Qiyana_118.ogg/revision/latest?cb=20190612184328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_118"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_118.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/QiyanaBattleBoss_118.ogg/revision/latest?cb=20190612184030"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_118"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_001.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Qiyana_001.ogg/revision/latest?cb=20190612184419"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_001"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_001.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/QiyanaBattleBoss_001.ogg/revision/latest?cb=20190612183757"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_001"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_038.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Qiyana_038.ogg/revision/latest?cb=20190612184147"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_038"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_038.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/QiyanaBattleBoss_038.ogg/revision/latest?cb=20190612183845"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_038"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_136.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Qiyana_136.ogg/revision/latest?cb=20190612184320"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_136"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_136.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/QiyanaBattleBoss_136.ogg/revision/latest?cb=20190612184054"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_136"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_106.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Qiyana_106.ogg/revision/latest?cb=20190612184224"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_106"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_106.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/QiyanaBattleBoss_106.ogg/revision/latest?cb=20190612184016"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_106"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_049.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Qiyana_049.ogg/revision/latest?cb=20190612184310"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_049"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_049.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/QiyanaBattleBoss_049.ogg/revision/latest?cb=20190612183900"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_049"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_100.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Qiyana_100.ogg/revision/latest?cb=20190612184342"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_100"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_100.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/QiyanaBattleBoss_100.ogg/revision/latest?cb=20190612184006"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_100"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_025.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Qiyana_025.ogg/revision/latest?cb=20190612184407"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_025"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_025.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/QiyanaBattleBoss_025.ogg/revision/latest?cb=20190612183827"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_025"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_116.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Qiyana_116.ogg/revision/latest?cb=20190612184245"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_116"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_116.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/QiyanaBattleBoss_116.ogg/revision/latest?cb=20190612184028"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_116"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_085.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Qiyana_085.ogg/revision/latest?cb=20190612184403"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_085"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_085.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/QiyanaBattleBoss_085.ogg/revision/latest?cb=20190612183947"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_085"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_003.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Qiyana_003.ogg/revision/latest?cb=20190612184441"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_003"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_003.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/QiyanaBattleBoss_003.ogg/revision/latest?cb=20190612183759"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_003"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_004.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Qiyana_004.ogg/revision/latest?cb=20190612184141"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_004"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_004.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/QiyanaBattleBoss_004.ogg/revision/latest?cb=20190612183800"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_004"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_008.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Qiyana_008.ogg/revision/latest?cb=20190612184233"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_008"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_008.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/QiyanaBattleBoss_008.ogg/revision/latest?cb=20190612183805"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_008"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_154.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Qiyana_154.ogg/revision/latest?cb=20190612184406"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_154"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_154.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/QiyanaBattleBoss_154.ogg/revision/latest?cb=20190612184120"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_154"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_078.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Qiyana_078.ogg/revision/latest?cb=20190612184212"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_078"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_078.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/QiyanaBattleBoss_078.ogg/revision/latest?cb=20190612183935"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_078"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_040.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Qiyana_040.ogg/revision/latest?cb=20190612184346"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_040"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_040.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/QiyanaBattleBoss_040.ogg/revision/latest?cb=20190612183848"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_040"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_043.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Qiyana_043.ogg/revision/latest?cb=20190612184241"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_043"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_043.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/QiyanaBattleBoss_043.ogg/revision/latest?cb=20190612183851"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_043"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_149.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Qiyana_149.ogg/revision/latest?cb=20190612184423"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_149"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_149.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/20/QiyanaBattleBoss_149.ogg/revision/latest?cb=20190612184113"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_149"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_155.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Qiyana_155.ogg/revision/latest?cb=20190612184205"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_155"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_155.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/QiyanaBattleBoss_155.ogg/revision/latest?cb=20190612184121"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_155"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_050.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Qiyana_050.ogg/revision/latest?cb=20190612184311"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_050"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_050.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/QiyanaBattleBoss_050.ogg/revision/latest?cb=20190612183901"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_050"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_125.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Qiyana_125.ogg/revision/latest?cb=20190612184350"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_125"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_125.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/QiyanaBattleBoss_125.ogg/revision/latest?cb=20190612184038"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_125"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_131.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Qiyana_131.ogg/revision/latest?cb=20190612184420"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_131"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_131.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/QiyanaBattleBoss_131.ogg/revision/latest?cb=20190612184048"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_131"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_071.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Qiyana_071.ogg/revision/latest?cb=20190612184356"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_071"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_071.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/QiyanaBattleBoss_071.ogg/revision/latest?cb=20190612183927"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_071"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_093.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Qiyana_093.ogg/revision/latest?cb=20190612184413"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_093"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_093.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/QiyanaBattleBoss_093.ogg/revision/latest?cb=20190612183956"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_093"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_047.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Qiyana_047.ogg/revision/latest?cb=20190612184254"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_047"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_047.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/db/QiyanaBattleBoss_047.ogg/revision/latest?cb=20190612183857"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_047"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_010.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Qiyana_010.ogg/revision/latest?cb=20190612184249"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_010"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_010.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/QiyanaBattleBoss_010.ogg/revision/latest?cb=20190612183808"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_010"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_011.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Qiyana_011.ogg/revision/latest?cb=20190612184359"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_011"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_011.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/QiyanaBattleBoss_011.ogg/revision/latest?cb=20190612183811"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_011"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_016.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Qiyana_016.ogg/revision/latest?cb=20190612184208"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_016"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_016.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/QiyanaBattleBoss_016.ogg/revision/latest?cb=20190612183817"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_016"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_092.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Qiyana_092.ogg/revision/latest?cb=20190612184238"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_092"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_092.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/QiyanaBattleBoss_092.ogg/revision/latest?cb=20190612183955"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_092"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_061.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Qiyana_061.ogg/revision/latest?cb=20190612184337"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_061"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_061.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/QiyanaBattleBoss_061.ogg/revision/latest?cb=20190612183914"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_061"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_124.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Qiyana_124.ogg/revision/latest?cb=20190612184345"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_124"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_124.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/QiyanaBattleBoss_124.ogg/revision/latest?cb=20190612184037"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_124"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_141.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Qiyana_141.ogg/revision/latest?cb=20190612184206"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_141"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_141.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/QiyanaBattleBoss_141.ogg/revision/latest?cb=20190612184102"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_141"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_164.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/QiyanaBattleBoss_164.ogg/revision/latest?cb=20190612184001"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_164"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_021.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Qiyana_021.ogg/revision/latest?cb=20190612184153"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_021"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_021.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/QiyanaBattleBoss_021.ogg/revision/latest?cb=20190612183823"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_021"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_005.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Qiyana_005.ogg/revision/latest?cb=20190612184325"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_005"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_005.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/QiyanaBattleBoss_005.ogg/revision/latest?cb=20190612183801"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_005"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_029.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Qiyana_029.ogg/revision/latest?cb=20190612184324"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_029"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_029.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/QiyanaBattleBoss_029.ogg/revision/latest?cb=20190612183834"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_029"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_026.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Qiyana_026.ogg/revision/latest?cb=20190612184440"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_026"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_026.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/QiyanaBattleBoss_026.ogg/revision/latest?cb=20190612183828"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_026"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_039.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Qiyana_039.ogg/revision/latest?cb=20190612184332"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_039"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_039.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/QiyanaBattleBoss_039.ogg/revision/latest?cb=20190612183847"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_039"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_037.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Qiyana_037.ogg/revision/latest?cb=20190612184319"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_037"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_037.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/QiyanaBattleBoss_037.ogg/revision/latest?cb=20190612183844"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_037"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_114.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Qiyana_114.ogg/revision/latest?cb=20190612184137"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_114"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_114.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/QiyanaBattleBoss_114.ogg/revision/latest?cb=20190612184025"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_114"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_139.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Qiyana_139.ogg/revision/latest?cb=20190612184200"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_139"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_139.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/QiyanaBattleBoss_139.ogg/revision/latest?cb=20190612184100"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_139"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_070.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Qiyana_070.ogg/revision/latest?cb=20190612184213"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_070"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_070.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/QiyanaBattleBoss_070.ogg/revision/latest?cb=20190612183926"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_070"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_102.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Qiyana_102.ogg/revision/latest?cb=20190612184250"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_102"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_102.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/01/QiyanaBattleBoss_102.ogg/revision/latest?cb=20190612184010"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_102"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_035.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Qiyana_035.ogg/revision/latest?cb=20190612184329"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_035"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_035.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/QiyanaBattleBoss_035.ogg/revision/latest?cb=20190612183841"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_035"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_060.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/Qiyana_060.ogg/revision/latest?cb=20190612184146"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_060"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_060.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/QiyanaBattleBoss_060.ogg/revision/latest?cb=20190612183913"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_060"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_067.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Qiyana_067.ogg/revision/latest?cb=20190612184156"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_067"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_067.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/QiyanaBattleBoss_067.ogg/revision/latest?cb=20190612183922"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_067"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_142.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Qiyana_142.ogg/revision/latest?cb=20190612184201"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_142"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_142.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/QiyanaBattleBoss_142.ogg/revision/latest?cb=20190612184103"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_142"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_023.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Qiyana_023.ogg/revision/latest?cb=20190612184255"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_023"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_023.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/QiyanaBattleBoss_023.ogg/revision/latest?cb=20190612183825"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_023"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_056.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Qiyana_056.ogg/revision/latest?cb=20190612184133"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_056"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_056.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/QiyanaBattleBoss_056.ogg/revision/latest?cb=20190612183908"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_056"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_088.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Qiyana_088.ogg/revision/latest?cb=20190612184145"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_088"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_088.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/QiyanaBattleBoss_088.ogg/revision/latest?cb=20190612183950"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_088"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_119.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Qiyana_119.ogg/revision/latest?cb=20190612184251"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_119"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_119.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/QiyanaBattleBoss_119.ogg/revision/latest?cb=20190612184031"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_119"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_074.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Qiyana_074.ogg/revision/latest?cb=20190612184207"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_074"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_074.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/QiyanaBattleBoss_074.ogg/revision/latest?cb=20190612183931"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_074"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_138.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Qiyana_138.ogg/revision/latest?cb=20190612184240"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_138"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_138.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/QiyanaBattleBoss_138.ogg/revision/latest?cb=20190612184057"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_138"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_130.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Qiyana_130.ogg/revision/latest?cb=20190612184130"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_130"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_130.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/QiyanaBattleBoss_130.ogg/revision/latest?cb=20190612184047"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_130"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_051.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Qiyana_051.ogg/revision/latest?cb=20190612184306"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_051"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_051.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/QiyanaBattleBoss_051.ogg/revision/latest?cb=20190612183902"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_051"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_055.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Qiyana_055.ogg/revision/latest?cb=20190612184343"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_055"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_055.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/QiyanaBattleBoss_055.ogg/revision/latest?cb=20190612183907"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_055"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_123.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Qiyana_123.ogg/revision/latest?cb=20190612184354"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_123"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_123.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/QiyanaBattleBoss_123.ogg/revision/latest?cb=20190612184036"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_123"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_147.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/Qiyana_147.ogg/revision/latest?cb=20190612184211"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_147"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_147.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/QiyanaBattleBoss_147.ogg/revision/latest?cb=20190612184110"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_147"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_014.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Qiyana_014.ogg/revision/latest?cb=20190612184334"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_014"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_014.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/QiyanaBattleBoss_014.ogg/revision/latest?cb=20190612183814"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_014"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_113.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Qiyana_113.ogg/revision/latest?cb=20190612184357"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_113"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_113.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/QiyanaBattleBoss_113.ogg/revision/latest?cb=20190612184024"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_113"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_076.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Qiyana_076.ogg/revision/latest?cb=20190612184351"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_076"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_076.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/QiyanaBattleBoss_076.ogg/revision/latest?cb=20190612183933"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_076"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_133.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Qiyana_133.ogg/revision/latest?cb=20190612184219"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_133"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_133.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8a/QiyanaBattleBoss_133.ogg/revision/latest?cb=20190612184050"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_133"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_112.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Qiyana_112.ogg/revision/latest?cb=20190612184317"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_112"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_112.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/QiyanaBattleBoss_112.ogg/revision/latest?cb=20190612184023"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_112"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_146.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Qiyana_146.ogg/revision/latest?cb=20190612184321"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_146"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_146.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/QiyanaBattleBoss_146.ogg/revision/latest?cb=20190612184109"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_146"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_017.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Qiyana_017.ogg/revision/latest?cb=20190612184315"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_017"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_017.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/QiyanaBattleBoss_017.ogg/revision/latest?cb=20190612183818"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_017"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_027.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Qiyana_027.ogg/revision/latest?cb=20190612184234"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_027"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_027.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/QiyanaBattleBoss_027.ogg/revision/latest?cb=20190612183830"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_027"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_065.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Qiyana_065.ogg/revision/latest?cb=20190612184422"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_065"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_065.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/QiyanaBattleBoss_065.ogg/revision/latest?cb=20190612183919"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_065"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_164.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Qiyana_164.ogg/revision/latest?cb=20190612184435"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_164"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_158.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/QiyanaBattleBoss_158.ogg/revision/latest?cb=20190612184107"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_158"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_165.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/QiyanaBattleBoss_165.ogg/revision/latest?cb=20190612183940"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_165"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_159.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/61/QiyanaBattleBoss_159.ogg/revision/latest?cb=20190612184058"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_159"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "TrueDamage_Recall.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/TrueDamage_Recall.ogg/revision/latest?cb=20200712221726"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "TrueDamage_Recall"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_007.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Qiyana_007.ogg/revision/latest?cb=20190612184404"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_007"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_007.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/QiyanaBattleBoss_007.ogg/revision/latest?cb=20190612183804"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_007"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_115.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Qiyana_115.ogg/revision/latest?cb=20190612184433"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_115"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_115.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/QiyanaBattleBoss_115.ogg/revision/latest?cb=20190612184027"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_115"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_044.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Qiyana_044.ogg/revision/latest?cb=20190612184300"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_044"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_044.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/QiyanaBattleBoss_044.ogg/revision/latest?cb=20190612183853"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_044"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_104.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Qiyana_104.ogg/revision/latest?cb=20190612184256"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_104"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_104.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/QiyanaBattleBoss_104.ogg/revision/latest?cb=20190612184014"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_104"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_013.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/46/Qiyana_013.ogg/revision/latest?cb=20190612184155"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_013"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_013.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/QiyanaBattleBoss_013.ogg/revision/latest?cb=20190612183813"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_013"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_054.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Qiyana_054.ogg/revision/latest?cb=20190612184302"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_054"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_054.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/QiyanaBattleBoss_054.ogg/revision/latest?cb=20190612183906"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_054"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_110.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Qiyana_110.ogg/revision/latest?cb=20190612184216"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_110"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_110.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/27/QiyanaBattleBoss_110.ogg/revision/latest?cb=20190612184021"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_110"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_028.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6a/Qiyana_028.ogg/revision/latest?cb=20190612184204"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_028"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_028.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/QiyanaBattleBoss_028.ogg/revision/latest?cb=20190612183833"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_028"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_086.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Qiyana_086.ogg/revision/latest?cb=20190612184229"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_086"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_086.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/QiyanaBattleBoss_086.ogg/revision/latest?cb=20190612183948"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_086"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_143.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Qiyana_143.ogg/revision/latest?cb=20190612184230"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_143"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_143.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/QiyanaBattleBoss_143.ogg/revision/latest?cb=20190612184104"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_143"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_126.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Qiyana_126.ogg/revision/latest?cb=20190612184232"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_126"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_126.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/QiyanaBattleBoss_126.ogg/revision/latest?cb=20190612184040"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_126"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_161.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/QiyanaBattleBoss_161.ogg/revision/latest?cb=20190612184041"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_161"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_009.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Qiyana_009.ogg/revision/latest?cb=20190612184144"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_009"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_009.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/QiyanaBattleBoss_009.ogg/revision/latest?cb=20190612183807"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_009"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_034.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Qiyana_034.ogg/revision/latest?cb=20190612184134"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_034"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_034.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/QiyanaBattleBoss_034.ogg/revision/latest?cb=20190612183840"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_034"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_046.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Qiyana_046.ogg/revision/latest?cb=20190612184246"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_046"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_046.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/QiyanaBattleBoss_046.ogg/revision/latest?cb=20190612183856"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_046"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_063.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Qiyana_063.ogg/revision/latest?cb=20190612184152"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_063"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_063.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/QiyanaBattleBoss_063.ogg/revision/latest?cb=20190612183917"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_063"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_066.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Qiyana_066.ogg/revision/latest?cb=20190612184304"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_066"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_066.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/60/QiyanaBattleBoss_066.ogg/revision/latest?cb=20190612183921"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_066"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_079.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Qiyana_079.ogg/revision/latest?cb=20190612184408"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_079"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_079.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/QiyanaBattleBoss_079.ogg/revision/latest?cb=20190612183937"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_079"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_091.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Qiyana_091.ogg/revision/latest?cb=20190612184355"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_091"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_091.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/QiyanaBattleBoss_091.ogg/revision/latest?cb=20190612183954"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_091"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_101.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Qiyana_101.ogg/revision/latest?cb=20190612184228"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_101"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_101.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/QiyanaBattleBoss_101.ogg/revision/latest?cb=20190612184009"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_101"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_132.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Qiyana_132.ogg/revision/latest?cb=20190612184151"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_132"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_132.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/46/QiyanaBattleBoss_132.ogg/revision/latest?cb=20190612184049"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_132"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_153.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Qiyana_153.ogg/revision/latest?cb=20190612184316"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_153"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_153.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/QiyanaBattleBoss_153.ogg/revision/latest?cb=20190612184119"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_153"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_157.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Qiyana_157.ogg/revision/latest?cb=20190612184139"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_157"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_157.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/85/QiyanaBattleBoss_157.ogg/revision/latest?cb=20190612184124"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_157"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_082.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Qiyana_082.ogg/revision/latest?cb=20190612184308"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_082"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_082.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/12/QiyanaBattleBoss_082.ogg/revision/latest?cb=20190612183942"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_082"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_083.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Qiyana_083.ogg/revision/latest?cb=20190612184430"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_083"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_083.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/QiyanaBattleBoss_083.ogg/revision/latest?cb=20190612183944"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_083"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_087.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Qiyana_087.ogg/revision/latest?cb=20190612184425"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_087"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_087.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/QiyanaBattleBoss_087.ogg/revision/latest?cb=20190612183949"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_087"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_144.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Qiyana_144.ogg/revision/latest?cb=20190612184203"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_144"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_144.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/49/QiyanaBattleBoss_144.ogg/revision/latest?cb=20190612184105"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_144"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Qiyana_127.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Qiyana_127.ogg/revision/latest?cb=20190612184432"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_127"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "QiyanaBattleBoss_127.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/QiyanaBattleBoss_127.ogg/revision/latest?cb=20190612184043"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "QiyanaBattleBoss_127"
+          }
+     ]
+}

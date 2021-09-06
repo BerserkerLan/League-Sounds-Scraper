@@ -1,0 +1,1574 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Neeko_Select.ogg/revision/latest?cb=20181206190315"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Neeko_Ban.ogg/revision/latest?cb=20181206190314"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "StarGuardian2019_SpawnMusic"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_155.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/Neeko_155.ogg/revision/latest?cb=20181119203941"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_155"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_131.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Neeko_131.ogg/revision/latest?cb=20181119203918"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_131"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_082.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/Neeko_082.ogg/revision/latest?cb=20181119203833"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_082"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_025.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/Neeko_025.ogg/revision/latest?cb=20181119203733"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_025"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_122.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Neeko_122.ogg/revision/latest?cb=20181119203910"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_122"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_124.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Neeko_124.ogg/revision/latest?cb=20181119203911"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_124"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_076.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Neeko_076.ogg/revision/latest?cb=20181119203826"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_076"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_067.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Neeko_067.ogg/revision/latest?cb=20181119203816"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_067"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_133.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Neeko_133.ogg/revision/latest?cb=20181119203920"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_133"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_146.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/Neeko_146.ogg/revision/latest?cb=20181119203931"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_146"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_149.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Neeko_149.ogg/revision/latest?cb=20181119203934"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_149"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_019.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Neeko_019.ogg/revision/latest?cb=20181119203728"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_019"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_021.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/Neeko_021.ogg/revision/latest?cb=20181119203729"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_021"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_023.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Neeko_023.ogg/revision/latest?cb=20181119203731"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_023"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_027.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Neeko_027.ogg/revision/latest?cb=20181119203734"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_027"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_029.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/01/Neeko_029.ogg/revision/latest?cb=20181119203736"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_029"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_044.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Neeko_044.ogg/revision/latest?cb=20181119203751"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_044"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_049.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Neeko_049.ogg/revision/latest?cb=20181119203756"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_049"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_066.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Neeko_066.ogg/revision/latest?cb=20181119203814"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_066"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_094.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/64/Neeko_094.ogg/revision/latest?cb=20181119203844"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_094"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_102.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Neeko_102.ogg/revision/latest?cb=20181119203852"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_102"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_080.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Neeko_080.ogg/revision/latest?cb=20181119203831"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_080"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_084.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Neeko_084.ogg/revision/latest?cb=20181119203835"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_084"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_071.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Neeko_071.ogg/revision/latest?cb=20181119203821"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_071"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_148.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Neeko_148.ogg/revision/latest?cb=20181119203933"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_148"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_138.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Neeko_138.ogg/revision/latest?cb=20181119203924"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_138"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_140.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Neeko_140.ogg/revision/latest?cb=20181119203926"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_140"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_154.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Neeko_154.ogg/revision/latest?cb=20181119203940"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_154"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_075.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Neeko_075.ogg/revision/latest?cb=20181119203825"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_075"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_126.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Neeko_126.ogg/revision/latest?cb=20181119203913"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_126"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_129.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Neeko_129.ogg/revision/latest?cb=20181119203916"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_129"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_132.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Neeko_132.ogg/revision/latest?cb=20181119203919"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_132"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_003.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Neeko_003.ogg/revision/latest?cb=20181119203710"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_003"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_039.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Neeko_039.ogg/revision/latest?cb=20181119203746"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_039"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_135.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Neeko_135.ogg/revision/latest?cb=20181119203922"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_135"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_137.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/Neeko_137.ogg/revision/latest?cb=20181119203923"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_137"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_136.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/db/Neeko_136.ogg/revision/latest?cb=20181119203923"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_136"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_127.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Neeko_127.ogg/revision/latest?cb=20181119203914"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_127"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_074.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Neeko_074.ogg/revision/latest?cb=20181119203824"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_074"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_117.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Neeko_117.ogg/revision/latest?cb=20181119203905"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_117"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_110.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Neeko_110.ogg/revision/latest?cb=20181119203859"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_110"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_095.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Neeko_095.ogg/revision/latest?cb=20181119203845"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_095"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_050.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Neeko_050.ogg/revision/latest?cb=20181119203757"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_050"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_008.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Neeko_008.ogg/revision/latest?cb=20181119203717"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_008"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_009.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/Neeko_009.ogg/revision/latest?cb=20181119203718"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_009"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_063.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Neeko_063.ogg/revision/latest?cb=20181119203810"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_063"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_098.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Neeko_098.ogg/revision/latest?cb=20181119203848"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_098"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_081.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Neeko_081.ogg/revision/latest?cb=20181119203832"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_081"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_045.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/Neeko_045.ogg/revision/latest?cb=20181119203752"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_045"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_055.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Neeko_055.ogg/revision/latest?cb=20181119203803"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_055"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_107.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Neeko_107.ogg/revision/latest?cb=20181119203856"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_107"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_125.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Neeko_125.ogg/revision/latest?cb=20181119203912"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_125"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_056.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Neeko_056.ogg/revision/latest?cb=20181119203804"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_056"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_153.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Neeko_153.ogg/revision/latest?cb=20181119203939"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_153"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_144.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Neeko_144.ogg/revision/latest?cb=20181119203930"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_144"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_101.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Neeko_101.ogg/revision/latest?cb=20181119203851"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_101"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_006.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Neeko_006.ogg/revision/latest?cb=20181119203714"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_006"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_142.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Neeko_142.ogg/revision/latest?cb=20181119203928"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_142"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_077.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Neeko_077.ogg/revision/latest?cb=20181119203827"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_077"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_083.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Neeko_083.ogg/revision/latest?cb=20181119203834"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_083"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_054.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Neeko_054.ogg/revision/latest?cb=20181119203801"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_054"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_106.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Neeko_106.ogg/revision/latest?cb=20181119203855"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_106"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_128.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Neeko_128.ogg/revision/latest?cb=20181119203915"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_128"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_073.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Neeko_073.ogg/revision/latest?cb=20181119203823"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_073"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_016.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Neeko_016.ogg/revision/latest?cb=20181119203725"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_016"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_150.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Neeko_150.ogg/revision/latest?cb=20181119203935"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_150"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_100.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Neeko_100.ogg/revision/latest?cb=20181119203850"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_100"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_092.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Neeko_092.ogg/revision/latest?cb=20181119203843"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_092"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_022.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Neeko_022.ogg/revision/latest?cb=20181119203730"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_022"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_037.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Neeko_037.ogg/revision/latest?cb=20181119203744"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_037"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_147.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Neeko_147.ogg/revision/latest?cb=20181119203932"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_147"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_024.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Neeko_024.ogg/revision/latest?cb=20181119203732"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_024"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_065.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Neeko_065.ogg/revision/latest?cb=20181119203812"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_065"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_085.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Neeko_085.ogg/revision/latest?cb=20181119203836"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_085"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_087.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Neeko_087.ogg/revision/latest?cb=20181119203838"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_087"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_120.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Neeko_120.ogg/revision/latest?cb=20181119203908"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_120"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_121.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Neeko_121.ogg/revision/latest?cb=20181119203909"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_121"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_072.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Neeko_072.ogg/revision/latest?cb=20181119203822"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_072"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_078.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Neeko_078.ogg/revision/latest?cb=20181119203828"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_078"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_156.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Neeko_156.ogg/revision/latest?cb=20181119203942"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_156"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_012.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Neeko_012.ogg/revision/latest?cb=20181119203721"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_012"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_031.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/Neeko_031.ogg/revision/latest?cb=20181119203738"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_031"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_042.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Neeko_042.ogg/revision/latest?cb=20181119203749"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_042"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_058.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Neeko_058.ogg/revision/latest?cb=20181119203806"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_058"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_096.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Neeko_096.ogg/revision/latest?cb=20181119203846"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_096"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_151.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Neeko_151.ogg/revision/latest?cb=20181119203936"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_151"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_113.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Neeko_113.ogg/revision/latest?cb=20181119203901"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_113"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_103.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Neeko_103.ogg/revision/latest?cb=20181119203852"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_103"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_041.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Neeko_041.ogg/revision/latest?cb=20181119203748"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_041"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_059.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Neeko_059.ogg/revision/latest?cb=20181119203807"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_059"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_152.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Neeko_152.ogg/revision/latest?cb=20181119203938"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_152"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_123.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Neeko_123.ogg/revision/latest?cb=20181119203910"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_123"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_090.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1d/Neeko_090.ogg/revision/latest?cb=20181119203841"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_090"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_053.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Neeko_053.ogg/revision/latest?cb=20181119203800"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_053"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_052.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Neeko_052.ogg/revision/latest?cb=20181119203759"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_052"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_143.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Neeko_143.ogg/revision/latest?cb=20181119203929"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_143"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_088.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Neeko_088.ogg/revision/latest?cb=20181119203839"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_088"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_017.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Neeko_017.ogg/revision/latest?cb=20181119203726"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_017"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_108.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Neeko_108.ogg/revision/latest?cb=20181119203857"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_108"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_079.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Neeko_079.ogg/revision/latest?cb=20181119203829"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_079"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_010.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Neeko_010.ogg/revision/latest?cb=20181119203719"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_010"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_118.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Neeko_118.ogg/revision/latest?cb=20181119203906"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_118"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_035.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Neeko_035.ogg/revision/latest?cb=20181119203742"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_035"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_086.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b6/Neeko_086.ogg/revision/latest?cb=20181119203836"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_086"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_097.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Neeko_097.ogg/revision/latest?cb=20181119203847"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_097"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_018.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Neeko_018.ogg/revision/latest?cb=20181119203727"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_018"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_040.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Neeko_040.ogg/revision/latest?cb=20181119203747"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_040"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_036.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/Neeko_036.ogg/revision/latest?cb=20181119203743"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_036"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_004.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Neeko_004.ogg/revision/latest?cb=20181119203712"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_004"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_139.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Neeko_139.ogg/revision/latest?cb=20181119203925"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_139"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_038.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Neeko_038.ogg/revision/latest?cb=20181119203745"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_038"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_130.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Neeko_130.ogg/revision/latest?cb=20181119203917"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_130"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_002.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Neeko_002.ogg/revision/latest?cb=20181119203709"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_002"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_109.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b1/Neeko_109.ogg/revision/latest?cb=20181119203858"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_109"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_048.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Neeko_048.ogg/revision/latest?cb=20181119203755"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_048"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_034.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Neeko_034.ogg/revision/latest?cb=20181119203741"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_034"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_134.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Neeko_134.ogg/revision/latest?cb=20181119203921"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_134"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_070.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Neeko_070.ogg/revision/latest?cb=20181119203820"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_070"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_015.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Neeko_015.ogg/revision/latest?cb=20181119203724"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_015"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_119.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Neeko_119.ogg/revision/latest?cb=20181119203907"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_119"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_104.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Neeko_104.ogg/revision/latest?cb=20181119203853"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_104"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_020.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Neeko_020.ogg/revision/latest?cb=20181119203728"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_020"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_028.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Neeko_028.ogg/revision/latest?cb=20181119203735"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_028"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_005.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Neeko_005.ogg/revision/latest?cb=20181119203713"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_005"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_105.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Neeko_105.ogg/revision/latest?cb=20181119203854"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_105"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Neeko_cloneDestroyed"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Neeko_cloneDestroyed"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Neeko_cloneDestroyed"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Neeko_cloneDestroyed"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Neeko_cloneDestroyed"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Neeko_cloneDestroyed"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Neeko_cloneDestroyed"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Neeko_cloneDestroyed"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Neeko_cloneDestroyed"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_026.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Neeko_026.ogg/revision/latest?cb=20181119203734"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_026"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_032.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Neeko_032.ogg/revision/latest?cb=20181119203739"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_032"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_112.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/61/Neeko_112.ogg/revision/latest?cb=20181119203900"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_112"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_099.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7f/Neeko_099.ogg/revision/latest?cb=20181119203849"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_099"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_007.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Neeko_007.ogg/revision/latest?cb=20181119203715"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_007"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_047.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Neeko_047.ogg/revision/latest?cb=20181119203754"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_047"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_062.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Neeko_062.ogg/revision/latest?cb=20181119203809"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_062"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_064.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/86/Neeko_064.ogg/revision/latest?cb=20181119203811"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_064"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_115.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Neeko_115.ogg/revision/latest?cb=20181119203903"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_115"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_116.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Neeko_116.ogg/revision/latest?cb=20181119203904"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_116"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_089.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/12/Neeko_089.ogg/revision/latest?cb=20181119203840"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_089"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_091.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Neeko_091.ogg/revision/latest?cb=20181119203842"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_091"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_030.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Neeko_030.ogg/revision/latest?cb=20181119203737"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_030"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_057.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Neeko_057.ogg/revision/latest?cb=20181119203805"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_057"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_145.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Neeko_145.ogg/revision/latest?cb=20181119203930"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_145"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_093.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b6/Neeko_093.ogg/revision/latest?cb=20181119203843"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_093"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_060.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Neeko_060.ogg/revision/latest?cb=20181119203808"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_060"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_001.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Neeko_001.ogg/revision/latest?cb=20181119203708"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_001"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_069.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Neeko_069.ogg/revision/latest?cb=20181119203819"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_069"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_111.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/61/Neeko_111.ogg/revision/latest?cb=20181119203900"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_111"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_141.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Neeko_141.ogg/revision/latest?cb=20181119203927"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_141"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_013.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Neeko_013.ogg/revision/latest?cb=20181119203722"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_013"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_014.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Neeko_014.ogg/revision/latest?cb=20181119203723"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_014"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_061.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/db/Neeko_061.ogg/revision/latest?cb=20181119203808"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_061"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Neeko_046.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Neeko_046.ogg/revision/latest?cb=20181119203753"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Neeko_046"
+          }
+     ]
+}

@@ -1,0 +1,539 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Graves_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Graves_Select.ogg/revision/latest?cb=20200709154418"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Graves_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Graves_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Graves_Ban.ogg/revision/latest?cb=20200809195752"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Graves_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_move6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_move7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_move8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_move9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_taunt1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_taunt2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_joke1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_W1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_W2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_W3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_W4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_W5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_W6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_W7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_Winteraction1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_Winteraction2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Graves_dying4"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_033.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/GravesPraetorian_033.ogg/revision/latest?cb=20181117231656"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_033"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_004.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/GravesPraetorian_004.ogg/revision/latest?cb=20181117231634"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_004"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_010.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/GravesPraetorian_010.ogg/revision/latest?cb=20181117231638"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_010"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_025.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/GravesPraetorian_025.ogg/revision/latest?cb=20181117231650"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_025"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_001.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/GravesPraetorian_001.ogg/revision/latest?cb=20181117231632"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_001"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_003.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/GravesPraetorian_003.ogg/revision/latest?cb=20181117231633"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_003"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_005.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/01/GravesPraetorian_005.ogg/revision/latest?cb=20181117231635"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_005"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_006.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/GravesPraetorian_006.ogg/revision/latest?cb=20181117231635"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_006"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_007.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/GravesPraetorian_007.ogg/revision/latest?cb=20181117231636"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_007"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_008.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/GravesPraetorian_008.ogg/revision/latest?cb=20181117231637"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_008"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_009.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/GravesPraetorian_009.ogg/revision/latest?cb=20181117231638"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_009"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_011.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/GravesPraetorian_011.ogg/revision/latest?cb=20181117231639"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_011"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_012.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/GravesPraetorian_012.ogg/revision/latest?cb=20181117231640"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_012"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_013.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/GravesPraetorian_013.ogg/revision/latest?cb=20181117231641"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_013"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_014.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/GravesPraetorian_014.ogg/revision/latest?cb=20181117231642"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_014"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_015.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/GravesPraetorian_015.ogg/revision/latest?cb=20181117231642"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_015"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_016.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/GravesPraetorian_016.ogg/revision/latest?cb=20181117231643"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_016"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_017.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/GravesPraetorian_017.ogg/revision/latest?cb=20181117231644"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_017"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_019.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/GravesPraetorian_019.ogg/revision/latest?cb=20181117231645"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_019"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_020.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/GravesPraetorian_020.ogg/revision/latest?cb=20181117231646"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_020"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_021.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/GravesPraetorian_021.ogg/revision/latest?cb=20181117231647"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_021"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_024.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/GravesPraetorian_024.ogg/revision/latest?cb=20181117231649"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_024"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_026.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/GravesPraetorian_026.ogg/revision/latest?cb=20181117231651"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_026"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_028.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/GravesPraetorian_028.ogg/revision/latest?cb=20181117231652"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_028"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_029.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/GravesPraetorian_029.ogg/revision/latest?cb=20181117231653"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_029"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_030.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/GravesPraetorian_030.ogg/revision/latest?cb=20181117231654"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_030"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_031.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/GravesPraetorian_031.ogg/revision/latest?cb=20181117231655"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_031"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_032.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/GravesPraetorian_032.ogg/revision/latest?cb=20181117231655"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_032"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_034.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/GravesPraetorian_034.ogg/revision/latest?cb=20181117231657"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_034"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_018.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/GravesPraetorian_018.ogg/revision/latest?cb=20181117231644"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_018"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_023.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/GravesPraetorian_023.ogg/revision/latest?cb=20181117231648"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_023"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_002.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/GravesPraetorian_002.ogg/revision/latest?cb=20181117231632"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_002"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_022.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/GravesPraetorian_022.ogg/revision/latest?cb=20181117231647"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_022"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_027.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/GravesPraetorian_027.ogg/revision/latest?cb=20181117231651"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_027"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "GravesPraetorian_035.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/GravesPraetorian_035.ogg/revision/latest?cb=20181117231658"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "GravesPraetorian_035"
+          }
+     ]
+}

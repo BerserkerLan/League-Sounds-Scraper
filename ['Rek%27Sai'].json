@@ -1,0 +1,564 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Reksai_Select"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_burrow25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_burrow25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiPoolParty_TremorSense1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiPoolParty_TremorSense2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiPoolParty_TremorSense3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiPoolParty_TremorSense4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiPoolParty_TremorSense5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiPoolParty_TremorSense6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSai_death02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "RekSaiEternum_death02"
+          }
+     ]
+}

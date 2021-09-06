@@ -1,0 +1,649 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Teemo_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Teemo_Select.ogg/revision/latest?cb=20200709161646"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Teemo_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Teemo_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Teemo_Ban.ogg/revision/latest?cb=20200810155836"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Teemo_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Teemo_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AstronautTeemo_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Teemo_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AstronautTeemo_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Teemo_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AstronautTeemo_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Teemo_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AstronautTeemo_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Teemo_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AstronautTeemo_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Teemo_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AstronautTeemo_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Teemo_attack7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AstronautTeemo_attack7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Teemo_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AstronautTeemo_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Teemo_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AstronautTeemo_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Teemo_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AstronautTeemo_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Teemo_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AstronautTeemo_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Teemo_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AstronautTeemo_laugh3"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Teemo_SpiritBlossom_Recall.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Teemo_SpiritBlossom_Recall.ogg/revision/latest?cb=20200712211320"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Teemo_SpiritBlossom"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_tauntAmumu01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_tauntCorki01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_tauntGnar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_tauntHeimerdinger01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_tauntTristana01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_tauntZilean01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_I1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_I2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_I3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_Q1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_W1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_W2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_W3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_W4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_R4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_R5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_R6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_R7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_R8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_R9"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_R10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_R11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemNashors01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemNashors02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemNashors03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemLiandrys01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemLiandrys02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemLiandrys03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemDeathcap01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemDeathcap02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemRunaans01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemRunaans02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemRunaans03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemZhonyas01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemZhonyas02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_itemZhonyas03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TeemoOmegaSquad_recall03"
+          }
+     ]
+}

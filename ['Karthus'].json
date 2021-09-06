@@ -1,0 +1,843 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Karthus_Select_new.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Karthus_Select_new.ogg/revision/latest?cb=20200711194200"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Karthus_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Karthus_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Karthus_Ban.ogg/revision/latest?cb=20200810145048"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Karthus_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_taunt05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntElise01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntHecarim01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntHecarim02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntLeona01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntLucian01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntLucian02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntLucian03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntMordekaiser01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntMordekaiser02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntSion01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntSion02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntThresh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntThresh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntUrgot01"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Urgot_Original_TauntEndedNearbyKarthus.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Urgot_Original_TauntEndedNearbyKarthus.ogg/revision/latest?cb=20201121211209"
+                    },
+                    {
+                         "audio_name": "Urgot_Original_TauntEndedNearbyKarthus.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Urgot_Original_TauntEndedNearbyKarthus.ogg/revision/latest?cb=20201121211209"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Urgot_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Urgot_Battlecast_TauntEndedNearbyKarthus.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Urgot_Battlecast_TauntEndedNearbyKarthus.ogg/revision/latest?cb=20201121205925"
+                    },
+                    {
+                         "audio_name": "Urgot_Battlecast_TauntEndedNearbyKarthus.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Urgot_Battlecast_TauntEndedNearbyKarthus.ogg/revision/latest?cb=20201121205925"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Urgot_Battlecast"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Urgot_GiantEnemyCrabgot_TauntEndedNearbyKarthus.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Urgot_GiantEnemyCrabgot_TauntEndedNearbyKarthus.ogg/revision/latest?cb=20201121210542"
+                    },
+                    {
+                         "audio_name": "Urgot_GiantEnemyCrabgot_TauntEndedNearbyKarthus.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Urgot_GiantEnemyCrabgot_TauntEndedNearbyKarthus.ogg/revision/latest?cb=20201121210542"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Urgot_GiantEnemyCrabgot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_tauntVarus01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_joke05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_joke06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_jokeUrgot01"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Urgot_Original_JokeEndedNearbyKarthus.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/86/Urgot_Original_JokeEndedNearbyKarthus.ogg/revision/latest?cb=20201121210822"
+                    },
+                    {
+                         "audio_name": "Urgot_Original_JokeEndedNearbyKarthus.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/86/Urgot_Original_JokeEndedNearbyKarthus.ogg/revision/latest?cb=20201121210822"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Urgot_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Urgot_Battlecast_JokeEndedNearbyKarthus.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Urgot_Battlecast_JokeEndedNearbyKarthus.ogg/revision/latest?cb=20201121205316"
+                    },
+                    {
+                         "audio_name": "Urgot_Battlecast_JokeEndedNearbyKarthus.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Urgot_Battlecast_JokeEndedNearbyKarthus.ogg/revision/latest?cb=20201121205316"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Urgot_Battlecast"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Urgot_GiantEnemyCrabgot_JokeEndedNearbyKarthus.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Urgot_GiantEnemyCrabgot_JokeEndedNearbyKarthus.ogg/revision/latest?cb=20201121210145"
+                    },
+                    {
+                         "audio_name": "Urgot_GiantEnemyCrabgot_JokeEndedNearbyKarthus.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Urgot_GiantEnemyCrabgot_JokeEndedNearbyKarthus.ogg/revision/latest?cb=20201121210145"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Urgot_GiantEnemyCrabgot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_laugh04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_dance01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_dance01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_dance02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_dance03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_I1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_I2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_I3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_I4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_I1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_I2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_I3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_I4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_I5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_W1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_W2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_W3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_W4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_W5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_E1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_E2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_E3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_E4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_E5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_E6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_R4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_R5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_R6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_R7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_R8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_R1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_R2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "PentakillKarthus_R3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemGuardianAngel01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemGuardianAngel02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemAthenes01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemRodofAges01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemRodofAges02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemDeathcap01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemDeathcap02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemDeathcap03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemDeathcap04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemRylais01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemRylais03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemRylais04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemTear01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemVoidStaff01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemVoidStaff02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemVoidStaff03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemZhonyas01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemZhonyas02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_itemZhonyas03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Karthus_recall03"
+          }
+     ]
+}

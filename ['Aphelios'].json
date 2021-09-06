@@ -1,0 +1,819 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_select"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ApheliosNightbringer01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ApheliosNightbringer01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "ApheliosNightbringer01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterDiana01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterDiana01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterDiana01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterSenna01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterSoraka02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterYuumi01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounter%28Kayle02%2CMorgana02%29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterGun"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterSpiritual"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterAspect"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterLunari"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_encounterSolari"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetCalibrum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetCalibrum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetCalibrum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetCalibrum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetSeverum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetSeverum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetSeverum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetSeverum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetInfernum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetInfernum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetInfernum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetInfernum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetGravitum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetGravitum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetGravitum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetGravitum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetGravitum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetCrescendum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetCrescendum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetCrescendum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_INNATEgetCrescendum"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_QMoonshot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_QMoonshot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_QMoonshot"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_RAlune"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_RAlune"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_killDiana01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_killSolari"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_pentakill"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_lowhealth"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_lowhealth"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_lowhealth"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_lowhealth"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_lowhealth"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_lowhealth"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_lowhealth"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_lowhealth"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_lowhealth"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_lowhealth"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_lowhealth"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_lowhealth"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aphelios01_respawn"
+          }
+     ]
+}

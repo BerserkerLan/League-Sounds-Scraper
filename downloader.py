@@ -65,6 +65,15 @@ class Audio:
     def to_json(self):
         return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=1)
 
+class Image:
+    def __init__(self, name, url) -> None:
+        self.name = name
+        self.url = url
+    def __str__(self) -> str:
+        return "Image Name: {}, Image Url: {}".format(self.name, self.url)
+    def to_json(self):
+        return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=1)
+
 def slugify(value, allow_unicode=False):
     """
     Taken from https://github.com/django/django/blob/master/django/utils/text.py
@@ -114,6 +123,7 @@ def get_champion_data_for_champion_url(champion_url):
     section_list = []
     skin_names = []
     section = None
+    skin_name = None
     if (main_div is None):
         print("Main div is none for Champion {} so cannot create the json".format(champion_url))
         return None
@@ -131,17 +141,16 @@ def get_champion_data_for_champion_url(champion_url):
                 audio_url = audio_element.find("source")['src']
                 audio_name = str(audio_url).split("/")[7]
                 audio_name_dess = audio_name.split("_")
-                print("Audio Name dess:", audio_name_dess)
-                if not(champion_name in audio_name):
+                if len(audio_name_dess) == 1:
+                    audio_name_dess = audio_name_dess[0].split(".")
+                if not(champion_name[0] in audio_name):
                     skin_temp_arr = audio_name.split(".") #Beacuse it can be like TrueDamage.SpawnMusic.ogg
                     skin_name = skin_temp_arr[0] + "_" + skin_temp_arr[1]
                 else:
-                    if len(champion_name) == 2:
-                        skin_name = audio_name_dess[0] + "_" + audio_name_dess[1] + "_" +  audio_name_dess[2]
-                    elif len(champion_name) == 1:
-                        skin_name = audio_name_dess[0] + "_" + audio_name_dess[1]
-                if skin_name not in skin_names:
-                    skin_names.append(skin_name)
+                    skin_name = "_".join(audio_name_dess).replace(".ogg", "")
+                if not(skin_name == None):
+                    if skin_name not in skin_names:
+                        skin_names.append(skin_name)
                 if (not(section == None)):
                     if (not (section.subsection_list)):
                         section.append_to_audio(Audio(audio_name, audio_url))
@@ -151,24 +160,17 @@ def get_champion_data_for_champion_url(champion_url):
     skins_list = []
 
     for skin_name in skin_names:
-        skin = Skin(skin_name)
+        skin = Skin("_".join(skin_name.split("_")[:len(champion_name) + 1]))
         for section in section_list:
             for audio in section.audio_list:
-                if skin_name in audio.audio_name:
+                if skin.champion_name in audio.audio_name:
                     skin.add_to_audio_list(audio)
             for subsection in section.subsection_list:
                 for audio_sub in subsection.audio_list:
                     if skin_name in audio_sub.audio_name:
                         skin.add_to_audio_list(audio_sub)
         skins_list.append(skin)
-
-    #Now to get the champion cover image URL
-    # champion_url_for_image = "https://leagueoflegends.fandom.com/wiki/Category:{}".format(str(champion_url).split("/")[4])
-    # page = requests.get(champion_url_for_image)
-    # soup = BeautifulSoup(page.content, "html.parser")
-    # image_url = soup.find(class_="mw-parser-output").find("img")['src']
-
-    #/html/body/div[4]/div[3]/div[5]/main/div[3]/div[2]/div[1]/table[2]
+    print("Done: ", champion_name)
 
     all_champions_page = "https://leagueoflegends.fandom.com/wiki/List_of_champions"
     page = requests.get(all_champions_page)
@@ -181,35 +183,43 @@ def get_champion_data_for_champion_url(champion_url):
         image_url = image_url[0:image_url.index("latest") + 6]
     except:
         import pdb; pdb.set_trace()
-    print("Done Champion: {}".format(champion_url))
+    champion = Champion(skins_list)
+    open("{}.json".format(champion_name), 'wb').write(str.encode(champion.to_json()))
     return Champion(skins_list)
 
-    #mw-content-text > div.mw-parser-output > div.tabber.wds-tabber > div.wds-tab__content.wds-is-current > ul:nth-child(5) > li:nth-child(1) > i
 
-    #mw-content-text > div.mw-parser-output > div.tabber.wds-tabber > div:nth-child(3) > ul:nth-child(5) > li:nth-child(1) > i
+def make_skin_json(champion_root_list):
+    page = requests.get("https://leagueoflegends.fandom.com/wiki/List_of_skins_by_champion")
+    champion_names = []
+    for champion_url in get_champion_list():
+        champion_name = champion_url.split("/")[2].split("_")
+        champion_names.append(" ".join(champion_name))
 
-    #mw-content-text > div.mw-parser-output > ul:nth-child(4) > li > i
-
-    # all_audio_elements = soup.find_all("audio")
-
-    # for audio_element in all_audio_elements:
-    #     try:
-    #         audio_url = audio_element.find("source")['src']
-    #         audio_name_list = str(audio_url).split("/")
-    #         print(audio_name_list[7])
-    #         audio_request = requests.get(audio_url)
-    #         open(os.path.join(main_path, slugify(str(audio_name_list[7]) + '.mp3')), 'wb').write(audio_request.content)
-    #     except Exception as e:
-    #         print("Bad", e)
-
+    soup = BeautifulSoup(page.content, 'html.parser')
+    main_table = soup.find("table")
+    image_list = []
+    skip_first = False
+    for table_row in main_table.find_all("tr"):
+        if not skip_first:
+            skip_first = True
+            continue
+        img_tag_list = table_row.find_all("img")
+        for img_tag in img_tag_list:
+            image_list.append(Image(img_tag['alt'], img_tag['src']))
+    all_skins = ()
+    for champion in champion_root_list.champion_list:
+        for champion_skin in champion.skin_list:
+            if champion_skin.champion_name in all_skins:
+                all_skins.append(champion_skin.champion_name)
+                
+                # Ok I think this will have the unique skin names, now we gotta double check the skins with the existing champion, and if the name is there, set the imageURL I guess
+    import pdb; pdb.set_trace();
 champion_list = []
+
 
 for champion_url in get_champion_list():
     champion_list.append(get_champion_data_for_champion_url(champion_url))
 
-# champion_list.append(get_champion_data_for_champion_url("/wiki/Lee_Sin/LoL"))
-
-
 champion_root_list = ChampionRootList(champion_list)
 
-open("custom.json", 'wb').write(str.encode(champion_root_list.to_json()))
+make_skin_json(champion_root_list)

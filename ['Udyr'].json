@@ -1,0 +1,594 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Udyr_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8a/Udyr_Select.ogg/revision/latest?cb=20200711203538"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Udyr_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Udyr_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Udyr_Ban.ogg/revision/latest?cb=20200810160607"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Udyr_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_attack1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_attack4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_attack5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Udyr_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_firstmove01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_firstmove02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_firstmove03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_Aniviataunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_Aniviataunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_Aniviataunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_Nidaleetaunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_Nidaleetaunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_Nidaleetaunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_Rammustaunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_Rammustaunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_Rammustaunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_Volibeartaunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_Volibeartaunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_Volibeartaunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritUdyr_laugh1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritUdyr_laugh2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritUdyr_laugh3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritUdyr_laugh4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_special01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_special02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_special03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_special04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_E01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_jungle01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_jungle02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_jungle03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_jungle04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_dragon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_dragon02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_baron01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_baron02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_recall04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_revive01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_revive02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_revive03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_revive04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_revive05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_revive06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "SpiritGuardUdyr_revive07"
+          }
+     ]
+}

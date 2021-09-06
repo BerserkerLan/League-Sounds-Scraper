@@ -1,0 +1,2769 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Ashe_Select_new.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Ashe_Select_new.ogg/revision/latest?cb=20200711192124"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Ashe_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Ashe_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Ashe_Ban.ogg/revision/latest?cb=20191230082411"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Ashe_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_encounterGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_encounterGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_encounterGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_encounterAnivia01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_encounterBraum01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_encounterGragas01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_encounterLissandra01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_encounterSejuani02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_encounterTrundle02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_encounterTryndamere01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_encounterUdyr01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_encounterVolibear02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_tauntBraum01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_tauntBraum01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_tauntSejuani02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_tauntTryndamere01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_tauntFreljordian"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_attackSejuani02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_W"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_W"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_W"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_W"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_W"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_W"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_Rkill"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_Rkill"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_Rkill"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killSejuani02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killTrundle02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killTryndamere01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killUdyr01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe03_killVolibear02"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Ashe_Battle_for_Freljord_Start.mp3",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Ashe_Battle_for_Freljord_Start.mp3/revision/latest?cb=20210503172835"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Ashe_Battle"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_start01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_start02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_start03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_start04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_start05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move25"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move26"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move27"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move28"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move29"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move30"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move31"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move32"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move33"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_move34"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveHood01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveHood02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveHood03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveHood04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveHood05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_taunt01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_taunt02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_taunt03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_taunt04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_taunt05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntAsheClassic01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntAshePROJECT01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntAshePROJECT02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntAshePROJECT03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntAshePROJECT04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntEkkoPROJECTAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntEkkoPROJECTAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntEkkoPROJECTAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntEkkoPROJECTEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntEkkoPROJECTEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntEkkoPROJECTEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntFioraPROJECTAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntFioraPROJECTAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntFioraPROJECTAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntFioraPROJECTEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntFioraPROJECTEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntFioraPROJECTEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntKatarinaPROJECTAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntKatarinaPROJECTAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntKatarinaPROJECTAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntKatarinaPROJECTEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntKatarinaPROJECTEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntKatarinaPROJECTEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntLeonaPROJECTAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntLeonaPROJECTAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntLeonaPROJECTAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntLeonaPROJECTEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntLeonaPROJECTEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntLeonaPROJECTEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntLucianPROJECTAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntLucianPROJECTAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntLucianPROJECTAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntLucianPROJECTEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntLucianPROJECTEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntLucianPROJECTEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntYasuoPROJECTAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntYasuoPROJECTEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntYasuoPROJECTEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntYasuoPROJECTEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntYiPROJECTAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntYiPROJECTAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntYiPROJECTAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntYiPROJECTEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntYiPROJECTEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntYiPROJECTEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntZedPROJECTAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntZedPROJECTAlly02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntZedPROJECTAlly03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntZedPROJECTEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntZedPROJECTEnemy02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntZedPROJECTEnemy03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntViktor01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntViktor02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntViktor03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntMecha01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntPROJECTAlly01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tauntPROJECTEnemy01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_joke02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_joke03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_joke04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_joke05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_laugh01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_laugh02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_laugh03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_dance01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack07"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack08"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack09"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack10"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack11"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack13"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack14"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack15"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack16"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack17"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack18"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack19"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack20"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack21"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack22"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack23"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_attack24"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveQ1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveQ2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveQ3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveQ4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveQ5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveQ6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveQ7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_moveQ8"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellW1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellW2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellW3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellW4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellW5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellE1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellE2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellE3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellE4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellE5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellE6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellE7"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellR1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellR2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellR3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spellR4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_kill01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_kill02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_kill03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_kill04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_kill05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spreeKillingSpree01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spreeKillingSpree02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spreeKillingSpree03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spreeKillingSpree04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_spreeKillingSpree05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tower01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tower02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tower03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tower04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_tower05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_item01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_item02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_item03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_item04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemBerserkersGreaves01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemBerserkersGreaves02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemBerserkersGreaves03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemBootsOfSwiftness01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemBootsofSwiftness02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemBootsofSwiftness03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemInfinityEdge01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemInfinityEdge02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemInfinityEdge03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemGiantSlayer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemGiantSlayer02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemGiantSlayer03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemLordDominiksRegards01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemLordDominiksRegards02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemLordDominiksRegards03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemPhantomDancer01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemPhantomDancer02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemPhantomDancer03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemBloodthirster01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemBloodthirster02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemBloodthirster03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemRunaansHurricane01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemRunaansHurricane02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemRunaansHurricane03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemStatikkShiv01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemStatikkShiv02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemStatikkShiv03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemRapidFirecannon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemRapidFirecannon02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemRapidFirecannon03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemBansheesVeil01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemBansheesVeil02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemBansheesVeil03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemQuicksilverSash01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemQuicksilverSash02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemQuicksilverSash03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemMercurialScimitar01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemMercurialScimitar02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemMercurialScimitar03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemRanduinsOmen01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemRanduinsOmen02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemRanduinsOmen03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemEssenceReaver01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemEssenceReaver02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_itemEssenceReaver03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_ward01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_ward02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_ward03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_ward04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_ward05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_useHealthPotion01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_useHealthPotion02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_useHealthPotion03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_useSweepingLens01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_useSweepingLens02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_useSweepingLens03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_useSweepingLens04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_useSweepingLens05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_recall01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_recall03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_recall04"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_recall05"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_death01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_death02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_unknown01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AshePROJECT_unknown02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_firstmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_move"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_longmove"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterFemale"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterFemale"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterMale"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterMale"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterAlistarLonghorn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterCaitlynSheriff01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterCassiopeiaDesperada01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterDariusHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterFiddlesticksBandito01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterHecarimHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterJhinHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterLucianHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterMissFortuneCowgirl01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterThreshHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterUrgotHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_encounterYasuoHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_tauntresponse"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_jokeresponse"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_jokeresponseLucianHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_laugh"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_laugh"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Ashe_HighNoon_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Ashe_HighNoon_Dance.ogg/revision/latest?cb=20200712215500"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Ashe_HighNoon"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_unknown"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackDariusHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackDemon"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackHecarimHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackKayle02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackLucianHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackMorgana02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_attackThreshHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_Q"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_E"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_R"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killGeneric"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killAlistarLonghorn01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killCaitlynSheriff01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killCassiopeiaDesperada01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killDariusHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killFiddlesticksBandito01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killHecarimHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killJhinHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killLucianHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killMissFortuneCowgirl01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killThreshHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killUrgotHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_killYasuoHighNoon01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_pentakill"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_pentakill"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_useRecall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_useRecall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_useRecall"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_death"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "AsheHighNoon01_respawn"
+          }
+     ]
+}

@@ -1,0 +1,1752 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Yuumi_Select.ogg/revision/latest?cb=20200711194655"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Yuumi_Ban.ogg/revision/latest?cb=20200810162512"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_Ban"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_030.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Yuumi_030.ogg/revision/latest?cb=20190503180049"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_030"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_069.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/01/Yuumi_069.ogg/revision/latest?cb=20190503180137"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_069"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_172.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Yuumi_172.ogg/revision/latest?cb=20190503180350"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_172"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_087.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Yuumi_087.ogg/revision/latest?cb=20190503180200"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_087"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_171.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/99/Yuumi_171.ogg/revision/latest?cb=20190503180349"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_171"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_025.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Yuumi_025.ogg/revision/latest?cb=20190503180042"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_025"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_077.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Yuumi_077.ogg/revision/latest?cb=20190503180148"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_077"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_083.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Yuumi_083.ogg/revision/latest?cb=20190503180156"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_083"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_114.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Yuumi_114.ogg/revision/latest?cb=20190503180233"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_114"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_121.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Yuumi_121.ogg/revision/latest?cb=20190503180246"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_121"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_046.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Yuumi_046.ogg/revision/latest?cb=20190503180109"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_046"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_047.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Yuumi_047.ogg/revision/latest?cb=20190503180111"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_047"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_156.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Yuumi_156.ogg/revision/latest?cb=20190503180331"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_156"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_017.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Yuumi_017.ogg/revision/latest?cb=20190503180033"
+                    },
+                    {
+                         "audio_name": "Yuumi_017.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Yuumi_017.ogg/revision/latest?cb=20190503180033"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_017"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_167.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Yuumi_167.ogg/revision/latest?cb=20190503180344"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_167"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_023.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Yuumi_023.ogg/revision/latest?cb=20190503180040"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_023"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_048.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Yuumi_048.ogg/revision/latest?cb=20190503180112"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_048"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_100.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Yuumi_100.ogg/revision/latest?cb=20190503180215"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_100"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_157.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Yuumi_157.ogg/revision/latest?cb=20190503180332"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_157"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_158.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Yuumi_158.ogg/revision/latest?cb=20190503180333"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_158"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_153.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Yuumi_153.ogg/revision/latest?cb=20190503180327"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_153"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_013.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Yuumi_013.ogg/revision/latest?cb=20190503180027"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_013"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_106.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Yuumi_106.ogg/revision/latest?cb=20190503180223"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_106"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_122.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Yuumi_122.ogg/revision/latest?cb=20190503180248"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_122"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_070.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Yuumi_070.ogg/revision/latest?cb=20190503180138"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_070"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_019.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Yuumi_019.ogg/revision/latest?cb=20190503180035"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_019"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_088.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Yuumi_088.ogg/revision/latest?cb=20190503180201"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_088"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_055.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Yuumi_055.ogg/revision/latest?cb=20190503180120"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_055"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_146.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Yuumi_146.ogg/revision/latest?cb=20190503180319"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_146"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_105.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Yuumi_105.ogg/revision/latest?cb=20190503180222"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_105"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_095.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Yuumi_095.ogg/revision/latest?cb=20190503180209"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_095"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_128.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Yuumi_128.ogg/revision/latest?cb=20190503180256"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_128"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_138.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Yuumi_138.ogg/revision/latest?cb=20190503180308"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_138"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_142.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Yuumi_142.ogg/revision/latest?cb=20190503180313"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_142"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_078.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Yuumi_078.ogg/revision/latest?cb=20190503180149"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_078"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_080.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Yuumi_080.ogg/revision/latest?cb=20190503180152"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_080"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_150.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Yuumi_150.ogg/revision/latest?cb=20190503180324"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_150"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_014.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/Yuumi_014.ogg/revision/latest?cb=20190503180029"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_014"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_143.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Yuumi_143.ogg/revision/latest?cb=20190503180315"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_143"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_168.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Yuumi_168.ogg/revision/latest?cb=20190503180346"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_168"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_165.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Yuumi_165.ogg/revision/latest?cb=20190503180342"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_165"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_097.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/Yuumi_097.ogg/revision/latest?cb=20190503180212"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_097"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_164.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Yuumi_164.ogg/revision/latest?cb=20190503180341"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_164"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_139.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Yuumi_139.ogg/revision/latest?cb=20190503180309"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_139"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_018.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Yuumi_018.ogg/revision/latest?cb=20190503180034"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_018"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_113.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Yuumi_113.ogg/revision/latest?cb=20190503180232"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_113"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_124.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Yuumi_124.ogg/revision/latest?cb=20190503180251"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_124"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_008.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Yuumi_008.ogg/revision/latest?cb=20190503180022"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_008"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_012.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Yuumi_012.ogg/revision/latest?cb=20190503180026"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_012"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_050.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Yuumi_050.ogg/revision/latest?cb=20190503180114"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_050"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_038.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Yuumi_038.ogg/revision/latest?cb=20190503180059"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_038"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_159.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Yuumi_159.ogg/revision/latest?cb=20190503180334"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_159"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_115.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Yuumi_115.ogg/revision/latest?cb=20190503180239"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_115"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_015.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Yuumi_015.ogg/revision/latest?cb=20190503180030"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_015"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_127.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Yuumi_127.ogg/revision/latest?cb=20190503180254"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_127"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_096.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Yuumi_096.ogg/revision/latest?cb=20190503180211"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_096"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_063.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Yuumi_063.ogg/revision/latest?cb=20190503180130"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_063"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_173.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Yuumi_173.ogg/revision/latest?cb=20190503180352"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_173"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_079.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Yuumi_079.ogg/revision/latest?cb=20190503180151"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_079"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_144.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Yuumi_144.ogg/revision/latest?cb=20190503180317"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_144"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_067.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Yuumi_067.ogg/revision/latest?cb=20190503180135"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_067"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_035.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Yuumi_035.ogg/revision/latest?cb=20190503180055"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_035"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_010.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Yuumi_010.ogg/revision/latest?cb=20190503180024"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_010"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_134.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Yuumi_134.ogg/revision/latest?cb=20190503180303"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_134"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_101.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Yuumi_101.ogg/revision/latest?cb=20190503180217"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_101"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_026.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Yuumi_026.ogg/revision/latest?cb=20190503180044"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_026"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_031.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Yuumi_031.ogg/revision/latest?cb=20190503180050"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_031"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_094.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Yuumi_094.ogg/revision/latest?cb=20190503180208"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_094"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_160.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Yuumi_160.ogg/revision/latest?cb=20190503180335"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_160"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_112.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Yuumi_112.ogg/revision/latest?cb=20190503180230"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_112"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_125.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Yuumi_125.ogg/revision/latest?cb=20190503180252"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_125"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_109.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Yuumi_109.ogg/revision/latest?cb=20190503180227"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_109"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_154.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Yuumi_154.ogg/revision/latest?cb=20190503180328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_154"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_062.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Yuumi_062.ogg/revision/latest?cb=20190503180129"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_062"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_081.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/Yuumi_081.ogg/revision/latest?cb=20190503180153"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_081"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_071.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/Yuumi_071.ogg/revision/latest?cb=20190503180140"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_071"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_102.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Yuumi_102.ogg/revision/latest?cb=20190503180218"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_102"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_027.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Yuumi_027.ogg/revision/latest?cb=20190503180045"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_027"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_060.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Yuumi_060.ogg/revision/latest?cb=20190503180126"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_060"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_056.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Yuumi_056.ogg/revision/latest?cb=20190503180122"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_056"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_140.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Yuumi_140.ogg/revision/latest?cb=20190503180311"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_140"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_039.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Yuumi_039.ogg/revision/latest?cb=20190503180100"
+                    },
+                    {
+                         "audio_name": "Yuumi_039.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Yuumi_039.ogg/revision/latest?cb=20190503180100"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_039"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_123.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Yuumi_123.ogg/revision/latest?cb=20190503180249"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_123"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_051.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/Yuumi_051.ogg/revision/latest?cb=20190503180116"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_051"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_086.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Yuumi_086.ogg/revision/latest?cb=20190503180159"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_086"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_020.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1d/Yuumi_020.ogg/revision/latest?cb=20190503180036"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_020"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_161.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Yuumi_161.ogg/revision/latest?cb=20190503180337"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_161"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_028.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Yuumi_028.ogg/revision/latest?cb=20190503180047"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_028"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_093.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Yuumi_093.ogg/revision/latest?cb=20190503180207"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_093"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_155.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Yuumi_155.ogg/revision/latest?cb=20190503180329"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_155"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_090.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Yuumi_090.ogg/revision/latest?cb=20190503180204"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_090"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_009.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Yuumi_009.ogg/revision/latest?cb=20190503180023"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_009"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_170.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Yuumi_170.ogg/revision/latest?cb=20190503180348"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_170"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_065.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Yuumi_065.ogg/revision/latest?cb=20190503180132"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_065"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_162.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Yuumi_162.ogg/revision/latest?cb=20190503180338"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_162"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_120.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Yuumi_120.ogg/revision/latest?cb=20190503180245"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_120"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_141.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Yuumi_141.ogg/revision/latest?cb=20190503180312"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_141"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_021.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Yuumi_021.ogg/revision/latest?cb=20190503180038"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_021"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_044.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Yuumi_044.ogg/revision/latest?cb=20190503180106"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_044"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_032.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Yuumi_032.ogg/revision/latest?cb=20190503180052"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_032"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_131.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Yuumi_131.ogg/revision/latest?cb=20190503180259"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_131"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_003.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b6/Yuumi_003.ogg/revision/latest?cb=20190503180010"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_003"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_099.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Yuumi_099.ogg/revision/latest?cb=20190503180214"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_099"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_091.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Yuumi_091.ogg/revision/latest?cb=20190503180205"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_091"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_011.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Yuumi_011.ogg/revision/latest?cb=20190503180025"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_011"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_111.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Yuumi_111.ogg/revision/latest?cb=20190503180229"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_111"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_049.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Yuumi_049.ogg/revision/latest?cb=20190503180113"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_049"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_001.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Yuumi_001.ogg/revision/latest?cb=20190503180007"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_001"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_043.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Yuumi_043.ogg/revision/latest?cb=20190503180105"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_043"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_073.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Yuumi_073.ogg/revision/latest?cb=20190503180142"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_073"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_132.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Yuumi_132.ogg/revision/latest?cb=20190503180300"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_132"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_135.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Yuumi_135.ogg/revision/latest?cb=20190503180304"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_135"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_136.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Yuumi_136.ogg/revision/latest?cb=20190503180305"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_136"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_147.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Yuumi_147.ogg/revision/latest?cb=20190503180320"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_147"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_004.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Yuumi_004.ogg/revision/latest?cb=20190503180011"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_004"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_133.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Yuumi_133.ogg/revision/latest?cb=20190503180302"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_133"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_075.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Yuumi_075.ogg/revision/latest?cb=20190503180146"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_075"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_103.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Yuumi_103.ogg/revision/latest?cb=20190503180219"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_103"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_117.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Yuumi_117.ogg/revision/latest?cb=20190503180241"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_117"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_061.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Yuumi_061.ogg/revision/latest?cb=20190503180127"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_061"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_108.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Yuumi_108.ogg/revision/latest?cb=20190503180226"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_108"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_076.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Yuumi_076.ogg/revision/latest?cb=20190503180147"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_076"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_107.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Yuumi_107.ogg/revision/latest?cb=20190503180224"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_107"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_040.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Yuumi_040.ogg/revision/latest?cb=20190503180101"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_040"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_005.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Yuumi_005.ogg/revision/latest?cb=20190503180018"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_005"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_169.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Yuumi_169.ogg/revision/latest?cb=20190503180347"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_169"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_119.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Yuumi_119.ogg/revision/latest?cb=20190503180244"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_119"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_016.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Yuumi_016.ogg/revision/latest?cb=20190503180032"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_016"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_036.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Yuumi_036.ogg/revision/latest?cb=20190503180057"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_036"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_072.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Yuumi_072.ogg/revision/latest?cb=20190503180141"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_072"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_129.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Yuumi_129.ogg/revision/latest?cb=20190503180257"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_129"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_006.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Yuumi_006.ogg/revision/latest?cb=20190503180019"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_006"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_042.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Yuumi_042.ogg/revision/latest?cb=20190503180103"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_042"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_033.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Yuumi_033.ogg/revision/latest?cb=20190503180053"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_033"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_057.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/26/Yuumi_057.ogg/revision/latest?cb=20190503180123"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_057"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_089.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Yuumi_089.ogg/revision/latest?cb=20190503180203"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_089"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_163.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Yuumi_163.ogg/revision/latest?cb=20190503180339"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_163"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_148.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Yuumi_148.ogg/revision/latest?cb=20190503180321"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_148"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_058.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Yuumi_058.ogg/revision/latest?cb=20190503180124"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_058"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_064.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Yuumi_064.ogg/revision/latest?cb=20190503180131"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_064"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_068.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Yuumi_068.ogg/revision/latest?cb=20190503180136"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_068"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_130.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Yuumi_130.ogg/revision/latest?cb=20190503180258"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_130"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_052.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Yuumi_052.ogg/revision/latest?cb=20190503180117"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_052"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_166.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Yuumi_166.ogg/revision/latest?cb=20190503180343"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_166"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_082.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Yuumi_082.ogg/revision/latest?cb=20190503180154"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_082"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_098.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Yuumi_098.ogg/revision/latest?cb=20190503180213"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_098"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_022.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Yuumi_022.ogg/revision/latest?cb=20190503180039"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_022"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_092.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Yuumi_092.ogg/revision/latest?cb=20190503180206"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_092"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_041.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Yuumi_041.ogg/revision/latest?cb=20190503180102"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_041"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_149.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Yuumi_149.ogg/revision/latest?cb=20190503180322"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_149"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_151.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Yuumi_151.ogg/revision/latest?cb=20190503180325"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_151"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_116.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Yuumi_116.ogg/revision/latest?cb=20190503180240"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_116"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_024.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Yuumi_024.ogg/revision/latest?cb=20190503180041"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_024"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_053.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Yuumi_053.ogg/revision/latest?cb=20190503180118"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_053"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_084.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Yuumi_084.ogg/revision/latest?cb=20190503180157"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_084"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_007.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Yuumi_007.ogg/revision/latest?cb=20190503180020"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_007"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_085.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Yuumi_085.ogg/revision/latest?cb=20190503180158"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_085"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_029.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1d/Yuumi_029.ogg/revision/latest?cb=20190503180048"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_029"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_145.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Yuumi_145.ogg/revision/latest?cb=20190503180318"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_145"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_137.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Yuumi_137.ogg/revision/latest?cb=20190503180307"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_137"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_002.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Yuumi_002.ogg/revision/latest?cb=20190503180009"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_002"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_059.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Yuumi_059.ogg/revision/latest?cb=20190503180125"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_059"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_074.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Yuumi_074.ogg/revision/latest?cb=20190503180144"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_074"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_037.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Yuumi_037.ogg/revision/latest?cb=20190503180058"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_037"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_126.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Yuumi_126.ogg/revision/latest?cb=20190503180253"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_126"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_104.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Yuumi_104.ogg/revision/latest?cb=20190503180220"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_104"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_054.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Yuumi_054.ogg/revision/latest?cb=20190503180119"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_054"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_034.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Yuumi_034.ogg/revision/latest?cb=20190503180054"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_034"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_045.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Yuumi_045.ogg/revision/latest?cb=20190503180108"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_045"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_152.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a5/Yuumi_152.ogg/revision/latest?cb=20190503180326"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_152"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_118.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/Yuumi_118.ogg/revision/latest?cb=20190503180243"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_118"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Yuumi_066.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Yuumi_066.ogg/revision/latest?cb=20190503180133"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Yuumi_066"
+          }
+     ]
+}

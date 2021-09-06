@@ -1,0 +1,864 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Rengar_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Rengar_Select.ogg/revision/latest?cb=20200709154543"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Rengar_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Rengar_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Rengar_Ban.ogg/revision/latest?cb=20200810153712"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Rengar_Ban"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_move1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_022.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/61/RengarMecha_022.ogg/revision/latest?cb=20171220133431"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_022"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_move2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_023.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/RengarMecha_023.ogg/revision/latest?cb=20171220133432"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_023"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_move3"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_024.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/RengarMecha_024.ogg/revision/latest?cb=20171220133433"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_024"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_move4"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_025.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/RengarMecha_025.ogg/revision/latest?cb=20171220133435"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_025"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_move5"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_026.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/RengarMecha_026.ogg/revision/latest?cb=20171220133436"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_026"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_move6"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_027.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/RengarMecha_027.ogg/revision/latest?cb=20171220133437"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_027"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_move7"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_028.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/61/RengarMecha_028.ogg/revision/latest?cb=20171220133439"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_028"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_move8"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_029.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/RengarMecha_029.ogg/revision/latest?cb=20171220133440"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_029"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_move9"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_030.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/RengarMecha_030.ogg/revision/latest?cb=20171220133441"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_030"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_move10"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_031.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/RengarMecha_031.ogg/revision/latest?cb=20171220133442"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_031"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_taunt1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_060.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1d/RengarMecha_060.ogg/revision/latest?cb=20171220133515"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_060"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_taunt2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_061.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/RengarMecha_061.ogg/revision/latest?cb=20171220133516"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_061"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_joke1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_016.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/RengarMecha_016.ogg/revision/latest?cb=20171220133423"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_016"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_joke2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_017.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/12/RengarMecha_017.ogg/revision/latest?cb=20171220133424"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_017"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_laugh1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_018.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/RengarMecha_018.ogg/revision/latest?cb=20171220133426"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_018"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_laugh2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_019.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/RengarMecha_019.ogg/revision/latest?cb=20171220133427"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_019"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_laugh3"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_021.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/RengarMecha_021.ogg/revision/latest?cb=20171220133429"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_021"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_020.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/RengarMecha_020.ogg/revision/latest?cb=20171220133428"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_020"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_attack1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_001.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/RengarMecha_001.ogg/revision/latest?cb=20171220133404"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_001"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_attack2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_002.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/RengarMecha_002.ogg/revision/latest?cb=20171220133405"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_002"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_attack3"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_003.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/RengarMecha_003.ogg/revision/latest?cb=20171220133407"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_003"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_attack4"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_004.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/RengarMecha_004.ogg/revision/latest?cb=20171220133408"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_004"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_attack5"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_005.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/RengarMecha_005.ogg/revision/latest?cb=20171220133409"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_005"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_attack6"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_006.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/RengarMecha_006.ogg/revision/latest?cb=20171220133411"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_006"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_attack7"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_007.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/RengarMecha_007.ogg/revision/latest?cb=20171220133412"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_007"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_trophy11"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_032.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/RengarMecha_032.ogg/revision/latest?cb=20171220133443"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_032"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_trophy12"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_033.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/RengarMecha_033.ogg/revision/latest?cb=20171220133444"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_033"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_trophy3"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_034.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/RengarMecha_034.ogg/revision/latest?cb=20171220133446"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_034"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_trophy4"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_035.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/RengarMecha_035.ogg/revision/latest?cb=20171220133447"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_035"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_trophy5"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_036.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/RengarMecha_036.ogg/revision/latest?cb=20171220133448"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_036"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_trophy6"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_037.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/RengarMecha_037.ogg/revision/latest?cb=20171220133449"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_037"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_trophy7"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_038.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/RengarMecha_038.ogg/revision/latest?cb=20171220133450"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_038"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_trophy8"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_039.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/RengarMecha_039.ogg/revision/latest?cb=20171220133451"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_039"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_trophy9"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_040.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/RengarMecha_040.ogg/revision/latest?cb=20171220133452"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_040"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_trophy10"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_041.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/RengarMecha_041.ogg/revision/latest?cb=20171220133453"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_041"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_Q1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_044.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/RengarMecha_044.ogg/revision/latest?cb=20171220133457"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_044"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_Q2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_045.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/RengarMecha_045.ogg/revision/latest?cb=20171220133458"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_045"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_Q3"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_046.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/RengarMecha_046.ogg/revision/latest?cb=20171220133459"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_046"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_Q4"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_047.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/RengarMecha_047.ogg/revision/latest?cb=20171220133500"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_047"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_W3"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_048.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/RengarMecha_048.ogg/revision/latest?cb=20171220133501"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_048"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_W4"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_049.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/RengarMecha_049.ogg/revision/latest?cb=20171220133503"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_049"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_W5"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_050.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/RengarMecha_050.ogg/revision/latest?cb=20171220133504"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_050"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_W6"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_051.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/RengarMecha_051.ogg/revision/latest?cb=20171220133505"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_051"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_W1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_052.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/RengarMecha_052.ogg/revision/latest?cb=20171220133506"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_052"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_W2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_053.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/RengarMecha_053.ogg/revision/latest?cb=20171220133507"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_053"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_E5"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_054.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/RengarMecha_054.ogg/revision/latest?cb=20171220133509"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_054"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_E6"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_055.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/RengarMecha_055.ogg/revision/latest?cb=20171220133510"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_055"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_E1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_056.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/RengarMecha_056.ogg/revision/latest?cb=20171220133511"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_056"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_E2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_057.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/RengarMecha_057.ogg/revision/latest?cb=20171220133512"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_057"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_E3"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_058.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/RengarMecha_058.ogg/revision/latest?cb=20171220133513"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_058"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_E4"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_059.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1d/RengarMecha_059.ogg/revision/latest?cb=20171220133514"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_059"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_ult1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_062.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/RengarMecha_062.ogg/revision/latest?cb=20171220133518"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_062"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_ult2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_063.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/RengarMecha_063.ogg/revision/latest?cb=20171220133519"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_063"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_UltimateAmbient1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_UltimateAmbient2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_UltimateAmbient3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_UltimateActivation1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_interaction1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_042.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/RengarMecha_042.ogg/revision/latest?cb=20171220133455"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_042"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_interaction2"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "RengarMecha_043.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/RengarMecha_043.ogg/revision/latest?cb=20171220133456"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "RengarMecha_043"
+          }
+     ]
+}
