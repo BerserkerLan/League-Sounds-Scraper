@@ -3,76 +3,92 @@ from bs4 import BeautifulSoup
 import json
 import unicodedata
 import re
+from joblib import Parallel, delayed
 
-class ChampionRootList:
-    def __init__(self, champion_list) -> None:
-        self.champion_list = champion_list
-    def to_json(self):
-        return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=5)
-class Champion:
-    def __init__(self, skin_list) -> None:
-        self.skin_list = skin_list
+from typing import List
 
-    def __str__(self) -> str:
-        return "Champion Name: {}, List Of Sections: {}".format(self.champion_name, self.section_list)
-    def to_json(self):
-        return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=5)
 
 class Skin:
-    def __init__(self, champion_name) -> None:
+    def __init__(self, champion_name: str) -> None:
         self.champion_name = champion_name
         self.audio_list = []
         self.champion_image_url = ""
-    
+
     def add_to_audio_list(self, audio):
         self.audio_list.append(audio)
-    def __str__(self) -> str:
-        return "Champion Name: {}, List Of Sections: {}".format(self.champion_name, self.section_list)
+
     def to_json(self):
         return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=4)
 
-class Section:
-    def __init__(self, section_name) -> None:
-        self.subsection_list = []
-        self.audio_list = []
-        self.section_name = section_name
-    def append_to_subsection(self, subsection):
-        self.subsection_list.append(subsection)
-    def append_to_audio(self, audio):
-        self.audio_list.append(audio)
-    def __str__(self) -> str:
-        return "Section Name: {}, Section audio list: {}, section subsection list: {}".format(self.section_name, self.audio_list, self.subsection_list)
+
+class Champion:
+    def __init__(self, skin_list: List[Skin]) -> None:
+        self.skin_list = skin_list
+
     def to_json(self):
-        return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=3)
+        return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=5)
+
+
+class ChampionRootList:
+    def __init__(self, champion_list: List[Champion]) -> None:
+        self.champion_list = champion_list
+
+    def to_json(self):
+        return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=5)
+
+
+class Audio:
+    def __init__(self, audio_name: str, audio_url: str) -> None:
+        self.audio_name = audio_name
+        self.audio_url = audio_url
+
+    def to_json(self):
+        return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=1)
+
 
 class SubSection:
-    def __init__(self, subsection_name) -> None:
+    def __init__(self, subsection_name: str) -> None:
         self.subsection_name = subsection_name
         self.audio_list = []
-    def append_to_audio(self, audio):
+
+    def append_to_audio(self, audio: Audio):
         self.audio_list.append(audio)
-    def __str__(self) -> str:
-        return "SubSection Name: {}, SubSection audio list: {}".format(self.section_name, self.audio_list)
+
     def to_json(self):
         return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=2)
 
-class Audio:
-    def __init__(self, audio_name, audio_url) -> None:
-        self.audio_name = audio_name
-        self.audio_url = audio_url
-    def __str__(self) -> str:
-        return "Audio Name: {}, Audio Url: {}".format(self.audio_name, self.audio_url)
+
+class Section:
+    def __init__(self, section_name: str) -> None:
+        self.subsection_list = []
+        self.audio_list = []
+        self.section_name = section_name
+
+    def append_to_subsection(self, subsection: SubSection):
+        self.subsection_list.append(subsection)
+
+    def append_to_audio(self, audio: Audio):
+        self.audio_list.append(audio)
+
+    def to_json(self):
+        return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=3)
+
+
+class Image:
+    def __init__(self, name: str, url: str) -> None:
+        self.name = name
+        self.url = url
+
     def to_json(self):
         return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=1)
 
-class Image:
-    def __init__(self, name, url) -> None:
-        self.name = name
-        self.url = url
-    def __str__(self) -> str:
-        return "Image Name: {}, Image Url: {}".format(self.name, self.url)
+class ImageList:
+    def __init__(self, image_list: List[Image]):
+        self.image_list = image_list
+
     def to_json(self):
         return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=1)
+
 
 def slugify(value, allow_unicode=False):
     """
@@ -108,6 +124,7 @@ def get_champion_list():
             print("No champion in this one")
     return champion_list[1:]
 
+
 def get_champion_data_for_champion_url(champion_url):
     # main_path = os.path.join(os.getcwd(), str(champion_url).split("/")[2])
     # os.mkdir(main_path)
@@ -129,11 +146,11 @@ def get_champion_data_for_champion_url(champion_url):
         return None
     for element in main_div.findAll(recursive=True):
         if (element.name == 'h2'):
-            if (not(section == None)):
+            if (not (section == None)):
                 section_list.append(section)
             section = Section(element.text)
         elif (element.name == 'dl'):
-            if (not(section == None)):
+            if (not (section == None)):
                 section.append_to_subsection(SubSection(element.text))
         elif (element.name == 'ul'):
             audio_elements = element.find_all("audio")
@@ -143,15 +160,15 @@ def get_champion_data_for_champion_url(champion_url):
                 audio_name_dess = audio_name.split("_")
                 if len(audio_name_dess) == 1:
                     audio_name_dess = audio_name_dess[0].split(".")
-                if not(champion_name[0] in audio_name):
-                    skin_temp_arr = audio_name.split(".") #Beacuse it can be like TrueDamage.SpawnMusic.ogg
+                if not (champion_name[0] in audio_name):
+                    skin_temp_arr = audio_name.split(".")  # Beacuse it can be like TrueDamage.SpawnMusic.ogg
                     skin_name = skin_temp_arr[0] + "_" + skin_temp_arr[1]
                 else:
                     skin_name = "_".join(audio_name_dess).replace(".ogg", "")
-                if not(skin_name == None):
+                if not (skin_name == None):
                     if skin_name not in skin_names:
                         skin_names.append(skin_name)
-                if (not(section == None)):
+                if (not (section == None)):
                     if (not (section.subsection_list)):
                         section.append_to_audio(Audio(audio_name, audio_url))
                     else:
@@ -175,14 +192,15 @@ def get_champion_data_for_champion_url(champion_url):
     all_champions_page = "https://leagueoflegends.fandom.com/wiki/List_of_champions"
     page = requests.get(all_champions_page)
     soup = BeautifulSoup(page.content, "html.parser")
-    name_for_image = str(champion_url).split("/")[4].replace("_"," ").replace("%27","'")
-    if (name_for_image == "Nunu"): 
+    name_for_image = str(champion_url).split("/")[4].replace("_", " ").replace("%27", "'")
+    if (name_for_image == "Nunu"):
         name_for_image = "Nunu & Willump"
     try:
         image_url = soup.find(title=name_for_image).find("img")['data-src']
         image_url = image_url[0:image_url.index("latest") + 6]
     except:
-        import pdb; pdb.set_trace()
+        import pdb;
+        pdb.set_trace()
     champion = Champion(skins_list)
     open("{}.json".format(champion_name), 'wb').write(str.encode(champion.to_json()))
     return Champion(skins_list)
@@ -205,16 +223,16 @@ def make_skin_json(champion_root_list):
             continue
         img_tag_list = table_row.find_all("img")
         for img_tag in img_tag_list:
-            image_list.append(Image(img_tag['alt'], img_tag['src']))
-    all_skins = ()
-    for champion in champion_root_list.champion_list:
-        for champion_skin in champion.skin_list:
-            if champion_skin.champion_name in all_skins:
-                all_skins.append(champion_skin.champion_name)
-                
-                # Ok I think this will have the unique skin names, now we gotta double check the skins with the existing champion, and if the name is there, set the imageURL I guess
-    import pdb; pdb.set_trace();
+            image_list.append(Image(img_tag['alt'].replace(".png", ""), img_tag['src']))
+
+    image_root_list = ImageList(image_list)
+
+    open("{}.json".format("all_champions"), 'wb').write(str.encode(image_root_list.to_json()))
+
+
 champion_list = []
+
+input_champion_list = get_champion_list()
 
 
 for champion_url in get_champion_list():
