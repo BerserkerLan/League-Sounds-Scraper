@@ -193,14 +193,6 @@ def get_champion_data_for_champion_url(champion_url):
     page = requests.get(all_champions_page)
     soup = BeautifulSoup(page.content, "html.parser")
     name_for_image = str(champion_url).split("/")[4].replace("_", " ").replace("%27", "'")
-    if (name_for_image == "Nunu"):
-        name_for_image = "Nunu & Willump"
-    try:
-        image_url = soup.find(title=name_for_image).find("img")['data-src']
-        image_url = image_url[0:image_url.index("latest") + 6]
-    except:
-        import pdb;
-        pdb.set_trace()
     champion = Champion(skins_list)
     open("{}.json".format(champion_name), 'wb').write(str.encode(champion.to_json()))
     return Champion(skins_list)
@@ -223,7 +215,10 @@ def make_skin_json(champion_root_list):
             continue
         img_tag_list = table_row.find_all("img")
         for img_tag in img_tag_list:
-            image_list.append(Image(img_tag['alt'].replace(".png", ""), img_tag['src']))
+            try:
+                image_list.append(Image(img_tag['alt'].replace(".png", ""), img_tag['data-src']))
+            except:
+                image_list.append(Image(img_tag['alt'].replace(".png", ""), img_tag['src']))
 
     image_root_list = ImageList(image_list)
 
