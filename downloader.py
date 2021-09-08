@@ -216,9 +216,9 @@ def make_skin_json(champion_root_list):
         img_tag_list = table_row.find_all("img")
         for img_tag in img_tag_list:
             try:
-                image_list.append(Image(img_tag['alt'].replace(".png", ""), img_tag['data-src'].replace("/26", "/80")))
+                image_list.append(Image(img_tag['alt'].replace(".png", ""), img_tag['data-src'].replace("/26", "/40")))
             except:
-                image_list.append(Image(img_tag['alt'].replace(".png", ""), img_tag['src'].replace("/26", "/80")))
+                image_list.append(Image(img_tag['alt'].replace(".png", ""), img_tag['src'].replace("/26", "/40")))
 
     image_root_list = ImageList(image_list)
 
