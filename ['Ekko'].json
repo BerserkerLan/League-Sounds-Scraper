@@ -1223,26 +1223,6 @@
           {
                "audio_list": [],
                "champion_image_url": "",
-               "champion_name": "Ekko_itemLudensEcho01"
-          },
-          {
-               "audio_list": [],
-               "champion_image_url": "",
-               "champion_name": "EkkoPROJECT_itemLudensEcho01"
-          },
-          {
-               "audio_list": [],
-               "champion_image_url": "",
-               "champion_name": "Ekko_itemLudensEcho02"
-          },
-          {
-               "audio_list": [],
-               "champion_image_url": "",
-               "champion_name": "EkkoPROJECT_itemLudensEcho02"
-          },
-          {
-               "audio_list": [],
-               "champion_image_url": "",
                "champion_name": "Ekko_itemNashorsTooth01"
           },
           {
@@ -1279,26 +1259,6 @@
                "audio_list": [],
                "champion_image_url": "",
                "champion_name": "EkkoPROJECT_itemRabadonsDeathcap02"
-          },
-          {
-               "audio_list": [],
-               "champion_image_url": "",
-               "champion_name": "Ekko_itemRodofAges01"
-          },
-          {
-               "audio_list": [],
-               "champion_image_url": "",
-               "champion_name": "EkkoPROJECT_itemRodofAges01"
-          },
-          {
-               "audio_list": [],
-               "champion_image_url": "",
-               "champion_name": "Ekko_itemRodofAges02"
-          },
-          {
-               "audio_list": [],
-               "champion_image_url": "",
-               "champion_name": "EkkoPROJECT_itemRodofAges02"
           },
           {
                "audio_list": [],
@@ -1369,6 +1329,46 @@
                "audio_list": [],
                "champion_image_url": "",
                "champion_name": "EkkoPROJECT_itemZhonyasHourglass02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemLudensEcho01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemLudensEcho01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemLudensEcho02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemLudensEcho02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemRodofAges01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemRodofAges01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ekko_itemRodofAges02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "EkkoPROJECT_itemRodofAges02"
           },
           {
                "audio_list": [],

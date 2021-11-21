@@ -1,0 +1,1526 @@
+{
+     "skin_list": [
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_FirstEncounterYuumi.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Vex_Original_FirstEncounterYuumi.ogg/revision/latest?cb=20211108153305"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_R_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Vex_Original_R_0.ogg/revision/latest?cb=20211108153035"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_R_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_R_1.ogg/revision/latest?cb=20211108153046"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_R_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b1/Vex_Original_R_2.ogg/revision/latest?cb=20211108153057"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_R_Recast_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Vex_Original_R_Recast_0.ogg/revision/latest?cb=20211108153112"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_R_Recast_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Vex_Original_R_Recast_1.ogg/revision/latest?cb=20211108153127"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_R_Recast_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_R_Recast_2.ogg/revision/latest?cb=20211108153139"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_R_Recast_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8a/Vex_Original_R_Recast_3.ogg/revision/latest?cb=20211108153152"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_R_Recast_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Vex_Original_R_Recast_4.ogg/revision/latest?cb=20211108153203"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Kill_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Vex_Original_Kill_0.ogg/revision/latest?cb=20211108150305"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Kill_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Vex_Original_Kill_1.ogg/revision/latest?cb=20211108141840"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Kill_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Vex_Original_Kill_2.ogg/revision/latest?cb=20211108142049"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Kill_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Vex_Original_Kill_3.ogg/revision/latest?cb=20211108150328"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Kill_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Vex_Original_Kill_4.ogg/revision/latest?cb=20211108142100"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Kill_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Vex_Original_Kill_5.ogg/revision/latest?cb=20211108150807"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Kill_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Vex_Original_Kill_6.ogg/revision/latest?cb=20211108150529"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Kill_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Vex_Original_Kill_7.ogg/revision/latest?cb=20211108143307"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_0.ogg/revision/latest?cb=20211108141633"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Vex_Original_MoveFirst_1.ogg/revision/latest?cb=20211108145959"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Vex_Original_MoveFirst_2.ogg/revision/latest?cb=20211108143112"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Vex_Original_MoveFirst_3.ogg/revision/latest?cb=20211108150014"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Vex_Original_MoveFirst_4.ogg/revision/latest?cb=20211108150025"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Vex_Original_MoveFirst_5.ogg/revision/latest?cb=20211108150035"
+                    },
+                    {
+                         "audio_name": "Vex_Original_MoveFirst_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_MoveFirst_6.ogg/revision/latest?cb=20211108150045"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Taunt.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Vex_Original_Taunt.ogg/revision/latest?cb=20211108151351"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Joke.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Vex_Original_Joke.ogg/revision/latest?cb=20211108151340"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Laugh.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Vex_Original_Laugh.ogg/revision/latest?cb=20211108142421"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Dance.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Vex_Original_Dance.ogg/revision/latest?cb=20211108151328"
+                    },
+                    {
+                         "audio_name": "Vex_Original_Kill_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Vex_Original_Kill_8.ogg/revision/latest?cb=20211108150540"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Vex_Original"
+          }
+     ]
+}
