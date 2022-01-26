@@ -2799,6 +2799,21 @@
                "audio_list": [],
                "champion_image_url": "",
                "champion_name": "AnnouncerOdysseyKayn_welcomeOdysseyExtraction06"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Braum_Q2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Rengar_E1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Poppy_W1"
           }
      ]
 }

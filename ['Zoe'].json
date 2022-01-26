@@ -1,12 +1,22 @@
 {
      "skin_list": [
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "Zoe_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Zoe_Select.ogg/revision/latest?cb=20200709160702"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "Zoe_Select"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "Zoe_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Zoe_Ban.ogg/revision/latest?cb=20200810162948"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "Zoe_Ban"
           },

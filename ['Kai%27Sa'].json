@@ -1,12 +1,22 @@
 {
      "skin_list": [
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "Kai%27Sa_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Kai%27Sa_Select.ogg/revision/latest?cb=20200709160920"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "Kai%27Sa_Select"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "Kai%27Sa_Ban.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Kai%27Sa_Ban.ogg/revision/latest?cb=20200810144528"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "Kai%27Sa_Ban"
           },
@@ -152,6 +162,10 @@
           },
           {
                "audio_list": [
+                    {
+                         "audio_name": "Kai%27Sa_0185.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Kai%27Sa_0185.ogg/revision/latest?cb=20180222073951"
+                    },
                     {
                          "audio_name": "Kai%27Sa_0185.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Kai%27Sa_0185.ogg/revision/latest?cb=20180222073951"
@@ -2536,6 +2550,10 @@
           },
           {
                "audio_list": [
+                    {
+                         "audio_name": "Kai%27Sa_0205.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Kai%27Sa_0205.ogg/revision/latest?cb=20180222074018"
+                    },
                     {
                          "audio_name": "Kai%27Sa_0205.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Kai%27Sa_0205.ogg/revision/latest?cb=20180222074018"

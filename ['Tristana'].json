@@ -5,6 +5,10 @@
                     {
                          "audio_name": "Tristana_Select_new.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Tristana_Select_new.ogg/revision/latest?cb=20200709161737"
+                    },
+                    {
+                         "audio_name": "Tristana_Select_new.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Tristana_Select_new.ogg/revision/latest?cb=20200709161737"
                     }
                ],
                "champion_image_url": "",
@@ -1604,6 +1608,39 @@
                "audio_list": [],
                "champion_image_url": "",
                "champion_name": "TristanaDragonTrainer_respawn04"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Rumble_Original_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Rumble_Original_Move_7.ogg/revision/latest?cb=20200326164103"
+                    },
+                    {
+                         "audio_name": "Rumble_Original_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Rumble_Original_Move_7.ogg/revision/latest?cb=20200326164103"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Rumble_Original"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Corki_attack5"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Samira_Original_W_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Samira_Original_W_0.ogg/revision/latest?cb=20200829200253"
+                    },
+                    {
+                         "audio_name": "Samira_Original_W_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Samira_Original_W_0.ogg/revision/latest?cb=20200829200253"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Samira_Original"
           }
      ]
 }

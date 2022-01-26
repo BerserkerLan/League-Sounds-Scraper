@@ -1175,6 +1175,10 @@
                     {
                          "audio_name": "Ornn_023.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Ornn_023.ogg/revision/latest?cb=20171213110122"
+                    },
+                    {
+                         "audio_name": "Ornn_023.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Ornn_023.ogg/revision/latest?cb=20171213110122"
                     }
                ],
                "champion_image_url": "",
@@ -1182,6 +1186,10 @@
           },
           {
                "audio_list": [
+                    {
+                         "audio_name": "Ornn_024.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Ornn_024.ogg/revision/latest?cb=20171213110124"
+                    },
                     {
                          "audio_name": "Ornn_024.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Ornn_024.ogg/revision/latest?cb=20171213110124"
@@ -2265,6 +2273,10 @@
                     {
                          "audio_name": "Ornn_132.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Ornn_132.ogg/revision/latest?cb=20171213110545"
+                    },
+                    {
+                         "audio_name": "Ornn_132.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Ornn_132.ogg/revision/latest?cb=20171213110545"
                     }
                ],
                "champion_image_url": "",
@@ -2342,6 +2354,14 @@
           },
           {
                "audio_list": [
+                    {
+                         "audio_name": "Ornn_197.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Ornn_197.ogg/revision/latest?cb=20171213110843"
+                    },
+                    {
+                         "audio_name": "Ornn_197.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Ornn_197.ogg/revision/latest?cb=20171213110843"
+                    },
                     {
                          "audio_name": "Ornn_197.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Ornn_197.ogg/revision/latest?cb=20171213110843"
@@ -2699,6 +2719,20 @@
                ],
                "champion_image_url": "",
                "champion_name": "Ornn_211"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Kayle_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Kayle_Select.ogg/revision/latest?cb=20121127050321"
+                    },
+                    {
+                         "audio_name": "Kayle_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Kayle_Select.ogg/revision/latest?cb=20121127050321"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Kayle_Select"
           }
      ]
 }

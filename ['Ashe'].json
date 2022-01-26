@@ -2764,6 +2764,26 @@
                "audio_list": [],
                "champion_image_url": "",
                "champion_name": "AsheHighNoon01_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe_joke01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe_tauntSejuani03"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ashe_attack12"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "TaliyahFreljord_attack07"
           }
      ]
 }

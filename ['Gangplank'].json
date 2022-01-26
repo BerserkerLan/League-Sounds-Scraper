@@ -3124,6 +3124,40 @@
                "audio_list": [],
                "champion_image_url": "",
                "champion_name": "AnnouncerGangplank_spectatorCSNexusThreeQuartersPurple01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_move1"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gangplank_Select_new2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Gangplank_Select_new2.ogg/revision/latest?cb=20200711195647"
+                    },
+                    {
+                         "audio_name": "Gangplank_Select_new.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Gangplank_Select_new.ogg/revision/latest?cb=20150723164348"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_Select"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Sivir_Select"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Gangplank_Select_old.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Gangplank_Select_old.ogg/revision/latest?cb=20121127011832"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Gangplank_Select"
           }
      ]
 }

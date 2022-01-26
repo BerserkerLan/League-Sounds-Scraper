@@ -17681,182 +17681,1242 @@
                "champion_name": "SettMechaKingdoms_RecallLeadin"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/SettOriginal_Death_1.ogg/revision/latest?cb=20200223171901"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/SettOriginal_Death_2.ogg/revision/latest?cb=20200223171903"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/SettOriginal_Death_3.ogg/revision/latest?cb=20200223171905"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/SettOriginal_Death_4.ogg/revision/latest?cb=20200223171907"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/SettOriginal_Death_5.ogg/revision/latest?cb=20200223171909"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/SettOriginal_Death_6.ogg/revision/latest?cb=20200223171911"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/SettOriginal_Death_7.ogg/revision/latest?cb=20200223171913"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/SettOriginal_Death_8.ogg/revision/latest?cb=20200223171915"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/SettOriginal_Death_9.ogg/revision/latest?cb=20200223171917"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/SettOriginal_Death_10.ogg/revision/latest?cb=20200223171919"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/SettOriginal_Death_11.ogg/revision/latest?cb=20200223171921"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/SettMechaKingdoms_Death_9.ogg/revision/latest?cb=20200223165921"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/SettMechaKingdoms_Death_10.ogg/revision/latest?cb=20200223165923"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/SettMechaKingdoms_Death_6.ogg/revision/latest?cb=20200223165915"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/SettMechaKingdoms_Death_11.ogg/revision/latest?cb=20200223165925"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/SettMechaKingdoms_Death_1.ogg/revision/latest?cb=20200223165905"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/SettMechaKingdoms_Death_7.ogg/revision/latest?cb=20200223165917"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/SettMechaKingdoms_Death_5.ogg/revision/latest?cb=20200223165913"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/SettMechaKingdoms_Death_2.ogg/revision/latest?cb=20200223165907"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/SettMechaKingdoms_Death_8.ogg/revision/latest?cb=20200223165919"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/SettMechaKingdoms_Death_3.ogg/revision/latest?cb=20200223165909"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/SettMechaKingdoms_Death_4.ogg/revision/latest?cb=20200223165911"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/SettOriginal_Death_1.ogg/revision/latest?cb=20200223171901"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/SettOriginal_Death_2.ogg/revision/latest?cb=20200223171903"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/SettOriginal_Death_3.ogg/revision/latest?cb=20200223171905"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/SettOriginal_Death_4.ogg/revision/latest?cb=20200223171907"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/SettOriginal_Death_5.ogg/revision/latest?cb=20200223171909"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/SettOriginal_Death_6.ogg/revision/latest?cb=20200223171911"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/SettOriginal_Death_7.ogg/revision/latest?cb=20200223171913"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/SettOriginal_Death_8.ogg/revision/latest?cb=20200223171915"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/SettOriginal_Death_9.ogg/revision/latest?cb=20200223171917"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/SettOriginal_Death_10.ogg/revision/latest?cb=20200223171919"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/SettOriginal_Death_11.ogg/revision/latest?cb=20200223171921"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/SettMechaKingdoms_Death_9.ogg/revision/latest?cb=20200223165921"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/SettMechaKingdoms_Death_10.ogg/revision/latest?cb=20200223165923"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/SettMechaKingdoms_Death_6.ogg/revision/latest?cb=20200223165915"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/SettMechaKingdoms_Death_11.ogg/revision/latest?cb=20200223165925"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/SettMechaKingdoms_Death_1.ogg/revision/latest?cb=20200223165905"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/SettMechaKingdoms_Death_7.ogg/revision/latest?cb=20200223165917"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/SettMechaKingdoms_Death_5.ogg/revision/latest?cb=20200223165913"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/SettMechaKingdoms_Death_2.ogg/revision/latest?cb=20200223165907"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/SettMechaKingdoms_Death_8.ogg/revision/latest?cb=20200223165919"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/SettMechaKingdoms_Death_3.ogg/revision/latest?cb=20200223165909"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/SettMechaKingdoms_Death_4.ogg/revision/latest?cb=20200223165911"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/SettOriginal_Death_1.ogg/revision/latest?cb=20200223171901"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/SettOriginal_Death_2.ogg/revision/latest?cb=20200223171903"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/SettOriginal_Death_3.ogg/revision/latest?cb=20200223171905"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/SettOriginal_Death_4.ogg/revision/latest?cb=20200223171907"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/SettOriginal_Death_5.ogg/revision/latest?cb=20200223171909"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/SettOriginal_Death_6.ogg/revision/latest?cb=20200223171911"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/SettOriginal_Death_7.ogg/revision/latest?cb=20200223171913"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/SettOriginal_Death_8.ogg/revision/latest?cb=20200223171915"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/SettOriginal_Death_9.ogg/revision/latest?cb=20200223171917"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/SettOriginal_Death_10.ogg/revision/latest?cb=20200223171919"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/SettOriginal_Death_11.ogg/revision/latest?cb=20200223171921"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/SettMechaKingdoms_Death_9.ogg/revision/latest?cb=20200223165921"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/SettMechaKingdoms_Death_10.ogg/revision/latest?cb=20200223165923"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/SettMechaKingdoms_Death_6.ogg/revision/latest?cb=20200223165915"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/SettMechaKingdoms_Death_11.ogg/revision/latest?cb=20200223165925"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/SettMechaKingdoms_Death_1.ogg/revision/latest?cb=20200223165905"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/SettMechaKingdoms_Death_7.ogg/revision/latest?cb=20200223165917"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/SettMechaKingdoms_Death_5.ogg/revision/latest?cb=20200223165913"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/SettMechaKingdoms_Death_2.ogg/revision/latest?cb=20200223165907"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/SettMechaKingdoms_Death_8.ogg/revision/latest?cb=20200223165919"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/SettMechaKingdoms_Death_3.ogg/revision/latest?cb=20200223165909"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/SettMechaKingdoms_Death_4.ogg/revision/latest?cb=20200223165911"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/SettOriginal_Death_1.ogg/revision/latest?cb=20200223171901"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/SettOriginal_Death_2.ogg/revision/latest?cb=20200223171903"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/SettOriginal_Death_3.ogg/revision/latest?cb=20200223171905"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/SettOriginal_Death_4.ogg/revision/latest?cb=20200223171907"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/SettOriginal_Death_5.ogg/revision/latest?cb=20200223171909"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/SettOriginal_Death_6.ogg/revision/latest?cb=20200223171911"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/SettOriginal_Death_7.ogg/revision/latest?cb=20200223171913"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/SettOriginal_Death_8.ogg/revision/latest?cb=20200223171915"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/SettOriginal_Death_9.ogg/revision/latest?cb=20200223171917"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/SettOriginal_Death_10.ogg/revision/latest?cb=20200223171919"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/SettOriginal_Death_11.ogg/revision/latest?cb=20200223171921"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/SettMechaKingdoms_Death_9.ogg/revision/latest?cb=20200223165921"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/SettMechaKingdoms_Death_10.ogg/revision/latest?cb=20200223165923"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/SettMechaKingdoms_Death_6.ogg/revision/latest?cb=20200223165915"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/SettMechaKingdoms_Death_11.ogg/revision/latest?cb=20200223165925"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/SettMechaKingdoms_Death_1.ogg/revision/latest?cb=20200223165905"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/SettMechaKingdoms_Death_7.ogg/revision/latest?cb=20200223165917"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/SettMechaKingdoms_Death_5.ogg/revision/latest?cb=20200223165913"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/SettMechaKingdoms_Death_2.ogg/revision/latest?cb=20200223165907"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/SettMechaKingdoms_Death_8.ogg/revision/latest?cb=20200223165919"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/SettMechaKingdoms_Death_3.ogg/revision/latest?cb=20200223165909"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/SettMechaKingdoms_Death_4.ogg/revision/latest?cb=20200223165911"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/SettOriginal_Death_1.ogg/revision/latest?cb=20200223171901"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/SettOriginal_Death_2.ogg/revision/latest?cb=20200223171903"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/SettOriginal_Death_3.ogg/revision/latest?cb=20200223171905"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/SettOriginal_Death_4.ogg/revision/latest?cb=20200223171907"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/SettOriginal_Death_5.ogg/revision/latest?cb=20200223171909"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/SettOriginal_Death_6.ogg/revision/latest?cb=20200223171911"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/SettOriginal_Death_7.ogg/revision/latest?cb=20200223171913"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/SettOriginal_Death_8.ogg/revision/latest?cb=20200223171915"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/SettOriginal_Death_9.ogg/revision/latest?cb=20200223171917"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/SettOriginal_Death_10.ogg/revision/latest?cb=20200223171919"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/SettOriginal_Death_11.ogg/revision/latest?cb=20200223171921"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/SettMechaKingdoms_Death_9.ogg/revision/latest?cb=20200223165921"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/SettMechaKingdoms_Death_10.ogg/revision/latest?cb=20200223165923"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/SettMechaKingdoms_Death_6.ogg/revision/latest?cb=20200223165915"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/SettMechaKingdoms_Death_11.ogg/revision/latest?cb=20200223165925"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/SettMechaKingdoms_Death_1.ogg/revision/latest?cb=20200223165905"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/SettMechaKingdoms_Death_7.ogg/revision/latest?cb=20200223165917"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/SettMechaKingdoms_Death_5.ogg/revision/latest?cb=20200223165913"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/SettMechaKingdoms_Death_2.ogg/revision/latest?cb=20200223165907"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/SettMechaKingdoms_Death_8.ogg/revision/latest?cb=20200223165919"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/SettMechaKingdoms_Death_3.ogg/revision/latest?cb=20200223165909"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/SettMechaKingdoms_Death_4.ogg/revision/latest?cb=20200223165911"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/SettOriginal_Death_1.ogg/revision/latest?cb=20200223171901"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/SettOriginal_Death_2.ogg/revision/latest?cb=20200223171903"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/SettOriginal_Death_3.ogg/revision/latest?cb=20200223171905"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/SettOriginal_Death_4.ogg/revision/latest?cb=20200223171907"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/SettOriginal_Death_5.ogg/revision/latest?cb=20200223171909"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/SettOriginal_Death_6.ogg/revision/latest?cb=20200223171911"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/SettOriginal_Death_7.ogg/revision/latest?cb=20200223171913"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/SettOriginal_Death_8.ogg/revision/latest?cb=20200223171915"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/SettOriginal_Death_9.ogg/revision/latest?cb=20200223171917"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/SettOriginal_Death_10.ogg/revision/latest?cb=20200223171919"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/SettOriginal_Death_11.ogg/revision/latest?cb=20200223171921"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/SettMechaKingdoms_Death_9.ogg/revision/latest?cb=20200223165921"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/SettMechaKingdoms_Death_10.ogg/revision/latest?cb=20200223165923"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/SettMechaKingdoms_Death_6.ogg/revision/latest?cb=20200223165915"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/SettMechaKingdoms_Death_11.ogg/revision/latest?cb=20200223165925"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/SettMechaKingdoms_Death_1.ogg/revision/latest?cb=20200223165905"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/SettMechaKingdoms_Death_7.ogg/revision/latest?cb=20200223165917"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/SettMechaKingdoms_Death_5.ogg/revision/latest?cb=20200223165913"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/SettMechaKingdoms_Death_2.ogg/revision/latest?cb=20200223165907"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/SettMechaKingdoms_Death_8.ogg/revision/latest?cb=20200223165919"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/SettMechaKingdoms_Death_3.ogg/revision/latest?cb=20200223165909"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/SettMechaKingdoms_Death_4.ogg/revision/latest?cb=20200223165911"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/SettOriginal_Death_1.ogg/revision/latest?cb=20200223171901"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/SettOriginal_Death_2.ogg/revision/latest?cb=20200223171903"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/SettOriginal_Death_3.ogg/revision/latest?cb=20200223171905"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/SettOriginal_Death_4.ogg/revision/latest?cb=20200223171907"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/SettOriginal_Death_5.ogg/revision/latest?cb=20200223171909"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/SettOriginal_Death_6.ogg/revision/latest?cb=20200223171911"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/SettOriginal_Death_7.ogg/revision/latest?cb=20200223171913"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/SettOriginal_Death_8.ogg/revision/latest?cb=20200223171915"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/SettOriginal_Death_9.ogg/revision/latest?cb=20200223171917"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/SettOriginal_Death_10.ogg/revision/latest?cb=20200223171919"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/SettOriginal_Death_11.ogg/revision/latest?cb=20200223171921"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/SettMechaKingdoms_Death_9.ogg/revision/latest?cb=20200223165921"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/SettMechaKingdoms_Death_10.ogg/revision/latest?cb=20200223165923"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/SettMechaKingdoms_Death_6.ogg/revision/latest?cb=20200223165915"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/SettMechaKingdoms_Death_11.ogg/revision/latest?cb=20200223165925"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/SettMechaKingdoms_Death_1.ogg/revision/latest?cb=20200223165905"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/SettMechaKingdoms_Death_7.ogg/revision/latest?cb=20200223165917"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/SettMechaKingdoms_Death_5.ogg/revision/latest?cb=20200223165913"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/SettMechaKingdoms_Death_2.ogg/revision/latest?cb=20200223165907"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/SettMechaKingdoms_Death_8.ogg/revision/latest?cb=20200223165919"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/SettMechaKingdoms_Death_3.ogg/revision/latest?cb=20200223165909"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/SettMechaKingdoms_Death_4.ogg/revision/latest?cb=20200223165911"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/SettOriginal_Death_1.ogg/revision/latest?cb=20200223171901"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/SettOriginal_Death_2.ogg/revision/latest?cb=20200223171903"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/SettOriginal_Death_3.ogg/revision/latest?cb=20200223171905"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/SettOriginal_Death_4.ogg/revision/latest?cb=20200223171907"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/SettOriginal_Death_5.ogg/revision/latest?cb=20200223171909"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/SettOriginal_Death_6.ogg/revision/latest?cb=20200223171911"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/SettOriginal_Death_7.ogg/revision/latest?cb=20200223171913"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/SettOriginal_Death_8.ogg/revision/latest?cb=20200223171915"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/SettOriginal_Death_9.ogg/revision/latest?cb=20200223171917"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/SettOriginal_Death_10.ogg/revision/latest?cb=20200223171919"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/SettOriginal_Death_11.ogg/revision/latest?cb=20200223171921"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/SettMechaKingdoms_Death_9.ogg/revision/latest?cb=20200223165921"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/SettMechaKingdoms_Death_10.ogg/revision/latest?cb=20200223165923"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/SettMechaKingdoms_Death_6.ogg/revision/latest?cb=20200223165915"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/SettMechaKingdoms_Death_11.ogg/revision/latest?cb=20200223165925"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/SettMechaKingdoms_Death_1.ogg/revision/latest?cb=20200223165905"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/SettMechaKingdoms_Death_7.ogg/revision/latest?cb=20200223165917"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/SettMechaKingdoms_Death_5.ogg/revision/latest?cb=20200223165913"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/SettMechaKingdoms_Death_2.ogg/revision/latest?cb=20200223165907"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/SettMechaKingdoms_Death_8.ogg/revision/latest?cb=20200223165919"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/SettMechaKingdoms_Death_3.ogg/revision/latest?cb=20200223165909"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/SettMechaKingdoms_Death_4.ogg/revision/latest?cb=20200223165911"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/SettOriginal_Death_1.ogg/revision/latest?cb=20200223171901"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/SettOriginal_Death_2.ogg/revision/latest?cb=20200223171903"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/SettOriginal_Death_3.ogg/revision/latest?cb=20200223171905"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/SettOriginal_Death_4.ogg/revision/latest?cb=20200223171907"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/SettOriginal_Death_5.ogg/revision/latest?cb=20200223171909"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/SettOriginal_Death_6.ogg/revision/latest?cb=20200223171911"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/SettOriginal_Death_7.ogg/revision/latest?cb=20200223171913"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/SettOriginal_Death_8.ogg/revision/latest?cb=20200223171915"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/SettOriginal_Death_9.ogg/revision/latest?cb=20200223171917"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/SettOriginal_Death_10.ogg/revision/latest?cb=20200223171919"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/SettOriginal_Death_11.ogg/revision/latest?cb=20200223171921"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/SettMechaKingdoms_Death_9.ogg/revision/latest?cb=20200223165921"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/SettMechaKingdoms_Death_10.ogg/revision/latest?cb=20200223165923"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/SettMechaKingdoms_Death_6.ogg/revision/latest?cb=20200223165915"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/SettMechaKingdoms_Death_11.ogg/revision/latest?cb=20200223165925"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/SettMechaKingdoms_Death_1.ogg/revision/latest?cb=20200223165905"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/SettMechaKingdoms_Death_7.ogg/revision/latest?cb=20200223165917"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/SettMechaKingdoms_Death_5.ogg/revision/latest?cb=20200223165913"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/SettMechaKingdoms_Death_2.ogg/revision/latest?cb=20200223165907"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/SettMechaKingdoms_Death_8.ogg/revision/latest?cb=20200223165919"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/SettMechaKingdoms_Death_3.ogg/revision/latest?cb=20200223165909"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/SettMechaKingdoms_Death_4.ogg/revision/latest?cb=20200223165911"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/SettOriginal_Death_1.ogg/revision/latest?cb=20200223171901"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/SettOriginal_Death_2.ogg/revision/latest?cb=20200223171903"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/SettOriginal_Death_3.ogg/revision/latest?cb=20200223171905"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/SettOriginal_Death_4.ogg/revision/latest?cb=20200223171907"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/SettOriginal_Death_5.ogg/revision/latest?cb=20200223171909"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/SettOriginal_Death_6.ogg/revision/latest?cb=20200223171911"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/SettOriginal_Death_7.ogg/revision/latest?cb=20200223171913"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/SettOriginal_Death_8.ogg/revision/latest?cb=20200223171915"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/SettOriginal_Death_9.ogg/revision/latest?cb=20200223171917"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/SettOriginal_Death_10.ogg/revision/latest?cb=20200223171919"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/SettOriginal_Death_11.ogg/revision/latest?cb=20200223171921"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/SettMechaKingdoms_Death_9.ogg/revision/latest?cb=20200223165921"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/SettMechaKingdoms_Death_10.ogg/revision/latest?cb=20200223165923"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/SettMechaKingdoms_Death_6.ogg/revision/latest?cb=20200223165915"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/SettMechaKingdoms_Death_11.ogg/revision/latest?cb=20200223165925"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/SettMechaKingdoms_Death_1.ogg/revision/latest?cb=20200223165905"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/SettMechaKingdoms_Death_7.ogg/revision/latest?cb=20200223165917"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/SettMechaKingdoms_Death_5.ogg/revision/latest?cb=20200223165913"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/SettMechaKingdoms_Death_2.ogg/revision/latest?cb=20200223165907"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/SettMechaKingdoms_Death_8.ogg/revision/latest?cb=20200223165919"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/SettMechaKingdoms_Death_3.ogg/revision/latest?cb=20200223165909"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/SettMechaKingdoms_Death_4.ogg/revision/latest?cb=20200223165911"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/SettOriginal_Death_1.ogg/revision/latest?cb=20200223171901"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/SettOriginal_Death_2.ogg/revision/latest?cb=20200223171903"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/SettOriginal_Death_3.ogg/revision/latest?cb=20200223171905"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/SettOriginal_Death_4.ogg/revision/latest?cb=20200223171907"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/SettOriginal_Death_5.ogg/revision/latest?cb=20200223171909"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/SettOriginal_Death_6.ogg/revision/latest?cb=20200223171911"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/SettOriginal_Death_7.ogg/revision/latest?cb=20200223171913"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/SettOriginal_Death_8.ogg/revision/latest?cb=20200223171915"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/SettOriginal_Death_9.ogg/revision/latest?cb=20200223171917"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/SettOriginal_Death_10.ogg/revision/latest?cb=20200223171919"
+                    },
+                    {
+                         "audio_name": "SettOriginal_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/SettOriginal_Death_11.ogg/revision/latest?cb=20200223171921"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_9.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/SettMechaKingdoms_Death_9.ogg/revision/latest?cb=20200223165921"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/SettMechaKingdoms_Death_10.ogg/revision/latest?cb=20200223165923"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/SettMechaKingdoms_Death_6.ogg/revision/latest?cb=20200223165915"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_11.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/SettMechaKingdoms_Death_11.ogg/revision/latest?cb=20200223165925"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/SettMechaKingdoms_Death_1.ogg/revision/latest?cb=20200223165905"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/SettMechaKingdoms_Death_7.ogg/revision/latest?cb=20200223165917"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/SettMechaKingdoms_Death_5.ogg/revision/latest?cb=20200223165913"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/SettMechaKingdoms_Death_2.ogg/revision/latest?cb=20200223165907"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_8.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/SettMechaKingdoms_Death_8.ogg/revision/latest?cb=20200223165919"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/SettMechaKingdoms_Death_3.ogg/revision/latest?cb=20200223165909"
+                    },
+                    {
+                         "audio_name": "SettMechaKingdoms_Death_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/SettMechaKingdoms_Death_4.ogg/revision/latest?cb=20200223165911"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Death"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Respawn_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/SettOriginal_Respawn_1.ogg/revision/latest?cb=20200223172223"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Respawn_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/SettMechaKingdoms_Respawn_3.ogg/revision/latest?cb=20200223171613"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Respawn_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/SettOriginal_Respawn_2.ogg/revision/latest?cb=20200223172225"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Respawn_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/SettMechaKingdoms_Respawn_4.ogg/revision/latest?cb=20200223171615"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Respawn_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/SettOriginal_Respawn_3.ogg/revision/latest?cb=20200223172227"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Respawn_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/26/SettMechaKingdoms_Respawn_5.ogg/revision/latest?cb=20200223171617"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Respawn_4.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/SettOriginal_Respawn_4.ogg/revision/latest?cb=20200223172229"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Respawn_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/SettMechaKingdoms_Respawn_6.ogg/revision/latest?cb=20200223171620"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Respawn_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/SettOriginal_Respawn_5.ogg/revision/latest?cb=20200223172231"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Respawn_2.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/SettMechaKingdoms_Respawn_2.ogg/revision/latest?cb=20200223171611"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Respawn_6.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/SettOriginal_Respawn_6.ogg/revision/latest?cb=20200223172233"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Respawn_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/SettMechaKingdoms_Respawn_7.ogg/revision/latest?cb=20200223171623"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettOriginal_Respawn_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6a/SettOriginal_Respawn_7.ogg/revision/latest?cb=20200223172235"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettOriginal_Respawn"
           },
           {
-               "audio_list": [],
+               "audio_list": [
+                    {
+                         "audio_name": "SettMechaKingdoms_Respawn_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/SettMechaKingdoms_Respawn_1.ogg/revision/latest?cb=20200223171609"
+                    }
+               ],
                "champion_image_url": "",
                "champion_name": "SettMechaKingdoms_Respawn"
           }

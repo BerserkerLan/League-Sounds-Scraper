@@ -1778,6 +1778,16 @@
           {
                "audio_list": [
                     {
+                         "audio_name": "Garen_GodKing_TauntDariusSkin15.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Garen_GodKing_TauntDariusSkin15.ogg/revision/latest?cb=20210601220356"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Garen_GodKing"
+          },
+          {
+               "audio_list": [
+                    {
                          "audio_name": "Darius_God-King188.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Darius_God-King188.ogg/revision/latest?cb=20180618144702"
                     },
@@ -2998,6 +3008,26 @@
                ],
                "champion_image_url": "",
                "champion_name": "Darius_God-King163"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Quinn_Original"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Draven_Original"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Katarina_Original"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Vi_Original"
           }
      ]
 }

@@ -698,6 +698,11 @@
           {
                "audio_list": [],
                "champion_image_url": "",
+               "champion_name": "Taric_recall02"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
                "champion_name": "Taric_itemAegisOfTheLegion01"
           },
           {
@@ -914,11 +919,6 @@
                "audio_list": [],
                "champion_image_url": "",
                "champion_name": "Taric_recall01"
-          },
-          {
-               "audio_list": [],
-               "champion_image_url": "",
-               "champion_name": "Taric_recall02"
           },
           {
                "audio_list": [],

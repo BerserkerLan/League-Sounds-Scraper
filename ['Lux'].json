@@ -11693,6 +11693,10 @@
                     {
                          "audio_name": "Lux_CosmicBeacon_Death_1.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Lux_CosmicBeacon_Death_1.ogg/revision/latest?cb=20200316194052"
+                    },
+                    {
+                         "audio_name": "Lux_CosmicBeacon_FirstEncounterXerathSkin05.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Lux_CosmicBeacon_FirstEncounterXerathSkin05.ogg/revision/latest?cb=20200316194259"
                     }
                ],
                "champion_image_url": "",
@@ -25001,6 +25005,10 @@
                     {
                          "audio_name": "Lux_DarkCosmic_Death_2.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Lux_DarkCosmic_Death_2.ogg/revision/latest?cb=20200316194903"
+                    },
+                    {
+                         "audio_name": "Lux_DarkCosmic_MoveOrder_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Lux_DarkCosmic_MoveOrder_1.ogg/revision/latest?cb=20200316195638"
                     }
                ],
                "champion_image_url": "",
@@ -29915,6 +29923,10 @@
                     {
                          "audio_name": "Lux_DarkCosmic_Death_2.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Lux_DarkCosmic_Death_2.ogg/revision/latest?cb=20200316194903"
+                    },
+                    {
+                         "audio_name": "Lux_DarkCosmic_MoveOrderLong_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Lux_DarkCosmic_MoveOrderLong_0.ogg/revision/latest?cb=20200316195753"
                     }
                ],
                "champion_image_url": "",
@@ -32279,6 +32291,10 @@
                     {
                          "audio_name": "Lux_DarkCosmic_Death_2.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Lux_DarkCosmic_Death_2.ogg/revision/latest?cb=20200316194903"
+                    },
+                    {
+                         "audio_name": "Lux_DarkCosmic_FirstEncounterMordekaiserSkin06.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Lux_DarkCosmic_FirstEncounterMordekaiserSkin06.ogg/revision/latest?cb=20200316195134"
                     }
                ],
                "champion_image_url": "",
@@ -34163,6 +34179,10 @@
                     {
                          "audio_name": "Lux_DarkCosmic_Death_2.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Lux_DarkCosmic_Death_2.ogg/revision/latest?cb=20200316194903"
+                    },
+                    {
+                         "audio_name": "Lux_DarkCosmic_TauntGeneral_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Lux_DarkCosmic_TauntGeneral_1.ogg/revision/latest?cb=20200316195844"
                     }
                ],
                "champion_image_url": "",
@@ -42941,6 +42961,10 @@
                     {
                          "audio_name": "Lux_DarkCosmic_Death_2.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Lux_DarkCosmic_Death_2.ogg/revision/latest?cb=20200316194903"
+                    },
+                    {
+                         "audio_name": "Lux_DarkCosmic_LuxMaliceCannon_cast_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Lux_DarkCosmic_LuxMaliceCannon_cast_3.ogg/revision/latest?cb=20200316195621"
                     }
                ],
                "champion_image_url": "",
@@ -43417,6 +43441,10 @@
                     {
                          "audio_name": "Lux_DarkCosmic_Death_2.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Lux_DarkCosmic_Death_2.ogg/revision/latest?cb=20200316194903"
+                    },
+                    {
+                         "audio_name": "Lux_DarkCosmic_KillChampionGeneral_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Lux_DarkCosmic_KillChampionGeneral_0.ogg/revision/latest?cb=20200316195445"
                     }
                ],
                "champion_image_url": "",
@@ -48875,6 +48903,66 @@
                ],
                "champion_image_url": "",
                "champion_name": "Lux_DarkCosmic"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Lux_taunt1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Lux_taunt2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Lux_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Lux_joke3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Lux_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Lux_joke4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Aatrox_Original01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Brand_joke"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Lissandra_Original"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Xerath_Select"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Mordekaiser_Original"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Qiyana_147"
           }
      ]
 }

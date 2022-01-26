@@ -309,6 +309,30 @@
                "audio_list": [],
                "champion_image_url": "",
                "champion_name": "Gnar_transform01"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Garen_Original_W_5.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Garen_Original_W_5.ogg/revision/latest?cb=20210601221205"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Garen_Original"
+          },
+          {
+               "audio_list": [
+                    {
+                         "audio_name": "Garen_GodKing_TauntResponseGnar.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Garen_GodKing_TauntResponseGnar.ogg/revision/latest?cb=20210601220404"
+                    },
+                    {
+                         "audio_name": "Garen_GodKing_TauntResponseGnar.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Garen_GodKing_TauntResponseGnar.ogg/revision/latest?cb=20210601220404"
+                    }
+               ],
+               "champion_image_url": "",
+               "champion_name": "Garen_GodKing"
           }
      ]
 }

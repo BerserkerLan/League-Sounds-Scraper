@@ -1275,6 +1275,10 @@
                     {
                          "audio_name": "Irelia_299.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Irelia_299.ogg/revision/latest?cb=20180329192036"
+                    },
+                    {
+                         "audio_name": "Irelia_299.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Irelia_299.ogg/revision/latest?cb=20180329192036"
                     }
                ],
                "champion_image_url": "",
@@ -2372,6 +2376,10 @@
           },
           {
                "audio_list": [
+                    {
+                         "audio_name": "Irelia_002.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Irelia_002.ogg/revision/latest?cb=20180321084027"
+                    },
                     {
                          "audio_name": "Irelia_002.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Irelia_002.ogg/revision/latest?cb=20180321084027"
@@ -6039,6 +6047,66 @@
                ],
                "champion_image_url": "",
                "champion_name": "Irelia_314"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Irelia_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Irelia_joke2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Irelia_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Annie_move2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Evelynn_move1"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Ezreal_move4"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Thresh_Original"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Irelia_move5"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Irelia_move3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Irelia_attack3"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Lucian_utlimate01"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Renekton_Original"
           }
      ]
 }

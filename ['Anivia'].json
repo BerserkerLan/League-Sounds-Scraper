@@ -12903,6 +12903,10 @@
                     {
                          "audio_name": "Anivia_Blackfrost_Death_3.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Anivia_Blackfrost_Death_3.ogg/revision/latest?cb=20201121194207"
+                    },
+                    {
+                         "audio_name": "Anivia_Blackfrost_Move_7.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Anivia_Blackfrost_Move_7.ogg/revision/latest?cb=20201121194309"
                     }
                ],
                "champion_image_url": "",
@@ -13993,6 +13997,10 @@
                     {
                          "audio_name": "Anivia_Blackfrost_Death_3.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Anivia_Blackfrost_Death_3.ogg/revision/latest?cb=20201121194207"
+                    },
+                    {
+                         "audio_name": "Anivia_Blackfrost_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Anivia_Blackfrost_Move_3.ogg/revision/latest?cb=20201121194257"
                     }
                ],
                "champion_image_url": "",
@@ -21211,6 +21219,14 @@
                     {
                          "audio_name": "Anivia_Blackfrost_Death_3.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Anivia_Blackfrost_Death_3.ogg/revision/latest?cb=20201121194207"
+                    },
+                    {
+                         "audio_name": "Anivia_Blackfrost_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Anivia_Blackfrost_Attack_0.ogg/revision/latest?cb=20201121194120"
+                    },
+                    {
+                         "audio_name": "Anivia_Blackfrost_Attack_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Anivia_Blackfrost_Attack_0.ogg/revision/latest?cb=20201121194120"
                     }
                ],
                "champion_image_url": "",

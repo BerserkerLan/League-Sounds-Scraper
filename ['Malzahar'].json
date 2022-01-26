@@ -5,6 +5,10 @@
                     {
                          "audio_name": "Malzahar_Select.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Malzahar_Select.ogg/revision/latest?cb=20200711204456"
+                    },
+                    {
+                         "audio_name": "Malzahar_Select.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Malzahar_Select.ogg/revision/latest?cb=20200711204456"
                     }
                ],
                "champion_image_url": "",
@@ -239,6 +243,11 @@
                "audio_list": [],
                "champion_image_url": "",
                "champion_name": "BattleBossMalzahar_attack6"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Akali_attack1"
           }
      ]
 }

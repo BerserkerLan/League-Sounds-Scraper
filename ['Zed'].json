@@ -185,6 +185,10 @@
                     {
                          "audio_name": "Zed_Original_Death_2.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Zed_Original_Death_2.ogg/revision/latest?cb=20200316210016"
+                    },
+                    {
+                         "audio_name": "Zed_Original_Move_1.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Zed_Original_Move_1.ogg/revision/latest?cb=20200316210040"
                     }
                ],
                "champion_image_url": "",
@@ -5285,6 +5289,10 @@
                     {
                          "audio_name": "Zed_Original_Death_2.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Zed_Original_Death_2.ogg/revision/latest?cb=20200316210016"
+                    },
+                    {
+                         "audio_name": "Zed_Original_Move_3.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Zed_Original_Move_3.ogg/revision/latest?cb=20200316210044"
                     }
                ],
                "champion_image_url": "",
@@ -7341,6 +7349,10 @@
                     {
                          "audio_name": "Zed_Original_Death_2.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Zed_Original_Death_2.ogg/revision/latest?cb=20200316210016"
+                    },
+                    {
+                         "audio_name": "Zed_Original_JokeWin.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Zed_Original_JokeWin.ogg/revision/latest?cb=20200316210028"
                     }
                ],
                "champion_image_url": "",
@@ -37003,6 +37015,10 @@
                     {
                          "audio_name": "Zed_GalaxySlayer_Death_0.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Zed_GalaxySlayer_Death_0.ogg/revision/latest?cb=20200316205500"
+                    },
+                    {
+                         "audio_name": "Zed_GalaxySlayer_LongMove_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Zed_GalaxySlayer_LongMove_10.ogg/revision/latest?cb=20200316205711"
                     }
                ],
                "champion_image_url": "",
@@ -37343,6 +37359,10 @@
                     {
                          "audio_name": "Zed_GalaxySlayer_Death_0.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Zed_GalaxySlayer_Death_0.ogg/revision/latest?cb=20200316205500"
+                    },
+                    {
+                         "audio_name": "Zed_GalaxySlayer_LongMove_10.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Zed_GalaxySlayer_LongMove_10.ogg/revision/latest?cb=20200316205711"
                     }
                ],
                "champion_image_url": "",
@@ -53287,6 +53307,10 @@
                     {
                          "audio_name": "Zed_GalaxySlayer_Death_0.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Zed_GalaxySlayer_Death_0.ogg/revision/latest?cb=20200316205500"
+                    },
+                    {
+                         "audio_name": "Zed_GalaxySlayer_R_0.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Zed_GalaxySlayer_R_0.ogg/revision/latest?cb=20200316205832"
                     }
                ],
                "champion_image_url": "",
@@ -53457,6 +53481,10 @@
                     {
                          "audio_name": "Zed_GalaxySlayer_Death_0.ogg",
                          "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Zed_GalaxySlayer_Death_0.ogg/revision/latest?cb=20200316205500"
+                    },
+                    {
+                         "audio_name": "Zed_GalaxySlayer_KillZed.ogg",
+                         "audio_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Zed_GalaxySlayer_KillZed.ogg/revision/latest?cb=20200316205635"
                     }
                ],
                "champion_image_url": "",
@@ -58189,6 +58217,11 @@
                ],
                "champion_image_url": "",
                "champion_name": "Zed_GalaxySlayer"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Shen_Original"
           }
      ]
 }

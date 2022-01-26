@@ -729,6 +729,21 @@
                "audio_list": [],
                "champion_image_url": "",
                "champion_name": "Pantheon02_respawn"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon_attack2"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon_taunt"
+          },
+          {
+               "audio_list": [],
+               "champion_image_url": "",
+               "champion_name": "Pantheon_joke1"
           }
      ]
 }
